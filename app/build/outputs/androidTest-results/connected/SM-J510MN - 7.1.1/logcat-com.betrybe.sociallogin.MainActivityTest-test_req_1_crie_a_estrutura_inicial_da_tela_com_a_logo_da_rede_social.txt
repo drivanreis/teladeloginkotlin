@@ -1,0 +1,312 @@
+09-04 21:37:04.568 10329 10346 I TestRunner: started: test_req_1_crie_a_estrutura_inicial_da_tela_com_a_logo_da_rede_social(com.betrybe.sociallogin.MainActivityTest)
+09-04 21:37:04.585 10329 10346 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+09-04 21:37:04.598 10329 10336 I art     : Ignoring second debugger -- accepting and dropping
+09-04 21:37:04.605   672  4672 D InputDispatcher: Focused application set to: xxxx
+09-04 21:37:04.606   672  4672 D InputDispatcher: Focus left window: 2932
+09-04 21:37:04.611  2932  2932 V Launcher: Launcher.onPause()
+09-04 21:37:04.616   672   741 D InputTransport: Input channel constructed: fd=253
+09-04 21:37:04.616   672   741 D InputTransport: Input channel constructed: fd=364
+09-04 21:37:04.617   672   741 D ViewRootImpl@385f51f[sociallogin]: setView = DecorView@4e03aca[sociallogin] touchMode=false
+09-04 21:37:04.619   672   741 D ViewRootImpl@385f51f[sociallogin]: dispatchAttachedToWindow
+09-04 21:37:04.621   295   295 I SurfaceFlinger: id=369 createSurf (1x1),1 flag=404, Starting com.betrybe.sociallogin
+09-04 21:37:04.637   672   741 D ViewRootImpl@385f51f[sociallogin]: Relayout returned: oldFrame=[0,0][0,0] newFrame=[0,0][720,1280] result=0x26 surface={isValid=true 1596876800} surfaceGenerationChanged=true
+09-04 21:37:04.655  2932  2932 D ViewRootImpl@33bb50a[LauncherActivity]: MSG_WINDOW_FOCUS_CHANGED 0
+09-04 21:37:04.659  2372  2397 D ForegroundUtils: could not check pending caller
+09-04 21:37:04.668 10329 10329 D LifecycleMonitor: Lifecycle status change: com.betrybe.sociallogin.MainActivity@5207bda in: PRE_ON_CREATE
+09-04 21:37:04.668 10329 10329 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+09-04 21:37:04.674  2019  2427 D WallpaperService: resized:[frame]Rect(0, 0 - 1280, 1280) [newConfig] is null
+09-04 21:37:04.675  2019  2019 D WallpaperService: MSG_WINDOW_RESIZED
+09-04 21:37:04.675  2019  2019 D WallpaperService: updateSurface forceRelayout=true redrawNeeded=false myWidth=1280 myHeight=1280 fixedSize=true x = 0 y = 0 mWidth=1280 mHeight=1280
+09-04 21:37:04.675  2019  2019 V WallpaperService: Changes: creating=false format=false size=false
+09-04 21:37:04.680  2932  2932 I Launcher: onWindowVisibilityChanged : false
+09-04 21:37:04.689  2019  2019 V WallpaperService: New surface=Surface(name=null)/@0xe0daedf, frame=Rect(0, 0 - 1280, 1280),relayoutResult=0, mConfiguration={0 1.0 themeSeq = 0 showBtnBg = -1 ?mcc?mnc ?localeList ?layoutDir ?swdp ?wdp ?hdp ?density ?lsize ?long ?orien ?uimode ?night ?touch ?keyb/?/? ?nav/?}
+09-04 21:37:04.689  2019  2019 V WallpaperService: Wallpaper size has changed : 1280, 1280
+09-04 21:37:04.689  2019  2019 D ImageWallpaper: onOffsetsChanged: xOffset=0.0, yOffset=0.0, xOffsetStep=0.0, yOffsetStep=0.0, xPixels=0, yPixels=0
+09-04 21:37:04.691  2019  2019 D ImageWallpaper: drawFrame=false rotation=0 mLastRotation=0 deviceWidth=720 deviceHeight=1280
+09-04 21:37:04.691  2019  2019 D ImageWallpaper: drawFrame:[frame.width()]1280[frame.height()]1280
+09-04 21:37:04.691  2019  2019 D ImageWallpaper: surfaceDimensionsChanged=false mLastSurfaceRotation=0 mDisplayWidth=-1 mDisplayHeight=-1
+09-04 21:37:04.691  2019  2019 D ImageWallpaper: redrawNeeded = false, mOffsetsChanged = false
+09-04 21:37:04.691  2019  2019 D ImageWallpaper: Suppressed drawFrame since redraw is not needed and offsets have not changed.
+09-04 21:37:04.706  2932  2932 D ViewRootImpl@33bb50a[LauncherActivity]: mHardwareRenderer.destroy()#1
+09-04 21:37:04.716  2932  2932 D ViewRootImpl@33bb50a[LauncherActivity]: Relayout returned: oldFrame=[0,0][720,1280] newFrame=[0,0][720,1280] result=0x4 surface={isValid=false 0} surfaceGenerationChanged=true
+09-04 21:37:04.717 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:04.719 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:04.722 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:04.723 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:04.723 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:04.724 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:04.724 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:04.729 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:04.750 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:04.752 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:04.755 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:04.756 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:04.757 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:04.758 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:04.758 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:04.764 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:04.770   672  2809 D PackageManager: getComponentMetadataForIconTray : androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity does not exist in mServices
+09-04 21:37:04.770   672  2809 D PackageManager: getComponentMetadataForIconTray : androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity does not exist in mProviders
+09-04 21:37:04.770   672  2809 D PackageManager: getComponentMetadataForIconTray : androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity does not exist in mReceivers
+09-04 21:37:04.771  2019  2019 D ApplicationPackageManager: updateItemMetaDataForFixedIconScale: package: com.betrybe.sociallogin.test
+09-04 21:37:04.772   672  4680 D PackageManager: getSelectedMetaData : packageName(com.betrybe.sociallogin.test) or Metadata strings {[Ljava.lang.String;@eab6917}
+09-04 21:37:04.772   295   295 D SurfaceFlinger:   Display[0] configurations (* current):
+09-04 21:37:04.772   295   295 D SurfaceFlinger:     * 0: 720x1280, xdpi=281.352997, ydpi=282.713013, refresh=16666667
+09-04 21:37:04.772   295   295 D SurfaceFlinger:   numHwLayers=5, flags=00000000
+09-04 21:37:04.772   295   295 D SurfaceFlinger:     type   |  handle  | hint | flag | tr | blnd |   format    |     source crop (l,t,r,b)      |          frame         | name
+09-04 21:37:04.772   295   295 D SurfaceFlinger: -----------+----------+------+------+----+------+-------------+--------------------------------+------------------------+------
+09-04 21:37:04.772   295   295 D SurfaceFlinger:        HWC | aa722da0 | 0002 | 0000 | 00 | 0100 | RGB_888     |  280.0,    0.0, 1000.0, 1280.0 |    0,    0,  720, 1280 | com.android.systemui.ImageWallpaper
+09-04 21:37:04.772   295   295 D SurfaceFlinger:        HWC | a6a9da20 | 0002 | 0000 | 00 | 0105 | RGBA_8888   |   20.0,   36.0,  699.0, 1243.0 |    0,    0,  720, 1280 | com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity
+09-04 21:37:04.772   295   295 D SurfaceFlinger:       GLES | a6a9d780 | 0000 | 0000 | 00 | 0100 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |  132,  235,  587, 1043 | Starting com.betrybe.sociallogin
+09-04 21:37:04.772   295   295 D SurfaceFlinger:       GLES | a6a9d120 | 0000 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0,   54.0 |    0,
+09-04 21:37:04.772   295   295 D SurfaceFlinger:    0,  720,   54 | StatusBar
+09-04 21:37:04.772   295   295 D SurfaceFlinger:  FB TARGET | aa722620 | 0000 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | HWC_FRAMEBUFFER_TARGET
+09-04 21:37:04.772  2019  2019 I ApplicationPackageManager: load=com.betrybe.sociallogin.test, bg=144-144, dr=108-108, forDefault=true, density=0
+09-04 21:37:04.773 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:04.774  2019  2019 I ApplicationPackageManager: scaled rate=0.72, size=108, alpha=9, hold=102
+09-04 21:37:04.774  2019  2019 D ApplicationPackageManager: iconScale: getScale(): 0.72 getAlpha(): 9
+09-04 21:37:04.779  2019  2019 I ApplicationPackageManager: load=com.betrybe.sociallogin.test-contain, bg=124-124, dr=108-108
+09-04 21:37:04.788 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:04.801 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:04.813 10329 10329 D LifecycleMonitor: Lifecycle status change: com.betrybe.sociallogin.MainActivity@5207bda in: CREATED
+09-04 21:37:04.814 10329 10329 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.betrybe.sociallogin.MainActivity@5207bda
+09-04 21:37:04.816 10329 10329 D LifecycleMonitor: Lifecycle status change: com.betrybe.sociallogin.MainActivity@5207bda in: STARTED
+09-04 21:37:04.817 10329 10329 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.betrybe.sociallogin.MainActivity@5207bda
+09-04 21:37:04.822 10329 10329 D LifecycleMonitor: Lifecycle status change: com.betrybe.sociallogin.MainActivity@5207bda in: RESUMED
+09-04 21:37:04.823 10329 10329 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.betrybe.sociallogin.MainActivity@5207bda
+09-04 21:37:04.828 10329 10329 D ViewRootImpl@caedba8[MainActivity]: ThreadedRenderer.create() translucent=false
+09-04 21:37:04.830   672   695 D InputTransport: Input channel constructed: fd=391
+09-04 21:37:04.830   672   695 D InputTransport: Input channel constructed: fd=405
+09-04 21:37:04.831   672   695 D InputTransport: Input channel destroyed: fd=405
+09-04 21:37:04.832 10329 10329 D InputTransport: Input channel constructed: fd=69
+09-04 21:37:04.833 10329 10329 D ViewRootImpl@caedba8[MainActivity]: setView = DecorView@950e6c1[MainActivity] touchMode=false
+09-04 21:37:04.834   672  4678 D ActivityManager: post active user change for 0 fullscreen true isHomeActivity() false
+09-04 21:37:04.842 10329 10329 D ViewRootImpl@caedba8[MainActivity]: dispatchAttachedToWindow
+09-04 21:37:04.851   295   295 I SurfaceFlinger: id=370 createSurf (1x1),1 flag=404, com.betrybe.sociallogin/com.betrybe.sociallogin.MainActivity
+09-04 21:37:04.864   672  2422 D InputDispatcher: Focus entered window: 10329
+09-04 21:37:04.872 10329 10329 D ViewRootImpl@caedba8[MainActivity]: Relayout returned: oldFrame=[0,0][0,0] newFrame=[0,0][720,1280] result=0x26 surface={isValid=true -2066821120} surfaceGenerationChanged=true
+09-04 21:37:04.872 10329 10329 D ViewRootImpl@caedba8[MainActivity]: mHardwareRenderer.initialize() mSurface={isValid=true -2066821120} hwInitialized=true
+09-04 21:37:04.888 10329 10329 D ViewRootImpl@caedba8[MainActivity]: MSG_RESIZED_REPORT: frame=Rect(0, 0 - 720, 1280) ci=Rect(0, 54 - 0, 0) vi=Rect(0, 54 - 0, 0) or=1
+09-04 21:37:04.889 10329 10329 D ViewRootImpl@caedba8[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 1
+09-04 21:37:04.889 10329 10329 D ViewRootImpl@caedba8[MainActivity]: mHardwareRenderer.initializeIfNeeded()#2 mSurface={isValid=true -2066821120}
+09-04 21:37:04.901 10329 10329 V InputMethodManager: Starting input: tba=android.view.inputmethod.EditorInfo@6400231 nm : com.betrybe.sociallogin ic=null
+09-04 21:37:04.902 10329 10329 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+09-04 21:37:04.903   672  1880 D InputMethodManagerService: windowGainedFocus : mCurrentFocusedUserId - 0 and mSecureKeypadEnabled-false
+09-04 21:37:04.903   672  1880 V InputMethodManagerService: windowGainedFocus : reason=WINDOW_FOCUS_GAIN client=android.os.BinderProxy@8aa5e22 inputContext=null missingMethods= attribute=android.view.inputmethod.EditorInfo@1737fb3 nm = com.betrybe.sociallogin controlFlags=#105 softInputMode=#120 windowFlags=#81810100
+09-04 21:37:04.904   672  1880 V InputMethodManagerService: Unspecified window will hide input
+09-04 21:37:04.904   672  1880 V InputMethodManagerService: hideCurrentInputLocked : shouldHideSoftInput is false
+09-04 21:37:04.904   672  1880 D InputMethodManagerService: isImeSwitcherDisabledPackage : false
+09-04 21:37:04.905   672  1880 D InputMethodManagerService: setCurrentInputInfo - inputContext : null eidtorInfo : android.view.inputmethod.EditorInfo@1737fb3 missingMethods : 0
+09-04 21:37:04.905   672  1880 D InputTransport: Input channel constructed: fd=405
+09-04 21:37:04.905   672  1880 D InputTransport: Input channel destroyed: fd=405
+09-04 21:37:04.905 10329 10329 D InputTransport: Input channel constructed: fd=70
+09-04 21:37:04.906  2932  2932 D InputTransport: Input channel destroyed: fd=62
+09-04 21:37:04.906 29083 29083 I SKBD    : SamsungKeypad [IMI] onStartInput - caller pid : 10329, caller uid : 10169
+09-04 21:37:04.971 10329 10329 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131230959/com.betrybe.sociallogin:id/main>
+09-04 21:37:04.982   672   741 I ActivityManager: Displayed com.betrybe.sociallogin/.MainActivity: +345ms (total +781ms)
+09-04 21:37:04.988   672   741 D ViewRootImpl@385f51f[sociallogin]: dispatchDetachedFromWindow
+09-04 21:37:04.993 10329 10329 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131230954/com.betrybe.sociallogin:id/linear_container>
+09-04 21:37:04.996   672   741 D InputTransport: Input channel destroyed: fd=253
+09-04 21:37:04.997   672   741 D InputTransport: Input channel destroyed: fd=364
+09-04 21:37:04.997   295   295 D SurfaceFlinger:   Display[0] configurations (* current):
+09-04 21:37:04.997   295   295 D SurfaceFlinger:     * 0: 720x1280, xdpi=281.352997, ydpi=282.713013, refresh=16666667
+09-04 21:37:04.997   295   295 D SurfaceFlinger:   numHwLayers=6, flags=00000000
+09-04 21:37:04.997   295   295 D SurfaceFlinger:     type   |  handle  | hint | flag | tr | blnd |   format    |     source crop (l,t,r,b)      |          frame         | name
+09-04 21:37:04.997   295   295 D SurfaceFlinger: -----------+----------+------+------+----+------+-------------+--------------------------------+------------------------+------
+09-04 21:37:04.997   295   295 D SurfaceFlinger:        HWC | aa722da0 | 0002 | 0000 | 00 | 0100 | RGB_888     |  280.0,    0.0, 1000.0, 1280.0 |    0,    0,  720, 1280 | com.android.systemui.ImageWallpaper
+09-04 21:37:04.997   295   295 D SurfaceFlinger:        HWC | a6a9da20 | 0002 | 0000 | 00 | 0105 | RGBA_8888   |  109.0,  193.0,  611.0, 1086.0 |    0,    0,  720, 1280 | com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity
+09-04 21:37:04.997   295   295 D SurfaceFlinger:       GLES | a6a9d3c0 | 0000 | 0000 | 00 | 0100 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    5,    8,  715, 1270 | com.betrybe.sociallogin/com.betrybe.sociallogin.MainActivity
+09-04 21:37:04.997   295   295 D SurfaceFlinger:       GLES | a6a9d780 | 0000 | 0000 | 00 | 0100 | RGBA_8888   |    0.0,
+09-04 21:37:04.997   295   295 D SurfaceFlinger: 0.0,  720.0, 1280.0 |    5,    8,  715, 1270 | Starting com.betrybe.sociallogin
+09-04 21:37:04.997   295   295 D SurfaceFlinger:       GLES | a6a9d120 | 0000 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0,   54.0 |    0,    0,  720,   54 | StatusBar
+09-04 21:37:04.997   295   295 D SurfaceFlinger:  FB TARGET | aa722560 | 0000 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | HWC_FRAMEBUFFER_TARGET
+09-04 21:37:05.000   672   741 D ViewRootImpl@6315686[ContainerKeyguardScrim]: mHardwareRenderer.destroy()#1
+09-04 21:37:05.002 10329 10329 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=view.getParent() view.getId() is <2131230959>}' assertion on view view.getId() is <2131230954/com.betrybe.sociallogin:id/linear_container>
+09-04 21:37:05.021 10329 10329 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131230958/com.betrybe.sociallogin:id/logo>
+09-04 21:37:05.028 10329 10329 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=has drawable}' assertion on view view.getId() is <2131230958/com.betrybe.sociallogin:id/logo>
+09-04 21:37:05.036 10329 10329 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=view.getParent() view.getId() is <2131230954>}' assertion on view view.getId() is <2131230958/com.betrybe.sociallogin:id/logo>
+09-04 21:37:05.058   672  2809 D InputDispatcher: Focused application set to: xxxx
+09-04 21:37:05.060   672  2809 D InputDispatcher: Focus left window: 10329
+09-04 21:37:05.063 10329 10329 D LifecycleMonitor: Lifecycle status change: com.betrybe.sociallogin.MainActivity@5207bda in: PAUSED
+09-04 21:37:05.064 10329 10329 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.betrybe.sociallogin.MainActivity@5207bda
+09-04 21:37:05.067   672   741 D InputTransport: Input channel constructed: fd=253
+09-04 21:37:05.067   672   741 D InputTransport: Input channel constructed: fd=364
+09-04 21:37:05.069   672   741 D ViewRootImpl@1473446[test]: setView = DecorView@eed855d[test] touchMode=false
+09-04 21:37:05.074   672   741 D ViewRootImpl@1473446[test]: dispatchAttachedToWindow
+09-04 21:37:05.112   295   295 I SurfaceFlinger: id=371 createSurf (1x1),1 flag=404, Starting com.betrybe.sociallogin.test
+09-04 21:37:05.115   672   741 D ViewRootImpl@1473446[test]: Relayout returned: oldFrame=[0,0][0,0] newFrame=[0,0][0,0] result=0x6 surface={isValid=true 1670973440} surfaceGenerationChanged=true
+09-04 21:37:05.138   295   295 D SurfaceFlinger:   Display[0] configurations (* current):
+09-04 21:37:05.138   295   295 D SurfaceFlinger:     * 0: 720x1280, xdpi=281.352997, ydpi=282.713013, refresh=16666667
+09-04 21:37:05.138   295   295 D SurfaceFlinger:   numHwLayers=4, flags=00000000
+09-04 21:37:05.138   295   295 D SurfaceFlinger:     type   |  handle  | hint | flag | tr | blnd |   format    |     source crop (l,t,r,b)      |          frame         | name
+09-04 21:37:05.138   295   295 D SurfaceFlinger: -----------+----------+------+------+----+------+-------------+--------------------------------+------------------------+------
+09-04 21:37:05.138   295   295 D SurfaceFlinger:        HWC | a6a9d3c0 | 0002 | 0000 | 00 | 0100 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | com.betrybe.sociallogin/com.betrybe.sociallogin.MainActivity
+09-04 21:37:05.138   295   295 D SurfaceFlinger:        HWC | a6a9d780 | 0002 | 0000 | 00 | 0100 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | Starting com.betrybe.sociallogin
+09-04 21:37:05.138   295   295 D SurfaceFlinger:        HWC | a6a9d120 | 0002 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0,   54.0 |    0,    0,  720,   54 | StatusBar
+09-04 21:37:05.138   295   295 D SurfaceFlinger:  FB TARGET | aa722560 | 0000 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | HWC_FRAMEBUFFER_TARGET
+09-04 21:37:05.142   672   741 D ViewRootImpl@1473446[test]: MSG_RESIZED_REPORT: frame=Rect(0, 0 - 720, 1280) ci=Rect(0, 54 - 0, 0) vi=Rect(0, 54 - 0, 0) or=1
+09-04 21:37:05.158 10329 10329 D ViewRootImpl@caedba8[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 0
+09-04 21:37:05.162  2372  6003 D ForegroundUtils: could not check pending caller
+09-04 21:37:05.171  2019  2019 D ImageWallpaper: onVisibilityChanged: mVisible=true visible=false
+09-04 21:37:05.171  2019  2019 D ImageWallpaper: Visibility changed to visible=false
+09-04 21:37:05.172   295   295 D SurfaceFlinger:   Display[0] configurations (* current):
+09-04 21:37:05.172   295   295 D SurfaceFlinger:     * 0: 720x1280, xdpi=281.352997, ydpi=282.713013, refresh=16666667
+09-04 21:37:05.172   295   295 D SurfaceFlinger:   numHwLayers=4, flags=00000000
+09-04 21:37:05.172   295   295 D SurfaceFlinger:     type   |  handle  | hint | flag | tr | blnd |   format    |     source crop (l,t,r,b)      |          frame         | name
+09-04 21:37:05.172   295   295 D SurfaceFlinger: -----------+----------+------+------+----+------+-------------+--------------------------------+------------------------+------
+09-04 21:37:05.172   295   295 D SurfaceFlinger:        HWC | aa722da0 | 0002 | 0000 | 00 | 0100 | RGB_888     |  280.0,    0.0, 1000.0, 1280.0 |    0,    0,  720, 1280 | com.android.systemui.ImageWallpaper
+09-04 21:37:05.172   295   295 D SurfaceFlinger:        HWC | a6a9d780 | 0002 | 0000 | 00 | 0100 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | Starting com.betrybe.sociallogin
+09-04 21:37:05.172   295   295 D SurfaceFlinger:        HWC | a6a9d120 | 0002 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0,   54.0 |    0,    0,  720,   54 | StatusBar
+09-04 21:37:05.172   295   295 D SurfaceFlinger:  FB TARGET | aa722560 | 0000 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | HWC_FRAMEBUFFER_TARGET
+09-04 21:37:05.177   672   741 D ViewRootImpl@1473446[test]: Relayout returned: oldFrame=[0,0][720,1280] newFrame=[0,0][720,1280] result=0x20 surface={isValid=true 1670973440} surfaceGenerationChanged=false
+09-04 21:37:05.182   295   295 D SurfaceFlinger:   Display[0] configurations (* current):
+09-04 21:37:05.182   295   295 D SurfaceFlinger:     * 0: 720x1280, xdpi=281.352997, ydpi=282.713013, refresh=16666667
+09-04 21:37:05.182   295   295 D SurfaceFlinger:   numHwLayers=3, flags=00000000
+09-04 21:37:05.182   295   295 D SurfaceFlinger:     type   |  handle  | hint | flag | tr | blnd |   format    |     source crop (l,t,r,b)      |          frame         | name
+09-04 21:37:05.182   295   295 D SurfaceFlinger: -----------+----------+------+------+----+------+-------------+--------------------------------+------------------------+------
+09-04 21:37:05.182   295   295 D SurfaceFlinger:        HWC | a6a9d780 | 0002 | 0000 | 00 | 0100 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | Starting com.betrybe.sociallogin
+09-04 21:37:05.182   295   295 D SurfaceFlinger:        HWC | a6a9d120 | 0002 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0,   54.0 |    0,    0,  720,   54 | StatusBar
+09-04 21:37:05.182   295   295 D SurfaceFlinger:  FB TARGET | aa722560 | 0000 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | HWC_FRAMEBUFFER_TARGET
+09-04 21:37:05.192   672   741 D ViewRootImpl@6315686[ContainerKeyguardScrim]: mHardwareRenderer.destroy()#1
+09-04 21:37:05.199 10364 10364 D ViewRootImpl@2c69d94[InstrumentationActivityInvoker$EmptyActivity]: ThreadedRenderer.create() translucent=false
+09-04 21:37:05.199  2932  2932 D StageManager: saved stages : inStack [1] , outStack[2]
+09-04 21:37:05.200   295   295 D SurfaceFlinger:   Display[0] configurations (* current):
+09-04 21:37:05.200   295   295 D SurfaceFlinger:     * 0: 720x1280, xdpi=281.352997, ydpi=282.713013, refresh=16666667
+09-04 21:37:05.200   295   295 D SurfaceFlinger:   numHwLayers=3, flags=00000000
+09-04 21:37:05.200   295   295 D SurfaceFlinger:     type   |  handle  | hint | flag | tr | blnd |   format    |     source crop (l,t,r,b)      |          frame         | name
+09-04 21:37:05.200   295   295 D SurfaceFlinger: -----------+----------+------+------+----+------+-------------+--------------------------------+------------------------+------
+09-04 21:37:05.200   295   295 D SurfaceFlinger:        HWC | a6a9db40 | 0002 | 0000 | 00 | 0100 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | Starting com.betrybe.sociallogin.test
+09-04 21:37:05.200   295   295 D SurfaceFlinger:        HWC | a6a9d120 | 0002 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0,   54.0 |    0,    0,  720,   54 | StatusBar
+09-04 21:37:05.200   295   295 D SurfaceFlinger:  FB TARGET | aa722560 | 0000 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | HWC_FRAMEBUFFER_TARGET
+09-04 21:37:05.201   672  4266 D InputTransport: Input channel constructed: fd=422
+09-04 21:37:05.201   672  4266 D InputTransport: Input channel constructed: fd=425
+09-04 21:37:05.201  2932  3288 W OpenGLRenderer: Incorrectly called buildLayer on View: WorkspaceCellLayoutChildren, destroying layer...
+09-04 21:37:05.201  2932  3288 W OpenGLRenderer: Incorrectly called buildLayer on View: WorkspaceCellLayoutChildren, destroying layer...
+09-04 21:37:05.202   672  4266 D InputTransport: Input channel destroyed: fd=425
+09-04 21:37:05.203 10364 10364 D InputTransport: Input channel constructed: fd=63
+09-04 21:37:05.203 10364 10364 D ViewRootImpl@2c69d94[InstrumentationActivityInvoker$EmptyActivity]: setView = DecorView@70c603d[InstrumentationActivityInvoker$EmptyActivity] touchMode=false
+09-04 21:37:05.204   672  2113 D ActivityManager: post active user change for 0 fullscreen true isHomeActivity() false
+09-04 21:37:05.208 10329 10329 D ViewRootImpl@caedba8[MainActivity]: mHardwareRenderer.destroy()#1
+09-04 21:37:05.214 10364 10364 D ViewRootImpl@2c69d94[InstrumentationActivityInvoker$EmptyActivity]: dispatchAttachedToWindow
+09-04 21:37:05.220   295   295 I SurfaceFlinger: id=372 createSurf (720x1280),1 flag=404, com.betrybe.sociallogin.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+09-04 21:37:05.220 10329 10329 D ViewRootImpl@caedba8[MainActivity]: Relayout returned: oldFrame=[0,0][720,1280] newFrame=[0,0][720,1280] result=0x4 surface={isValid=false 0} surfaceGenerationChanged=true
+09-04 21:37:05.227   672  2411 D InputDispatcher: Focus entered window: 10364
+09-04 21:37:05.230   295   323 I SurfaceFlinger: id=368 Removed com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity (1/9)
+09-04 21:37:05.230 10364 10364 D ViewRootImpl@2c69d94[InstrumentationActivityInvoker$EmptyActivity]: Relayout returned: oldFrame=[0,0][0,0] newFrame=[0,0][720,1280] result=0x6 surface={isValid=true -2042486784} surfaceGenerationChanged=true
+09-04 21:37:05.231 10364 10364 D ViewRootImpl@2c69d94[InstrumentationActivityInvoker$EmptyActivity]: mHardwareRenderer.initialize() mSurface={isValid=true -2042486784} hwInitialized=true
+09-04 21:37:05.234  2372  2397 D ForegroundUtils: could not check pending caller
+09-04 21:37:05.236 10329 10329 D LifecycleMonitor: Lifecycle status change: com.betrybe.sociallogin.MainActivity@5207bda in: STOPPED
+09-04 21:37:05.237 10329 10329 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.betrybe.sociallogin.MainActivity@5207bda
+09-04 21:37:05.238   672  4679 W MultiScreenManagerService: moveTaskBackToDisplayIfNeeded(): root is not base activity
+09-04 21:37:05.239 10364 10364 D ViewRootImpl@2c69d94[InstrumentationActivityInvoker$EmptyActivity]: MSG_RESIZED_REPORT: frame=Rect(0, 0 - 720, 1280) ci=Rect(0, 54 - 0, 0) vi=Rect(0, 54 - 0, 0) or=1
+09-04 21:37:05.239   295   319 I SurfaceFlinger: id=370 Removed com.betrybe.sociallogin/com.betrybe.sociallogin.MainActivity (3/8)
+09-04 21:37:05.240   295  3287 I SurfaceFlinger: id=369 Removed Starting com.betrybe.sociallogin (3/7)
+09-04 21:37:05.240   295  3287 I SurfaceFlinger: id=370 Removed com.betrybe.sociallogin/com.betrybe.sociallogin.MainActivity (-2/7)
+09-04 21:37:05.255 10364 10364 D ViewRootImpl@2c69d94[InstrumentationActivityInvoker$EmptyActivity]: MSG_WINDOW_FOCUS_CHANGED 1
+09-04 21:37:05.256 10364 10364 D ViewRootImpl@2c69d94[InstrumentationActivityInvoker$EmptyActivity]: mHardwareRenderer.initializeIfNeeded()#2 mSurface={isValid=true -2042486784}
+09-04 21:37:05.257 10364 10364 V InputMethodManager: Starting input: tba=android.view.inputmethod.EditorInfo@1c5c032 nm : com.betrybe.sociallogin.test ic=null
+09-04 21:37:05.257 10364 10364 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+09-04 21:37:05.257   672  4669 D InputMethodManagerService: windowGainedFocus : mCurrentFocusedUserId - 0 and mSecureKeypadEnabled-false
+09-04 21:37:05.265   672  4669 V InputMethodManagerService: windowGainedFocus : reason=WINDOW_FOCUS_GAIN client=android.os.BinderProxy@b69f8cd inputContext=null missingMethods= attribute=android.view.inputmethod.EditorInfo@6cf24cc nm = com.betrybe.sociallogin.test controlFlags=#104 softInputMode=#120 windowFlags=#3810100
+09-04 21:37:05.265   672  4669 V InputMethodManagerService: Unspecified window will hide input
+09-04 21:37:05.265   672  4669 V InputMethodManagerService: hideCurrentInputLocked : shouldHideSoftInput is false
+09-04 21:37:05.265   672  4669 D InputMethodManagerService: isImeSwitcherDisabledPackage : false
+09-04 21:37:05.266   672  4669 D InputMethodManagerService: setCurrentInputInfo - inputContext : null eidtorInfo : android.view.inputmethod.EditorInfo@6cf24cc missingMethods : 0
+09-04 21:37:05.266   672  4669 D InputTransport: Input channel constructed: fd=410
+09-04 21:37:05.266   672  4669 D InputTransport: Input channel destroyed: fd=410
+09-04 21:37:05.266 10364 10364 D InputTransport: Input channel constructed: fd=64
+09-04 21:37:05.267 29083 29083 I SKBD    : SamsungKeypad [IMI] onStartInput - caller pid : 10364, caller uid : 10168
+09-04 21:37:05.268  2372  2399 D ForegroundUtils: could not check pending caller
+09-04 21:37:05.268   672  4672 W MultiScreenManagerService: moveTaskBackToDisplayIfNeeded(): root is not base activity
+09-04 21:37:05.268 10329 10329 D InputTransport: Input channel destroyed: fd=70
+09-04 21:37:05.273   672  4672 W MultiScreenManagerService: moveTaskBackToDisplayIfNeeded(): root activity or app is null
+09-04 21:37:05.278   672  4672 D InputDispatcher: Focused application set to: xxxx
+09-04 21:37:05.279   672  4672 D InputDispatcher: Focus left window: 10364
+09-04 21:37:05.286   672   741 D ViewRootImpl@1473446[test]: dispatchDetachedFromWindow
+09-04 21:37:05.287   295   319 I SurfaceFlinger: id=371 Removed Starting com.betrybe.sociallogin.test (4/6)
+09-04 21:37:05.288   295   750 I SurfaceFlinger: id=371 Removed Starting com.betrybe.sociallogin.test (-2/6)
+09-04 21:37:05.288   672  2114 E SemDvfsHintManager:  mHintTimeout : 500
+09-04 21:37:05.292   672   741 D InputTransport: Input channel destroyed: fd=253
+09-04 21:37:05.293   672  2112 D PackageManager: getComponentMetadataForIconTray : com.betrybe.sociallogin.MainActivity does not exist in mServices
+09-04 21:37:05.293   672  2112 D PackageManager: getComponentMetadataForIconTray : com.betrybe.sociallogin.MainActivity does not exist in mProviders
+09-04 21:37:05.293   672  2112 D PackageManager: getComponentMetadataForIconTray : com.betrybe.sociallogin.MainActivity does not exist in mReceivers
+09-04 21:37:05.293   672   741 D InputTransport: Input channel destroyed: fd=364
+09-04 21:37:05.294   672   741 D ViewRootImpl@6315686[ContainerKeyguardScrim]: mHardwareRenderer.destroy()#1
+09-04 21:37:05.294  2019  2019 D ApplicationPackageManager: updateItemMetaDataForFixedIconScale: package: com.betrybe.sociallogin
+09-04 21:37:05.295   672  4679 D PackageManager: getSelectedMetaData : packageName(com.betrybe.sociallogin) or Metadata strings {[Ljava.lang.String;@5310315}
+09-04 21:37:05.296  2019  2019 I ApplicationPackageManager: load=com.betrybe.sociallogin, bg=144-144, dr=108-108, forDefault=true, density=0
+09-04 21:37:05.297  2019  2019 I ApplicationPackageManager: scaled rate=201.0, size=108, alpha=11, hold=102
+09-04 21:37:05.297  2019  2019 D ApplicationPackageManager: iconScale: getScale(): 201.0 getAlpha(): 11
+09-04 21:37:05.300   295   295 D SurfaceFlinger:   Display[0] configurations (* current):
+09-04 21:37:05.300   295   295 D SurfaceFlinger:     * 0: 720x1280, xdpi=281.352997, ydpi=282.713013, refresh=16666667
+09-04 21:37:05.300   295   295 D SurfaceFlinger:   numHwLayers=3, flags=00000000
+09-04 21:37:05.300   295   295 D SurfaceFlinger:     type   |  handle  | hint | flag | tr | blnd |   format    |     source crop (l,t,r,b)      |          frame         | name
+09-04 21:37:05.300   295   295 D SurfaceFlinger: -----------+----------+------+------+----+------+-------------+--------------------------------+------------------------+------
+09-04 21:37:05.300   295   295 D SurfaceFlinger:        HWC | a6a9d900 | 0002 | 0000 | 00 | 0100 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | com.betrybe.sociallogin.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+09-04 21:37:05.300   295   295 D SurfaceFlinger:        HWC | a6a9d120 | 0002 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0,   54.0 |    0,    0,  720,   54 | StatusBar
+09-04 21:37:05.300   295   295 D SurfaceFlinger:  FB TARGET | aa722560 | 0000 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | HWC_FRAMEBUFFER_TARGET
+09-04 21:37:05.302  2019  2019 I ApplicationPackageManager: load=com.betrybe.sociallogin-crop, bg=86-86, dr=108-108
+09-04 21:37:05.313  2932  2932 I Launcher: onWindowVisibilityChanged : false
+09-04 21:37:05.318  2932  2932 D ViewRootImpl@33bb50a[LauncherActivity]: mHardwareRenderer.destroy()#1
+09-04 21:37:05.332  2932  2932 D ViewRootImpl@33bb50a[LauncherActivity]: Relayout returned: oldFrame=[0,0][720,1280] newFrame=[0,0][720,1280] result=0x0 surface={isValid=false 0} surfaceGenerationChanged=false
+09-04 21:37:05.343  2932  2932 D HomeContainer: setAlpha : 1.0
+09-04 21:37:05.350  2372  6003 D ForegroundUtils: could not check pending caller
+09-04 21:37:05.351 10364 10364 D ViewRootImpl@2c69d94[InstrumentationActivityInvoker$EmptyActivity]: MSG_WINDOW_FOCUS_CHANGED 0
+09-04 21:37:05.351  2932  2932 V Launcher: Launcher.onResume()
+09-04 21:37:05.361  2932  2932 D ExternalRequestQueue: Getting and clearing EXTERNAL_REQUEST_LIST: null
+09-04 21:37:05.361  2932  2932 D ExternalMethodQueue: Getting and clearing EXTERNAL_METHOD_LIST: null
+09-04 21:37:05.362  2932  2932 D Launcher.HomeController: onResume HomeContainer current alpha = 1.0
+09-04 21:37:05.362  2932  2932 D AppsCustomAdapter: notifyupdate : com.android.launcher3.Launcher@18e0e11
+09-04 21:37:05.362  2932  2932 D AppsDragController: needDeferToBind : true , false
+09-04 21:37:05.363  2932  2932 D InputMethodManager: HSIFW - flag : 0 Pid : 2932
+09-04 21:37:05.363   672  4264 W InputMethodManagerService: hideSoftInput : Ignoring, uid 10068: com.android.internal.view.IInputMethodClient$Stub$Proxy@22fc1b8
+09-04 21:37:05.367   672  2809 D ActivityManager: post active user change for 0 fullscreen true isHomeActivity() true
+09-04 21:37:05.367   672   672 D KnoxKeyguardDelegate: clear Flag
+09-04 21:37:05.368  2932  2932 I Launcher: onWindowVisibilityChanged : true
+09-04 21:37:05.371   295   295 I SurfaceFlinger: id=373 createSurf (720x1280),1 flag=4, com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity
+09-04 21:37:05.376   672  4680 D InputDispatcher: Focus entered window: 2932
+09-04 21:37:05.378  2932  2932 D ViewRootImpl@33bb50a[LauncherActivity]: Relayout returned: oldFrame=[0,0][720,1280] newFrame=[0,0][720,1280] result=0x6 surface={isValid=true 2060208128} surfaceGenerationChanged=true
+09-04 21:37:05.378  2932  2932 D ViewRootImpl@33bb50a[LauncherActivity]: mHardwareRenderer.initialize() mSurface={isValid=true 2060208128} hwInitialized=true
+09-04 21:37:05.384  2932  2932 D AppsAdapter: notifyupdate start : com.android.launcher3.Launcher@18e0e11
+09-04 21:37:05.385  2932  2932 D AppsCustomAdapter: no change items
+09-04 21:37:05.385  2932  2932 D AppsAdapter: notifyupdate end : com.android.launcher3.Launcher@18e0e11
+09-04 21:37:05.385  2932  2932 D ViewRootImpl@33bb50a[LauncherActivity]: MSG_WINDOW_FOCUS_CHANGED 1
+09-04 21:37:05.385  2932  2932 D ViewRootImpl@33bb50a[LauncherActivity]: mHardwareRenderer.initializeIfNeeded()#2 mSurface={isValid=true 2060208128}
+09-04 21:37:05.391  2932  2932 V InputMethodManager: Starting input: tba=android.view.inputmethod.EditorInfo@2180b76 nm : com.sec.android.app.launcher ic=null
+09-04 21:37:05.391  2932  2932 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+09-04 21:37:05.391   672  4268 D InputMethodManagerService: windowGainedFocus : mCurrentFocusedUserId - 0 and mSecureKeypadEnabled-false
+09-04 21:37:05.391   672  4268 V InputMethodManagerService: windowGainedFocus : reason=WINDOW_FOCUS_GAIN client=android.os.BinderProxy@a6bfb02 inputContext=null missingMethods= attribute=android.view.inputmethod.EditorInfo@7abbb91 nm = com.sec.android.app.launcher controlFlags=#105 softInputMode=#30 windowFlags=#81910d00
+09-04 21:37:05.391   672  4268 V InputMethodManagerService: Unspecified window will hide input
+09-04 21:37:05.392   672  4268 V InputMethodManagerService: hideCurrentInputLocked : shouldHideSoftInput is false
+09-04 21:37:05.392   672  4268 D InputMethodManagerService: isImeSwitcherDisabledPackage : false
+09-04 21:37:05.392   672  4268 D InputMethodManagerService: setCurrentInputInfo - inputContext : null eidtorInfo : android.view.inputmethod.EditorInfo@7abbb91 missingMethods : 0
+09-04 21:37:05.392 10364 10364 D InputTransport: Input channel destroyed: fd=64
+09-04 21:37:05.392   672  4268 D InputTransport: Input channel constructed: fd=364
+09-04 21:37:05.392   672  4268 D InputTransport: Input channel destroyed: fd=364
+09-04 21:37:05.393  2932  2932 D InputTransport: Input channel constructed: fd=62
+09-04 21:37:05.393 29083 29083 I SKBD    : SamsungKeypad [IMI] onStartInput - caller pid : 2932, caller uid : 10068
+09-04 21:37:05.416  2019  2019 D ImageWallpaper: onOffsetsChanged: xOffset=0.0, yOffset=0.0, xOffsetStep=0.0, yOffsetStep=0.0, xPixels=0, yPixels=0
+09-04 21:37:05.417  2019  2019 D ImageWallpaper: drawFrame=false rotation=0 mLastRotation=0 deviceWidth=720 deviceHeight=1280
+09-04 21:37:05.417  2019  2019 D ImageWallpaper: drawFrame:[frame.width()]1280[frame.height()]1280
+09-04 21:37:05.417  2019  2019 D ImageWallpaper: surfaceDimensionsChanged=false mLastSurfaceRotation=0 mDisplayWidth=-1 mDisplayHeight=-1
+09-04 21:37:05.417  2019  2019 D ImageWallpaper: redrawNeeded = false, mOffsetsChanged = false
+09-04 21:37:05.417  2019  2019 D ImageWallpaper: Suppressed drawFrame since redraw is not needed and offsets have not changed.
+09-04 21:37:05.417  2019  2019 D WallpaperService: updateSurface forceRelayout=false redrawNeeded=false myWidth=1280 myHeight=1280 fixedSize=true x = 0 y = 0 mWidth=1280 mHeight=1280
+09-04 21:37:05.417  2019  2019 D ImageWallpaper: onVisibilityChanged: mVisible=false visible=true
+09-04 21:37:05.417  2019  2019 D ImageWallpaper: Visibility changed to visible=true
+09-04 21:37:05.418  2019  2019 D ImageWallpaper: drawFrame=false rotation=0 mLastRotation=0 deviceWidth=720 deviceHeight=1280
+09-04 21:37:05.418  2019  2019 D ImageWallpaper: drawFrame:[frame.width()]1280[frame.height()]1280
+09-04 21:37:05.418  2019  2019 D ImageWallpaper: surfaceDimensionsChanged=false mLastSurfaceRotation=0 mDisplayWidth=-1 mDisplayHeight=-1
+09-04 21:37:05.418  2019  2019 D ImageWallpaper: redrawNeeded = false, mOffsetsChanged = false
+09-04 21:37:05.418  2019  2019 D ImageWallpaper: Suppressed drawFrame since redraw is not needed and offsets have not changed.
+09-04 21:37:05.422  2019  2033 D WallpaperService: resized:[frame]Rect(0, 0 - 1280, 1280) [newConfig] is null
+09-04 21:37:05.422  2019  2019 D WallpaperService: MSG_WINDOW_RESIZED
+09-04 21:37:05.422  2019  2019 D WallpaperService: updateSurface forceRelayout=true redrawNeeded=false myWidth=1280 myHeight=1280 fixedSize=true x = 0 y = 0 mWidth=1280 mHeight=1280
+09-04 21:37:05.422  2019  2019 V WallpaperService: Changes: creating=false format=false size=false
+09-04 21:37:05.432 10329 10329 D LifecycleMonitor: Lifecycle status change: com.betrybe.sociallogin.MainActivity@5207bda in: DESTROYED
+09-04 21:37:05.433  2019  2019 V WallpaperService: New surface=Surface(name=null)/@0xe0daedf, frame=Rect(0, 0 - 1280, 1280),relayoutResult=0, mConfiguration={0 1.0 themeSeq = 0 showBtnBg = -1 ?mcc?mnc ?localeList ?layoutDir ?swdp ?wdp ?hdp ?density ?lsize ?long ?orien ?uimode ?night ?touch ?keyb/?/? ?nav/?}
+09-04 21:37:05.433 10329 10329 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+09-04 21:37:05.433  2019  2019 V WallpaperService: Wallpaper size has changed : 1280, 1280
+09-04 21:37:05.433  2019  2019 D ImageWallpaper: onOffsetsChanged: xOffset=0.0, yOffset=0.0, xOffsetStep=0.0, yOffsetStep=0.0, xPixels=0, yPixels=0
+09-04 21:37:05.433 10329 10329 D Graph   : removeVertex() : insertDummyVertex, because there is no ancestor.
+09-04 21:37:05.433 10329 10346 I TestRunner: finished: test_req_1_crie_a_estrutura_inicial_da_tela_com_a_logo_da_rede_social(com.betrybe.sociallogin.MainActivityTest)

@@ -1,0 +1,1370 @@
+09-04 21:37:05.458 10329 10346 I TestRunner: started: test_req_8_implemente_a_validacao_do_campo_de_email(com.betrybe.sociallogin.MainActivityTest)
+09-04 21:37:05.473 10364 10364 D ViewRootImpl@2c69d94[InstrumentationActivityInvoker$EmptyActivity]: Relayout returned: oldFrame=[0,0][720,1280] newFrame=[0,0][720,1280] result=0x4 surface={isValid=false 0} surfaceGenerationChanged=true
+09-04 21:37:05.475 10329 10346 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+09-04 21:37:05.476 10364 10364 D ViewRootImpl@2c69d94[InstrumentationActivityInvoker$EmptyActivity]: mHardwareRenderer.destroy()#4
+09-04 21:37:05.476 10364 10364 D ViewRootImpl@2c69d94[InstrumentationActivityInvoker$EmptyActivity]: dispatchDetachedFromWindow
+09-04 21:37:05.481   295   323 I SurfaceFlinger: id=372 Removed com.betrybe.sociallogin.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (3/6)
+09-04 21:37:05.481   295   319 I SurfaceFlinger: id=372 Removed com.betrybe.sociallogin.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (-2/6)
+09-04 21:37:05.486   672  4264 D InputTransport: Input channel destroyed: fd=422
+09-04 21:37:05.488 10364 10364 D InputTransport: Input channel destroyed: fd=63
+09-04 21:37:05.501   672   741 D InputTransport: Input channel constructed: fd=364
+09-04 21:37:05.501   672   741 D InputTransport: Input channel constructed: fd=391
+09-04 21:37:05.502   672   741 D ViewRootImpl@d7d15ef[sociallogin]: setView = DecorView@f2f220b[sociallogin] touchMode=false
+09-04 21:37:05.504   672  4266 D InputDispatcher: Focused application set to: xxxx
+09-04 21:37:05.505   672  4266 D InputDispatcher: Focus left window: 2932
+09-04 21:37:05.507  2932  2932 V Launcher: Launcher.onPause()
+09-04 21:37:05.508   672   741 D ViewRootImpl@d7d15ef[sociallogin]: dispatchAttachedToWindow
+09-04 21:37:05.513   295   295 I SurfaceFlinger: id=374 createSurf (720x1280),1 flag=404, Starting com.betrybe.sociallogin
+09-04 21:37:05.519   672   741 D ViewRootImpl@d7d15ef[sociallogin]: Relayout returned: oldFrame=[0,0][0,0] newFrame=[0,0][720,1280] result=0x6 surface={isValid=true 1671051264} surfaceGenerationChanged=true
+09-04 21:37:05.533  2019 23655 D WallpaperService: resized:[frame]Rect(0, 0 - 1280, 1280) [newConfig] is null
+09-04 21:37:05.533  2019  2019 D WallpaperService: MSG_WINDOW_RESIZED
+09-04 21:37:05.533  2019  2019 D WallpaperService: updateSurface forceRelayout=true redrawNeeded=false myWidth=1280 myHeight=1280 fixedSize=true x = 0 y = 0 mWidth=1280 mHeight=1280
+09-04 21:37:05.533  2019  2019 V WallpaperService: Changes: creating=false format=false size=false
+09-04 21:37:05.540  2019  2019 V WallpaperService: New surface=Surface(name=null)/@0xe0daedf, frame=Rect(0, 0 - 1280, 1280),relayoutResult=0, mConfiguration={0 1.0 themeSeq = 0 showBtnBg = -1 ?mcc?mnc ?localeList ?layoutDir ?swdp ?wdp ?hdp ?density ?lsize ?long ?orien ?uimode ?night ?touch ?keyb/?/? ?nav/?}
+09-04 21:37:05.541  2019  2019 V WallpaperService: Wallpaper size has changed : 1280, 1280
+09-04 21:37:05.541  2019  2019 D ImageWallpaper: onOffsetsChanged: xOffset=0.0, yOffset=0.0, xOffsetStep=0.0, yOffsetStep=0.0, xPixels=0, yPixels=0
+09-04 21:37:05.542  2019  2019 D ImageWallpaper: drawFrame=false rotation=0 mLastRotation=0 deviceWidth=720 deviceHeight=1280
+09-04 21:37:05.542  2019  2019 D ImageWallpaper: drawFrame:[frame.width()]1280[frame.height()]1280
+09-04 21:37:05.542  2019  2019 D ImageWallpaper: surfaceDimensionsChanged=false mLastSurfaceRotation=0 mDisplayWidth=-1 mDisplayHeight=-1
+09-04 21:37:05.542  2019  2019 D ImageWallpaper: redrawNeeded = false, mOffsetsChanged = false
+09-04 21:37:05.542  2019  2019 D ImageWallpaper: Suppressed drawFrame since redraw is not needed and offsets have not changed.
+09-04 21:37:05.549  2932  2932 D ViewRootImpl@33bb50a[LauncherActivity]: MSG_WINDOW_FOCUS_CHANGED 0
+09-04 21:37:05.553   672   672 D WifiTrafficPoller: notifyOnDataActivity() - mBusMaxLock.acquire()
+09-04 21:37:05.553   672   741 D ViewRootImpl@d7d15ef[sociallogin]: MSG_RESIZED_REPORT: frame=Rect(0, 0 - 720, 1280) ci=Rect(0, 54 - 0, 0) vi=Rect(0, 54 - 0, 0) or=1
+09-04 21:37:05.554  2372  2397 D ForegroundUtils: could not check pending caller
+09-04 21:37:05.563 10329 10329 D LifecycleMonitor: Lifecycle status change: com.betrybe.sociallogin.MainActivity@9aaf19b in: PRE_ON_CREATE
+09-04 21:37:05.563 10329 10329 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+09-04 21:37:05.564  2932  2932 I Launcher: onWindowVisibilityChanged : false
+09-04 21:37:05.589  2932  2932 D ViewRootImpl@33bb50a[LauncherActivity]: mHardwareRenderer.destroy()#1
+09-04 21:37:05.598  2932  2932 D ViewRootImpl@33bb50a[LauncherActivity]: Relayout returned: oldFrame=[0,0][720,1280] newFrame=[0,0][720,1280] result=0x4 surface={isValid=false 0} surfaceGenerationChanged=true
+09-04 21:37:05.618 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:05.620 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:05.623 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:05.624 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:05.624 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:05.625 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:05.625 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:05.631 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:05.649 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:05.652 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:05.654 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:05.655 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:05.656 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:05.656 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:05.656 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:05.662 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:05.662   295   295 D SurfaceFlinger:   Display[0] configurations (* current):
+09-04 21:37:05.662   295   295 D SurfaceFlinger:     * 0: 720x1280, xdpi=281.352997, ydpi=282.713013, refresh=16666667
+09-04 21:37:05.662   295   295 D SurfaceFlinger:   numHwLayers=5, flags=00000000
+09-04 21:37:05.662   295   295 D SurfaceFlinger:     type   |  handle  | hint | flag | tr | blnd |   format    |     source crop (l,t,r,b)      |          frame         | name
+09-04 21:37:05.662   295   295 D SurfaceFlinger: -----------+----------+------+------+----+------+-------------+--------------------------------+------------------------+------
+09-04 21:37:05.662   295   295 D SurfaceFlinger:        HWC | aa722da0 | 0002 | 0000 | 00 | 0100 | RGB_888     |  280.0,    0.0, 1000.0, 1280.0 |    0,    0,  720, 1280 | com.android.systemui.ImageWallpaper
+09-04 21:37:05.662   295   295 D SurfaceFlinger:        HWC | a6a9da80 | 0002 | 0000 | 00 | 0105 | RGBA_8888   |   20.0,   36.0,  699.0, 1243.0 |    0,    0,  720, 1280 | com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity
+09-04 21:37:05.662   295   295 D SurfaceFlinger:       GLES | a6a9d6c0 | 0000 | 0000 | 00 | 0100 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |  132,  235,  587, 1043 | Starting com.betrybe.sociallogin
+09-04 21:37:05.662   295   295 D SurfaceFlinger:       GLES | a6a9d1e0 | 0000 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0,   54.0 |    0,
+09-04 21:37:05.662   295   295 D SurfaceFlinger:    0,  720,   54 | StatusBar
+09-04 21:37:05.662   295   295 D SurfaceFlinger:  FB TARGET | aa7226e0 | 0000 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | HWC_FRAMEBUFFER_TARGET
+09-04 21:37:05.669   672  2112 D PackageManager: getComponentMetadataForIconTray : androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity does not exist in mServices
+09-04 21:37:05.669   672  2112 D PackageManager: getComponentMetadataForIconTray : androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity does not exist in mProviders
+09-04 21:37:05.669   672  2112 D PackageManager: getComponentMetadataForIconTray : androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity does not exist in mReceivers
+09-04 21:37:05.670  2019  2019 D ApplicationPackageManager: updateItemMetaDataForFixedIconScale: package: com.betrybe.sociallogin.test
+09-04 21:37:05.671   672  4670 D PackageManager: getSelectedMetaData : packageName(com.betrybe.sociallogin.test) or Metadata strings {[Ljava.lang.String;@f63cb94}
+09-04 21:37:05.671 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:05.672  2019  2019 I ApplicationPackageManager: load=com.betrybe.sociallogin.test, bg=144-144, dr=108-108, forDefault=true, density=0
+09-04 21:37:05.674  2019  2019 I ApplicationPackageManager: scaled rate=0.72, size=108, alpha=9, hold=102
+09-04 21:37:05.674  2019  2019 D ApplicationPackageManager: iconScale: getScale(): 0.72 getAlpha(): 9
+09-04 21:37:05.677  2372  2397 D ForegroundUtils: could not check pending caller
+09-04 21:37:05.678  2019  2019 I ApplicationPackageManager: load=com.betrybe.sociallogin.test-contain, bg=124-124, dr=108-108
+09-04 21:37:05.683 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:05.693 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:05.702 10329 10329 D LifecycleMonitor: Lifecycle status change: com.betrybe.sociallogin.MainActivity@9aaf19b in: CREATED
+09-04 21:37:05.703 10329 10329 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.betrybe.sociallogin.MainActivity@9aaf19b
+09-04 21:37:05.705 10329 10329 D LifecycleMonitor: Lifecycle status change: com.betrybe.sociallogin.MainActivity@9aaf19b in: STARTED
+09-04 21:37:05.705 10329 10329 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.betrybe.sociallogin.MainActivity@9aaf19b
+09-04 21:37:05.710 10329 10329 D LifecycleMonitor: Lifecycle status change: com.betrybe.sociallogin.MainActivity@9aaf19b in: RESUMED
+09-04 21:37:05.711 10329 10329 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.betrybe.sociallogin.MainActivity@9aaf19b
+09-04 21:37:05.717 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ThreadedRenderer.create() translucent=false
+09-04 21:37:05.719   672  2411 D InputTransport: Input channel constructed: fd=410
+09-04 21:37:05.719   672  2411 D InputTransport: Input channel constructed: fd=412
+09-04 21:37:05.720   672  2411 D InputTransport: Input channel destroyed: fd=412
+09-04 21:37:05.721 10329 10329 D InputTransport: Input channel constructed: fd=69
+09-04 21:37:05.721 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: setView = DecorView@5e1e136[MainActivity] touchMode=false
+09-04 21:37:05.722   672  2420 D ActivityManager: post active user change for 0 fullscreen true isHomeActivity() false
+09-04 21:37:05.730 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: dispatchAttachedToWindow
+09-04 21:37:05.747   295   295 I SurfaceFlinger: id=375 createSurf (1x1),1 flag=404, com.betrybe.sociallogin/com.betrybe.sociallogin.MainActivity
+09-04 21:37:05.765   672  4266 D InputDispatcher: Focus entered window: 10329
+09-04 21:37:05.774 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: Relayout returned: oldFrame=[0,0][0,0] newFrame=[0,0][720,1280] result=0x26 surface={isValid=true -2054569984} surfaceGenerationChanged=true
+09-04 21:37:05.774 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: mHardwareRenderer.initialize() mSurface={isValid=true -2054569984} hwInitialized=true
+09-04 21:37:05.788 10329 10334 I art     : Do full code cache collection, code=210KB, data=251KB
+09-04 21:37:05.790 10329 10334 I art     : Starting a blocking GC JitCodeCache
+09-04 21:37:05.790 10329 10334 I art     : After code cache collection, code=206KB, data=223KB
+09-04 21:37:05.792 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: MSG_RESIZED_REPORT: frame=Rect(0, 0 - 720, 1280) ci=Rect(0, 54 - 0, 0) vi=Rect(0, 54 - 0, 0) or=1
+09-04 21:37:05.792 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 1
+09-04 21:37:05.793 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: mHardwareRenderer.initializeIfNeeded()#2 mSurface={isValid=true -2054569984}
+09-04 21:37:05.807 10329 10329 V InputMethodManager: Starting input: tba=android.view.inputmethod.EditorInfo@e4303e6 nm : com.betrybe.sociallogin ic=null
+09-04 21:37:05.807 10329 10329 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+09-04 21:37:05.807   672  2978 D InputMethodManagerService: windowGainedFocus : mCurrentFocusedUserId - 0 and mSecureKeypadEnabled-false
+09-04 21:37:05.807   672  2978 V InputMethodManagerService: windowGainedFocus : reason=WINDOW_FOCUS_GAIN client=android.os.BinderProxy@8aa5e22 inputContext=null missingMethods= attribute=android.view.inputmethod.EditorInfo@b7c0d00 nm = com.betrybe.sociallogin controlFlags=#105 softInputMode=#120 windowFlags=#81810100
+09-04 21:37:05.807   672  2978 V InputMethodManagerService: Unspecified window will hide input
+09-04 21:37:05.807   672  2978 V InputMethodManagerService: hideCurrentInputLocked : shouldHideSoftInput is false
+09-04 21:37:05.808   672  2978 D InputMethodManagerService: isImeSwitcherDisabledPackage : false
+09-04 21:37:05.808   672  2978 D InputMethodManagerService: setCurrentInputInfo - inputContext : null eidtorInfo : android.view.inputmethod.EditorInfo@b7c0d00 missingMethods : 0
+09-04 21:37:05.808   672  2978 D InputTransport: Input channel constructed: fd=412
+09-04 21:37:05.808  2932  2932 D InputTransport: Input channel destroyed: fd=62
+09-04 21:37:05.808   672  2978 D InputTransport: Input channel destroyed: fd=412
+09-04 21:37:05.809 10329 10329 D InputTransport: Input channel constructed: fd=70
+09-04 21:37:05.809 29083 29083 I SKBD    : SamsungKeypad [IMI] onStartInput - caller pid : 10329, caller uid : 10169
+09-04 21:37:05.876 10329 10329 I ViewInteraction: Performing 'type text(a)' action on view an instance of android.widget.TextView and view.getHint() matching: is "Email"
+09-04 21:37:05.881   672  4670 D InputDispatcher: Inject motion (10329): action=0x0, eventTime=167647310000000, displayId=0
+09-04 21:37:05.882   672  1842 I InputDispatcher: Delivering touch to (2019): action: 0x4, toolType: 0
+09-04 21:37:05.882   672  1842 I InputDispatcher: Delivering touch to (10329): action: 0x0, toolType: 0
+09-04 21:37:05.885 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processPointer 0
+09-04 21:37:05.887   672   741 I ActivityManager: Displayed com.betrybe.sociallogin/.MainActivity: +359ms (total +815ms)
+09-04 21:37:05.892   672   741 D ViewRootImpl@d7d15ef[sociallogin]: dispatchDetachedFromWindow
+09-04 21:37:05.899   672   741 D InputTransport: Input channel destroyed: fd=364
+09-04 21:37:05.899   672   741 D InputTransport: Input channel destroyed: fd=391
+09-04 21:37:05.900   672   741 D ViewRootImpl@6315686[ContainerKeyguardScrim]: mHardwareRenderer.destroy()#1
+09-04 21:37:05.913   295   295 D SurfaceFlinger:   Display[0] configurations (* current):
+09-04 21:37:05.913   295   295 D SurfaceFlinger:     * 0: 720x1280, xdpi=281.352997, ydpi=282.713013, refresh=16666667
+09-04 21:37:05.913   295   295 D SurfaceFlinger:   numHwLayers=6, flags=00000000
+09-04 21:37:05.913   295   295 D SurfaceFlinger:     type   |  handle  | hint | flag | tr | blnd |   format    |     source crop (l,t,r,b)      |          frame         | name
+09-04 21:37:05.913   295   295 D SurfaceFlinger: -----------+----------+------+------+----+------+-------------+--------------------------------+------------------------+------
+09-04 21:37:05.913   295   295 D SurfaceFlinger:        HWC | aa722da0 | 0002 | 0000 | 00 | 0100 | RGB_888     |  280.0,    0.0, 1000.0, 1280.0 |    0,    0,  720, 1280 | com.android.systemui.ImageWallpaper
+09-04 21:37:05.913   295   295 D SurfaceFlinger:        HWC | a6a9da80 | 0002 | 0000 | 00 | 0105 | RGBA_8888   |  114.0,  202.0,  606.0, 1078.0 |    1,    0,  720, 1280 | com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity
+09-04 21:37:05.913   295   295 D SurfaceFlinger:       GLES | a6a9d300 | 0000 | 0000 | 00 | 0100 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    2,    4,  717, 1274 | com.betrybe.sociallogin/com.betrybe.sociallogin.MainActivity
+09-04 21:37:05.913   295   295 D SurfaceFlinger:       GLES | a6a9d6c0 | 0000 | 0000 | 00 | 0100 | RGBA_8888   |    0.0,
+09-04 21:37:05.913   295   295 D SurfaceFlinger: 0.0,  720.0, 1280.0 |    2,    4,  717, 1274 | Starting com.betrybe.sociallogin
+09-04 21:37:05.913   295   295 D SurfaceFlinger:       GLES | a6a9d1e0 | 0000 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0,   54.0 |    0,    0,  720,   54 | StatusBar
+09-04 21:37:05.913   295   295 D SurfaceFlinger:  FB TARGET | aa7226e0 | 0000 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | HWC_FRAMEBUFFER_TARGET
+09-04 21:37:05.922   672  2810 D InputDispatcher: Inject motion (10329): action=0x1, eventTime=167647350000000, displayId=0
+09-04 21:37:05.922   672  1842 I InputDispatcher: Delivering touch to (10329): action: 0x1, toolType: 0
+09-04 21:37:05.923 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processPointer 1
+09-04 21:37:05.935 10329 10329 V InputMethodManager: Starting input: tba=android.view.inputmethod.EditorInfo@3056e17 nm : com.betrybe.sociallogin ic=androidx.emoji2.viewsintegration.EmojiInputConnection@da51204
+09-04 21:37:05.936 10329 10329 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+09-04 21:37:05.937   672  2114 D InputMethodManagerService: setCurrentInputInfo - inputContext : com.android.internal.view.IInputContext$Stub$Proxy@84558df eidtorInfo : android.view.inputmethod.EditorInfo@214f92c missingMethods : 0
+09-04 21:37:05.937   672  2114 D InputTransport: Input channel constructed: fd=364
+09-04 21:37:05.938   672  2114 D InputTransport: Input channel destroyed: fd=364
+09-04 21:37:05.939 29083 29083 I SKBD    : SamsungKeypad [IMI] onStartInput - caller pid : 10329, caller uid : 10169
+09-04 21:37:05.939 10329 10329 D InputTransport: Input channel constructed: fd=71
+09-04 21:37:05.939 10329 10329 D InputTransport: Input channel destroyed: fd=70
+09-04 21:37:05.939 29083 29083 I SKBD    : abx getDefaultInputRange : UNKNOWN
+09-04 21:37:05.939 29083 29083 I SKBD    : act resetBinderManager()
+09-04 21:37:05.939 29083 29083 I SKBD_SYNC: SamsungKeypad onStartInput: import DLM
+09-04 21:37:05.939 10329 10329 D InputMethodManager: SSI - flag : 0 Pid : 10329 view : com.betrybe.sociallogin
+09-04 21:37:05.939 29083 29083 E SKBD    : wj isKeyboardLayoutOrCustomSymbolActivity: privateImeOptions is null
+09-04 21:37:05.940   672   695 V InputMethodManagerService: Client requesting input be shown, flags : 0
+09-04 21:37:05.940 29083 29083 I SKBD    : SamsungKeypad onViewClicked
+09-04 21:37:05.940 29083 29083 V InputMethodService: showSoftInput(), flags : 1
+09-04 21:37:05.942 29083 29083 I SKBD    : SamsungKeypad onStartInputView
+09-04 21:37:05.943 29083 29083 I SKBD    : LegalAgreementActivity check legal agreement: false , false , false
+09-04 21:37:05.943 29083 29083 I SKBD    : act resetBinderManager()
+09-04 21:37:05.948 29083 29083 I SKBD    : wf [startInputView] info.inputType = 21 info.imeOptions = 8000005
+09-04 21:37:05.948 29083 29083 I SKBD    : aea [Utils] isKNOX is ver2.0
+09-04 21:37:05.949 29083 29083 I SKBD    : uz onStartInput() took nanoTime:  27031
+09-04 21:37:05.949 29083 29083 I SKBD    : abx setPrivateImeOptionsToTable imeOptions ( null )
+09-04 21:37:05.949 29083 29083 I SKBD    : abx imeOptions is null
+09-04 21:37:05.952 29083 29083 I SKBD    : Update SetupWizard State usc : 1 pss : false
+09-04 21:37:05.952 29083 29083 I SKBD    : abx getDefaultInputRange : UNKNOWN
+09-04 21:37:05.952 29083 29083 I SKBD    : abx getDefaultInputRange : UNKNOWN
+09-04 21:37:05.952 29083 29083 I SKBD    : abx setPrivateImeOptionsToTable imeOptions ( null )
+09-04 21:37:05.952 29083 29083 I SKBD    : abx imeOptions is null
+09-04 21:37:05.954 29083 29083 I SKBD    : Update SetupWizard State usc : 1 pss : false
+09-04 21:37:05.955 29083 29083 I SKBD    : abx getDefaultInputRange : UNKNOWN
+09-04 21:37:05.955 29083 29083 I SKBD    : abx getDefaultInputRange : UNKNOWN
+09-04 21:37:05.969 29083 29083 I SKBD    : xh mSelectedLanguageList is empty
+09-04 21:37:06.005 29083 29083 I SKBD    : Xt9ConfigMgr ET9AWSetConstructedWords mFieldSpecificType = 2
+09-04 21:37:06.005 29083 29083 I SKBD    : XT9Engine SKDB mExistingShortCutNum  : 0 updating : 0
+09-04 21:37:06.006 29083 29083 I SKBD    : Xt9ConfigMgr initLinguistic : 2326, 35
+09-04 21:37:06.006 29083 29083 I SKBD    : aar getUmlautMap() languageCode : pt_BR
+09-04 21:37:06.006 29083 29083 I SKBD    : aar getUmlautMap() umluatMap size : 6
+09-04 21:37:06.008   672  2985 D SecContentProvider: query(), uri = 17 selection = isSettingsChangesAllowed
+09-04 21:37:06.011   672  2978 D SecContentProvider: query(), uri = 17 selection = isSettingsChangesAllowed
+09-04 21:37:06.014   295   295 D SurfaceFlinger:   Display[0] configurations (* current):
+09-04 21:37:06.014   295   295 D SurfaceFlinger:     * 0: 720x1280, xdpi=281.352997, ydpi=282.713013, refresh=16666667
+09-04 21:37:06.014   295   295 D SurfaceFlinger:   numHwLayers=4, flags=00000000
+09-04 21:37:06.014   295   295 D SurfaceFlinger:     type   |  handle  | hint | flag | tr | blnd |   format    |     source crop (l,t,r,b)      |          frame         | name
+09-04 21:37:06.014   295   295 D SurfaceFlinger: -----------+----------+------+------+----+------+-------------+--------------------------------+------------------------+------
+09-04 21:37:06.014   295   295 D SurfaceFlinger:        HWC | a6a9d300 | 0002 | 0000 | 00 | 0100 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | com.betrybe.sociallogin/com.betrybe.sociallogin.MainActivity
+09-04 21:37:06.014   295   295 D SurfaceFlinger:        HWC | a6a9d6c0 | 0002 | 0000 | 00 | 0100 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | Starting com.betrybe.sociallogin
+09-04 21:37:06.014   295   295 D SurfaceFlinger:        HWC | a6a9d1e0 | 0002 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0,   54.0 |    0,    0,  720,   54 | StatusBar
+09-04 21:37:06.014   295   295 D SurfaceFlinger:  FB TARGET | aa722560 | 0000 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | HWC_FRAMEBUFFER_TARGET
+09-04 21:37:06.022   672  4679 D SecContentProvider: query(), uri = 17 selection = isSettingsChangesAllowed
+09-04 21:37:06.024 29083 29083 I SKBD    : wf [IMI] isChangedMainValues - mPendingRefreshKeyboardView : true
+09-04 21:37:06.024 29083 29083 I SKBD    : abx getDefaultInputRange : UNKNOWN
+09-04 21:37:06.025  2019  2019 D ImageWallpaper: onVisibilityChanged: mVisible=true visible=false
+09-04 21:37:06.026  2019  2019 D ImageWallpaper: Visibility changed to visible=false
+09-04 21:37:06.027   672  2980 D SecContentProvider: query(), uri = 17 selection = isSettingsChangesAllowed
+09-04 21:37:06.029 29083 29083 I SKBD    : abx getDefaultInputRange : UNKNOWN
+09-04 21:37:06.029 29083 29083 I SKBD    : abx getDefaultInputRange : UNKNOWN
+09-04 21:37:06.029 29083 29083 I SKBD    : abx getDefaultLanguage() value is null
+09-04 21:37:06.036 29083 29083 E SKBD    : ahi setCurrentInputModule mCurrentInputModule index: 10
+09-04 21:37:06.042  2932  2932 D StageManager: saved stages : inStack [1] , outStack[2]
+09-04 21:37:06.042 29083 10538 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=6
+09-04 21:37:06.044  2932  3288 W OpenGLRenderer: Incorrectly called buildLayer on View: WorkspaceCellLayoutChildren, destroying layer...
+09-04 21:37:06.044  2932  3288 W OpenGLRenderer: Incorrectly called buildLayer on View: WorkspaceCellLayoutChildren, destroying layer...
+09-04 21:37:06.070   295   323 I SurfaceFlinger: id=373 Removed com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity (1/7)
+09-04 21:37:06.070   295   319 I SurfaceFlinger: id=373 Removed com.sec.android.app.launcher/com.sec.android.app.launcher.activities.LauncherActivity (-2/7)
+09-04 21:37:06.074  2372  2397 D ForegroundUtils: could not check pending caller
+09-04 21:37:06.075 29083 29083 I SKBD    : Xt9ConfigMgr ET9AWSetConstructedWords mFieldSpecificType = 2
+09-04 21:37:06.076 29083 29083 I SKBD    : XT9Engine SKDB mExistingShortCutNum  : 0 updating : 0
+09-04 21:37:06.076 29083 29083 I SKBD    : Xt9ConfigMgr initLinguistic : 2326, 40
+09-04 21:37:06.076 29083 29083 I SKBD    : aar getUmlautMap() languageCode : pt_BR
+09-04 21:37:06.076 29083 29083 I SKBD    : aar getUmlautMap() umluatMap size : 6
+09-04 21:37:06.079 29083 29083 E SKBD    : ahi setCurrentInputModule mCurrentInputModule index: 10
+09-04 21:37:06.084   295   323 I SurfaceFlinger: id=374 Removed Starting com.betrybe.sociallogin (4/6)
+09-04 21:37:06.097   295   319 I SurfaceFlinger: id=374 Removed Starting com.betrybe.sociallogin (-2/6)
+09-04 21:37:06.098   295   295 D SurfaceFlinger:   Display[0] configurations (* current):
+09-04 21:37:06.098   295   295 D SurfaceFlinger:     * 0: 720x1280, xdpi=281.352997, ydpi=282.713013, refresh=16666667
+09-04 21:37:06.098   295   295 D SurfaceFlinger:   numHwLayers=3, flags=00000000
+09-04 21:37:06.098   295   295 D SurfaceFlinger:     type   |  handle  | hint | flag | tr | blnd |   format    |     source crop (l,t,r,b)      |          frame         | name
+09-04 21:37:06.098   295   295 D SurfaceFlinger: -----------+----------+------+------+----+------+-------------+--------------------------------+------------------------+------
+09-04 21:37:06.098   295   295 D SurfaceFlinger:        HWC | a6a9d780 | 0002 | 0000 | 00 | 0100 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | com.betrybe.sociallogin/com.betrybe.sociallogin.MainActivity
+09-04 21:37:06.098   295   295 D SurfaceFlinger:        HWC | a6a9d1e0 | 0002 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0,   54.0 |    0,    0,  720,   54 | StatusBar
+09-04 21:37:06.098   295   295 D SurfaceFlinger:  FB TARGET | aa722560 | 0000 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | HWC_FRAMEBUFFER_TARGET
+09-04 21:37:06.120 29083 29083 I SKBD    : Xt9ConfigMgr ET9AWSetConstructedWords mFieldSpecificType = 2
+09-04 21:37:06.121 29083 29083 I SKBD    : XT9Engine SKDB mExistingShortCutNum  : 0 updating : 0
+09-04 21:37:06.121 29083 29083 I SKBD    : Xt9ConfigMgr initLinguistic : 2326, 42
+09-04 21:37:06.122 29083 29083 I SKBD    : aio getCurrentKeyboard
+09-04 21:37:06.122 29083 29083 I SKBD    : aio getTextKeyboard
+09-04 21:37:06.123 29083 29083 I SKBD    : aio CarMode is off
+09-04 21:37:06.125 29083 29083 I SKBD_DUAL: KeyboardLayoutSettingsFragment getVirtualWidth: modifying virtualWidth as it is greater than deviceWidth
+09-04 21:37:06.125 29083 29083 I SKBD    : aen [Resize] mFractionBaseWidth  720  mAdditionalLeftPadding  0
+09-04 21:37:06.127 29083 29083 I SKBD    : aen [Resize]Row #  0  mTotalWidth  721
+09-04 21:37:06.128 29083 29083 I SKBD    : aen [Resize]Row #  1  mTotalWidth  721
+09-04 21:37:06.128 29083 29083 I SKBD    : aen [Resize]Row #  2  mTotalWidth  721
+09-04 21:37:06.130 29083 29083 I SKBD    : aen [Resize]Row #  3  mTotalWidth  721
+09-04 21:37:06.132 29083 29083 I SKBD    : aen [Resize] Row #  4  mTotalWidth  721
+09-04 21:37:06.135 29083 29083 D SKBD    : mIsUseStaticTouchRecognizedArea =  false
+09-04 21:37:06.138 29083 29083 E SKBD    : XT9Engine ET9KDB_GetKdbNum : 39
+09-04 21:37:06.138 29083 29083 E SKBD    : XT9Engine ET9KDB_GetPageNum : 39
+09-04 21:37:06.139 29083 29083 I SKBD    : XT9Engine setKeyboardSize : error - 0, witdh - 721, height - 517
+09-04 21:37:06.140 29083 29083 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=1
+09-04 21:37:06.141 29083 29083 I SKBD    : aez startInputViewShowTips: true true
+09-04 21:37:06.142 29083 29083 I SKBD    : aez startInputViewShowTips: conditions for show dialog : true true true
+09-04 21:37:06.142 29083 29083 I SKBD    : aez showDlgMsgBoxOriginal: true true true
+09-04 21:37:06.142 29083 29083 I SKBD    : abx getDefaultInputRange : UNKNOWN
+09-04 21:37:06.145 29083 10540 I SKBD    : aiq InputMethodSubtype is found as local:pt_BR
+09-04 21:37:06.147   672  4669 D InputMethodManagerService: isImeSwitcherDisabledPackage : false
+09-04 21:37:06.147   672  4669 D InputMethodManagerService: shouldShowImeSwitcherLocked : checking
+09-04 21:37:06.151 29083 10541 I SKBD    : vj no need to check Hint, Limit exceed or Bixby is Off
+09-04 21:37:06.152 29083 10540 I SKBD    : aiq InputMethodSubtype is set as local:pt_BR
+09-04 21:37:06.153 29083 29083 V InputMethodService: showWindow: showing!
+09-04 21:37:06.154 29083 29083 I SKBD    : SamsungKeypad onWindowShown
+09-04 21:37:06.154 29083 29083 D InputMethodService: AxT9IME.sendInputViewShownState(): true
+09-04 21:37:06.154 29083 29083 D InputMethodService: AxT9IME.IS_VISIBLE_CANDIDATE(): 0
+09-04 21:37:06.155   672  4672 D InputMethodManagerService: isImeSwitcherDisabledPackage : false
+09-04 21:37:06.155   672  4672 D InputMethodManagerService: shouldShowImeSwitcherLocked : checking
+09-04 21:37:06.163   295   295 I SurfaceFlinger: id=376 createSurf (720x733),1 flag=4, InputMethod
+09-04 21:37:06.172 29083 29083 D ViewRootImpl@b8f48a7[InputMethod]: Relayout returned: oldFrame=[0,547][720,1280] newFrame=[0,547][720,1280] result=0x7 surface={isValid=true 2133780480} surfaceGenerationChanged=true
+09-04 21:37:06.172 29083 29083 D ViewRootImpl@b8f48a7[InputMethod]: mHardwareRenderer.initialize() mSurface={isValid=true 2133780480} hwInitialized=true
+09-04 21:37:06.176 29083 29083 I SKBD    : act getNaviationBarHeight() first use took : 1
+09-04 21:37:06.202 10329 10329 D UiControllerImpl: Injecting string: "a"
+09-04 21:37:06.203   672  3577 D InputDispatcher: Inject key (10329): action=0, eventTime=167647632000000
+09-04 21:37:06.204   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x0 (0)
+09-04 21:37:06.238 29083 29083 I SKBD    : AbstractKeyboardView drawAllKey nanoTime= 36533698, isOrientationLandscape= false
+09-04 21:37:06.252 29083 29083 I SKBD    : SamsungKeypad [HWKeyboard] This input is not processed by SKBD.
+09-04 21:37:06.252 29083 29083 D InputMethodService: onKeyDown not B key
+09-04 21:37:06.264 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 0
+09-04 21:37:06.272 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=19
+09-04 21:37:06.272 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: MSG_RESIZED: frame=Rect(0, 0 - 720, 1280) ci=Rect(0, 54 - 0, 0) vi=Rect(0, 54 - 0, 589) or=1
+09-04 21:37:06.298   295   295 D SurfaceFlinger:   Display[0] configurations (* current):
+09-04 21:37:06.298   295   295 D SurfaceFlinger:     * 0: 720x1280, xdpi=281.352997, ydpi=282.713013, refresh=16666667
+09-04 21:37:06.298   295   295 D SurfaceFlinger:   numHwLayers=4, flags=00000000
+09-04 21:37:06.298   295   295 D SurfaceFlinger:     type   |  handle  | hint | flag | tr | blnd |   format    |     source crop (l,t,r,b)      |          frame         | name
+09-04 21:37:06.298   295   295 D SurfaceFlinger: -----------+----------+------+------+----+------+-------------+--------------------------------+------------------------+------
+09-04 21:37:06.298   295   295 D SurfaceFlinger:        HWC | a6a9d4e0 | 0002 | 0000 | 00 | 0100 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | com.betrybe.sociallogin/com.betrybe.sociallogin.MainActivity
+09-04 21:37:06.298   295   295 D SurfaceFlinger:        HWC | a6a9d6c0 | 0002 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0,  627.0 |    0,  653,  720, 1280 | InputMethod
+09-04 21:37:06.298   295   295 D SurfaceFlinger:        HWC | a6a9d000 | 0002 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0,   54.0 |    0,    0,  720,   54 | StatusBar
+09-04 21:37:06.298   295   295 D SurfaceFlinger:  FB TARGET | aa722560 | 0000 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | HWC_FRAMEBUFFER_TARGET
+09-04 21:37:06.301 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[1] done, tookTime=29
+09-04 21:37:06.303   672  2985 D InputDispatcher: Inject key (10329): action=1, eventTime=167647729000000
+09-04 21:37:06.304   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x1 (0)
+09-04 21:37:06.307 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[1] done, tookTime=6
+09-04 21:37:06.308 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[127] done, tookTime=1
+09-04 21:37:06.309 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[127] done, tookTime=1
+09-04 21:37:06.310 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=1
+09-04 21:37:06.319 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[63] done, tookTime=6
+09-04 21:37:06.338 29083 29083 I SKBD    : XT9Engine updateSelectList : 19
+09-04 21:37:06.338 29083 29083 D InputMethodService: onKeyUp not B key
+09-04 21:37:06.339 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 1
+09-04 21:37:06.341 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[1] done, tookTime=1
+09-04 21:37:06.342 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[1] done, tookTime=1
+09-04 21:37:06.344 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=2
+09-04 21:37:06.346 10329 10329 I ViewInteraction: Performing 'close keyboard' action on view view.getRootView() to equal view
+09-04 21:37:06.346 10329 10329 D IdlingRegistry: Registering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@cf817d2]
+09-04 21:37:06.347 10329 10329 D InputMethodManager: HSIFW - flag : 0 Pid : 10329
+09-04 21:37:06.347   672  4679 V InputMethodManagerService: Client requesting input be hidden, flags : 0
+09-04 21:37:06.347   672  4679 V InputMethodManagerService: hideCurrentInputLocked : send MSG_HIDE_SOFT_INPUT
+09-04 21:37:06.349   672  4679 E InputMethodManagerService: Perflock object null
+09-04 21:37:06.353 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[127] done, tookTime=9
+09-04 21:37:06.355 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[127] done, tookTime=2
+09-04 21:37:06.357 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=2
+09-04 21:37:06.358 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[63] done, tookTime=1
+09-04 21:37:06.379 29083 29083 I SKBD    : XT9Engine updateSelectList : 21
+09-04 21:37:06.383 29083 29083 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=3
+09-04 21:37:06.385 29083 29083 V InputMethodService: hideSoftInput(), flags : 0
+09-04 21:37:06.385   672  2980 D InputMethodManagerService: isImeSwitcherDisabledPackage : false
+09-04 21:37:06.386 29083 29083 V InputMethodService: CALL: onFinishInputView
+09-04 21:37:06.386 29083 29083 I SKBD    : SamsungKeypad onFinishInputView
+09-04 21:37:06.387 29083 29083 I SKBD    : uz onFinishInput() took nanoTime:  27552
+09-04 21:37:06.387 29083 29083 E SKBD    : aeo getInstance start
+09-04 21:37:06.387 29083 29083 E SKBD    : aeo sendSIPInformation state: 6   isAbstractKeyboardView :  true
+09-04 21:37:06.389 29083 29083 V InputMethodService: hideWindow: hiding!
+09-04 21:37:06.389 29083 29083 D InputMethodService: notifyKeyboardClosed
+09-04 21:37:06.390 29083 29083 D InputMethodService: AxT9IME.sendInputViewShownState(): false
+09-04 21:37:06.390 29083 29083 D InputMethodService: AxT9IME.IS_VISIBLE_CANDIDATE(): 0
+09-04 21:37:06.391 29083 10552 E SKBD    : aeo sending null keyboardInfo as SIP is closed
+09-04 21:37:06.422 29083 29083 D ViewRootImpl@b8f48a7[InputMethod]: mHardwareRenderer.destroy()#1
+09-04 21:37:06.430 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: MSG_RESIZED: frame=Rect(0, 0 - 720, 1280) ci=Rect(0, 54 - 0, 0) vi=Rect(0, 54 - 0, 0) or=1
+09-04 21:37:06.434 29083 29083 D ViewRootImpl@b8f48a7[InputMethod]: Relayout returned: oldFrame=[0,547][720,1280] newFrame=[0,547][720,1280] result=0x4 surface={isValid=false 0} surfaceGenerationChanged=true
+09-04 21:37:06.484 10364 10371 I art     : Ignoring second debugger -- accepting and dropping
+09-04 21:37:06.510 29083 29083 I SKBD    : [IIManager] IIfo CDT [size: 3] [cpl: 0] [ar: false] 0:[l: 2]][sc : 2][c: 2][sp: false] 1:[l: 1]][sc : 2][c: 1][sp: false] 2:[l: 1]][sc : 2][c: 1][sp: false]
+09-04 21:37:06.553   672   672 D WifiTrafficPoller: notifyOnDataActivity() - mBusMaxLock.acquire()
+09-04 21:37:06.598   295   295 D SurfaceFlinger:   Display[0] configurations (* current):
+09-04 21:37:06.598   295   295 D SurfaceFlinger:     * 0: 720x1280, xdpi=281.352997, ydpi=282.713013, refresh=16666667
+09-04 21:37:06.598   295   295 D SurfaceFlinger:   numHwLayers=3, flags=00000000
+09-04 21:37:06.598   295   295 D SurfaceFlinger:     type   |  handle  | hint | flag | tr | blnd |   format    |     source crop (l,t,r,b)      |          frame         | name
+09-04 21:37:06.598   295   295 D SurfaceFlinger: -----------+----------+------+------+----+------+-------------+--------------------------------+------------------------+------
+09-04 21:37:06.598   295   295 D SurfaceFlinger:        HWC | a6a9d4e0 | 0002 | 0000 | 00 | 0100 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | com.betrybe.sociallogin/com.betrybe.sociallogin.MainActivity
+09-04 21:37:06.598   295   295 D SurfaceFlinger:        HWC | a6a9d000 | 0002 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0,   54.0 |    0,    0,  720,   54 | StatusBar
+09-04 21:37:06.598   295   295 D SurfaceFlinger:  FB TARGET | aa722560 | 0000 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | HWC_FRAMEBUFFER_TARGET
+09-04 21:37:06.602   295   319 I SurfaceFlinger: id=376 Removed InputMethod (4/6)
+09-04 21:37:06.602   295  2428 I SurfaceFlinger: id=376 Removed InputMethod (-2/6)
+09-04 21:37:06.603 10329 10336 I art     : Ignoring second debugger -- accepting and dropping
+09-04 21:37:06.694 10329 10329 D IdlingRegistry: Unregistering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@cf817d2]
+09-04 21:37:06.703 10329 10329 I ViewInteraction: Performing 'type text(12345)' action on view an instance of android.widget.TextView and view.getHint() matching: is "Senha"
+09-04 21:37:06.707   672  2107 D InputDispatcher: Inject motion (10329): action=0x0, eventTime=167648135000000, displayId=0
+09-04 21:37:06.708   672  1842 I InputDispatcher: Delivering touch to (2019): action: 0x4, toolType: 0
+09-04 21:37:06.708   672  1842 I InputDispatcher: Delivering touch to (10329): action: 0x0, toolType: 0
+09-04 21:37:06.710 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processPointer 0
+09-04 21:37:06.750   672  2411 D InputDispatcher: Inject motion (10329): action=0x1, eventTime=167648176000000, displayId=0
+09-04 21:37:06.751   672  1842 I InputDispatcher: Delivering touch to (10329): action: 0x1, toolType: 0
+09-04 21:37:06.752 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processPointer 1
+09-04 21:37:06.783 10329 10329 V InputMethodManager: Starting input: tba=android.view.inputmethod.EditorInfo@5770885 nm : com.betrybe.sociallogin ic=androidx.emoji2.viewsintegration.EmojiInputConnection@42556da
+09-04 21:37:06.783 10329 10329 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+09-04 21:37:06.785   672  4268 D InputMethodManagerService: setCurrentInputInfo - inputContext : com.android.internal.view.IInputContext$Stub$Proxy@5db41c4 eidtorInfo : android.view.inputmethod.EditorInfo@dfce8ad missingMethods : 0
+09-04 21:37:06.785   672  4268 D InputTransport: Input channel constructed: fd=412
+09-04 21:37:06.785   672  4268 D InputTransport: Input channel destroyed: fd=412
+09-04 21:37:06.785 29083 29083 I SKBD    : SamsungKeypad [IMI] onStartInput - caller pid : 10329, caller uid : 10169
+09-04 21:37:06.785 29083 29083 I SKBD    : abx getDefaultInputRange : UNKNOWN
+09-04 21:37:06.785 29083 29083 I SKBD    : act resetBinderManager()
+09-04 21:37:06.785 29083 29083 I SKBD_SYNC: SamsungKeypad onStartInput: import DLM
+09-04 21:37:06.786 29083 29083 E SKBD    : wj isKeyboardLayoutOrCustomSymbolActivity: privateImeOptions is null
+09-04 21:37:06.787 10329 10329 D InputTransport: Input channel constructed: fd=70
+09-04 21:37:06.787 10329 10329 D InputTransport: Input channel destroyed: fd=71
+09-04 21:37:06.788 10329 10329 D InputMethodManager: SSI - flag : 0 Pid : 10329 view : com.betrybe.sociallogin
+09-04 21:37:06.788 29083 29083 I SKBD    : SamsungKeypad onViewClicked
+09-04 21:37:06.790   672  3577 V InputMethodManagerService: Client requesting input be shown, flags : 0
+09-04 21:37:06.792 29083 29083 V InputMethodService: showSoftInput(), flags : 1
+09-04 21:37:06.794 29083 29083 I SKBD    : SamsungKeypad onStartInputView
+09-04 21:37:06.795 29083 29083 I SKBD    : LegalAgreementActivity check legal agreement: false , false , false
+09-04 21:37:06.796 29083 29083 I SKBD    : act resetBinderManager()
+09-04 21:37:06.803 29083 29083 I SKBD    : wf [startInputView] info.inputType = 81 info.imeOptions = 4000006
+09-04 21:37:06.804 29083 29083 I SKBD    : aea [Utils] isKNOX is ver2.0
+09-04 21:37:06.804 29083 29083 I SKBD    : uz onStartInput() took nanoTime:  51823
+09-04 21:37:06.804 29083 29083 I SKBD    : abx setPrivateImeOptionsToTable imeOptions ( null )
+09-04 21:37:06.804 29083 29083 I SKBD    : abx imeOptions is null
+09-04 21:37:06.810 29083 29083 I SKBD    : Update SetupWizard State usc : 1 pss : false
+09-04 21:37:06.812 29083 29083 I SKBD    : abx getDefaultInputRange : UNKNOWN
+09-04 21:37:06.812 29083 29083 I SKBD    : abx getDefaultInputRange : UNKNOWN
+09-04 21:37:06.813 29083 29083 I SKBD    : abx setPrivateImeOptionsToTable imeOptions ( null )
+09-04 21:37:06.813 29083 29083 I SKBD    : abx imeOptions is null
+09-04 21:37:06.815 29083 29083 I SKBD    : Update SetupWizard State usc : 1 pss : false
+09-04 21:37:06.815 29083 29083 I SKBD    : abx getDefaultInputRange : UNKNOWN
+09-04 21:37:06.815 29083 29083 I SKBD    : abx getDefaultInputRange : UNKNOWN
+09-04 21:37:06.829 29083 29083 I SKBD    : xh mSelectedLanguageList is empty
+09-04 21:37:06.830 10329 10329 W IInputConnectionWrapper: finishComposingText on inactive InputConnection
+09-04 21:37:06.861 29083 29083 I SKBD    : Xt9ConfigMgr ET9AWSetConstructedWords mFieldSpecificType = 0
+09-04 21:37:06.862 29083 29083 I SKBD    : Xt9ConfigMgr initLinguistic : 2326, 33
+09-04 21:37:06.862 29083 29083 I SKBD    : aar getUmlautMap() languageCode : pt_BR
+09-04 21:37:06.862 29083 29083 I SKBD    : aar getUmlautMap() umluatMap size : 6
+09-04 21:37:06.866   672  4266 D SecContentProvider: query(), uri = 17 selection = isSettingsChangesAllowed
+09-04 21:37:06.868   672  2420 D SecContentProvider: query(), uri = 17 selection = isSettingsChangesAllowed
+09-04 21:37:06.872   672  2983 D SecContentProvider: query(), uri = 17 selection = isSettingsChangesAllowed
+09-04 21:37:06.874 29083 29083 I SKBD    : wf [IMI] isChangedMainValues - mPendingRefreshKeyboardView : true
+09-04 21:37:06.874 29083 29083 I SKBD    : abx getDefaultInputRange : UNKNOWN
+09-04 21:37:06.877 29083 29083 I SKBD    : aef mIsHighContrastKeyboardEnabled : false
+09-04 21:37:06.879   672  2422 D SecContentProvider: query(), uri = 17 selection = isSettingsChangesAllowed
+09-04 21:37:06.882 29083 29083 I SKBD    : KeyboardView KeyboardView init() : load resources
+09-04 21:37:06.883   672  4678 D SecContentProvider: query(), uri = 17 selection = isSettingsChangesAllowed
+09-04 21:37:06.886 29083 29083 I SKBD    : aio getCurrentKeyboard
+09-04 21:37:06.886 29083 29083 I SKBD    : aio getTextKeyboard
+09-04 21:37:06.889 29083 29083 I SKBD    : aio CarMode is off
+09-04 21:37:06.893 29083 29083 I SKBD_DUAL: KeyboardLayoutSettingsFragment getVirtualWidth: modifying virtualWidth as it is greater than deviceWidth
+09-04 21:37:06.893 29083 29083 I SKBD    : aen [Resize] mFractionBaseWidth  720  mAdditionalLeftPadding  0
+09-04 21:37:06.894 29083 29083 I SKBD    : aen [Resize]Row #  0  mTotalWidth  721
+09-04 21:37:06.896 29083 29083 I SKBD    : aen [Resize]Row #  1  mTotalWidth  721
+09-04 21:37:06.897 29083 29083 I SKBD    : aen [Resize]Row #  2  mTotalWidth  721
+09-04 21:37:06.899 29083 29083 I SKBD    : aen [Resize]Row #  3  mTotalWidth  721
+09-04 21:37:06.901 29083 29083 I SKBD    : aen [Resize] Row #  4  mTotalWidth  721
+09-04 21:37:06.903 29083 29083 D SKBD    : mIsUseStaticTouchRecognizedArea =  false
+09-04 21:37:06.906 29083 29083 E SKBD    : XT9Engine ET9KDB_GetKdbNum : 39
+09-04 21:37:06.906 29083 29083 E SKBD    : XT9Engine ET9KDB_GetPageNum : 39
+09-04 21:37:06.907 29083 29083 I SKBD    : XT9Engine setKeyboardSize : error - 0, witdh - 721, height - 517
+09-04 21:37:06.910   672  4267 D SecContentProvider: query(), uri = 17 selection = isSettingsChangesAllowed
+09-04 21:37:06.916 29083 29083 E SKBD    : ahi setCurrentInputModule mCurrentInputModule index: 10
+09-04 21:37:06.920 29083 10555 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=6
+09-04 21:37:06.920 29083 10555 E SKBD    : XT9Engine updateShiftState() : 2
+09-04 21:37:06.952 29083 29083 I SKBD    : Xt9ConfigMgr ET9AWSetConstructedWords mFieldSpecificType = 0
+09-04 21:37:06.953 29083 29083 I SKBD    : Xt9ConfigMgr initLinguistic : 2326, 37
+09-04 21:37:06.953 29083 29083 I SKBD    : aar getUmlautMap() languageCode : pt_BR
+09-04 21:37:06.953 29083 29083 I SKBD    : aar getUmlautMap() umluatMap size : 6
+09-04 21:37:06.956 29083 29083 E SKBD    : ahi setCurrentInputModule mCurrentInputModule index: 10
+09-04 21:37:06.988 29083 29083 I SKBD    : Xt9ConfigMgr ET9AWSetConstructedWords mFieldSpecificType = 0
+09-04 21:37:06.989 29083 29083 I SKBD    : Xt9ConfigMgr initLinguistic : 2326, 33
+09-04 21:37:06.989 29083 29083 I SKBD    : aio getCurrentKeyboard
+09-04 21:37:06.989 29083 29083 I SKBD    : aio getTextKeyboard
+09-04 21:37:06.990 29083 29083 I SKBD    : aio CarMode is off
+09-04 21:37:06.990 29083 29083 E SKBD    : aio get previous
+09-04 21:37:06.990 29083 29083 D SKBD    : mIsUseStaticTouchRecognizedArea =  false
+09-04 21:37:06.994 29083 29083 I SKBD    : XT9Engine setKeyboardSize : error - 0, witdh - 721, height - 517
+09-04 21:37:06.995 29083 29083 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=1
+09-04 21:37:06.996 29083 29083 I SKBD    : aez startInputViewShowTips: true true
+09-04 21:37:06.996 29083 29083 I SKBD    : aez startInputViewShowTips: conditions for show dialog : true true true
+09-04 21:37:06.996 29083 29083 I SKBD    : aez showDlgMsgBoxOriginal: true true true
+09-04 21:37:06.996 29083 29083 I SKBD    : abx getDefaultInputRange : UNKNOWN
+09-04 21:37:07.001   672  2978 D InputMethodManagerService: isImeSwitcherDisabledPackage : false
+09-04 21:37:07.001   672  2978 D InputMethodManagerService: shouldShowImeSwitcherLocked : checking
+09-04 21:37:07.002 29083 10558 I SKBD    : vj no need to check Hint, Limit exceed or Bixby is Off
+09-04 21:37:07.003 29083 10557 I SKBD    : aiq InputMethodSubtype is found as local:pt_BR
+09-04 21:37:07.006 29083 10557 I SKBD    : aiq InputMethodSubtype is set as local:pt_BR
+09-04 21:37:07.006 29083 29083 V InputMethodService: showWindow: showing!
+09-04 21:37:07.006 29083 29083 I SKBD    : SamsungKeypad onWindowShown
+09-04 21:37:07.007 29083 29083 D InputMethodService: AxT9IME.sendInputViewShownState(): true
+09-04 21:37:07.007 29083 29083 D InputMethodService: AxT9IME.IS_VISIBLE_CANDIDATE(): 4
+09-04 21:37:07.012   672  4267 D InputMethodManagerService: isImeSwitcherDisabledPackage : false
+09-04 21:37:07.012   672  4267 D InputMethodManagerService: shouldShowImeSwitcherLocked : checking
+09-04 21:37:07.021   295   295 I SurfaceFlinger: id=377 createSurf (720x733),1 flag=4, InputMethod
+09-04 21:37:07.029 29083 29083 D ViewRootImpl@b8f48a7[InputMethod]: Relayout returned: oldFrame=[0,547][720,1280] newFrame=[0,547][720,1280] result=0x7 surface={isValid=true 2133526528} surfaceGenerationChanged=true
+09-04 21:37:07.029 29083 29083 D ViewRootImpl@b8f48a7[InputMethod]: mHardwareRenderer.initialize() mSurface={isValid=true 2133526528} hwInitialized=true
+09-04 21:37:07.033 29083 29083 I SKBD    : act getNaviationBarHeight() first use took : 0
+09-04 21:37:07.081 10329 10329 D UiControllerImpl: Injecting string: "12345"
+09-04 21:37:07.083   672  2810 D InputDispatcher: Inject key (10329): action=0, eventTime=167648511000000
+09-04 21:37:07.083   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x0 (0)
+09-04 21:37:07.086 29083 29083 I SKBD    : AbstractKeyboardView drawAllKey nanoTime= 35143907, isOrientationLandscape= false
+09-04 21:37:07.098 29083 29083 I SKBD    : SamsungKeypad [HWKeyboard] This input is not processed by SKBD.
+09-04 21:37:07.098 29083 29083 D InputMethodService: onKeyDown not B key
+09-04 21:37:07.110 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 0
+09-04 21:37:07.120 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=20
+09-04 21:37:07.121 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: MSG_RESIZED: frame=Rect(0, 0 - 720, 1280) ci=Rect(0, 54 - 0, 0) vi=Rect(0, 54 - 0, 517) or=1
+09-04 21:37:07.142 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[1] done, tookTime=22
+09-04 21:37:07.149   295   295 D SurfaceFlinger:   Display[0] configurations (* current):
+09-04 21:37:07.149   295   295 D SurfaceFlinger:     * 0: 720x1280, xdpi=281.352997, ydpi=282.713013, refresh=16666667
+09-04 21:37:07.149   295   295 D SurfaceFlinger:   numHwLayers=4, flags=00000000
+09-04 21:37:07.149   295   295 D SurfaceFlinger:     type   |  handle  | hint | flag | tr | blnd |   format    |     source crop (l,t,r,b)      |          frame         | name
+09-04 21:37:07.149   295   295 D SurfaceFlinger: -----------+----------+------+------+----+------+-------------+--------------------------------+------------------------+------
+09-04 21:37:07.149   295   295 D SurfaceFlinger:        HWC | a6a9d300 | 0002 | 0000 | 00 | 0100 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | com.betrybe.sociallogin/com.betrybe.sociallogin.MainActivity
+09-04 21:37:07.149   295   295 D SurfaceFlinger:        HWC | a6a9d6c0 | 0002 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0,  627.0 |    0,  653,  720, 1280 | InputMethod
+09-04 21:37:07.149   295   295 D SurfaceFlinger:        HWC | a6a9d120 | 0002 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0,   54.0 |    0,    0,  720,   54 | StatusBar
+09-04 21:37:07.149   295   295 D SurfaceFlinger:  FB TARGET | aa722560 | 0000 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | HWC_FRAMEBUFFER_TARGET
+09-04 21:37:07.152 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[1] done, tookTime=10
+09-04 21:37:07.171 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[1] done, tookTime=18
+09-04 21:37:07.189 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[1] done, tookTime=18
+09-04 21:37:07.204 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=15
+09-04 21:37:07.221 29083 29083 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=16
+09-04 21:37:07.384   672  4678 D InputDispatcher: Inject key (10329): action=1, eventTime=167648811000000
+09-04 21:37:07.384   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x1 (0)
+09-04 21:37:07.385 29083 29083 D InputMethodService: onKeyUp not B key
+09-04 21:37:07.386 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 1
+09-04 21:37:07.392   672  2985 D InputDispatcher: Inject key (10329): action=0, eventTime=167648818000000
+09-04 21:37:07.393   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x0 (0)
+09-04 21:37:07.394 29083 29083 I SKBD    : SamsungKeypad [HWKeyboard] This input is not processed by SKBD.
+09-04 21:37:07.394 29083 29083 D InputMethodService: onKeyDown not B key
+09-04 21:37:07.395 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 0
+09-04 21:37:07.428 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[1] done, tookTime=19
+09-04 21:37:07.431 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[1] done, tookTime=3
+09-04 21:37:07.432   672  2112 D InputDispatcher: Inject key (10329): action=1, eventTime=167648858000000
+09-04 21:37:07.432   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x1 (0)
+09-04 21:37:07.433 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=2
+09-04 21:37:07.434 29083 29083 D InputMethodService: onKeyUp not B key
+09-04 21:37:07.434 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 1
+09-04 21:37:07.436 29083 29083 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=2
+09-04 21:37:07.439   672  4267 D InputDispatcher: Inject key (10329): action=0, eventTime=167648866000000
+09-04 21:37:07.439   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x0 (0)
+09-04 21:37:07.440 29083 29083 I SKBD    : SamsungKeypad [HWKeyboard] This input is not processed by SKBD.
+09-04 21:37:07.440 29083 29083 D InputMethodService: onKeyDown not B key
+09-04 21:37:07.440 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 0
+09-04 21:37:07.462 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[1] done, tookTime=11
+09-04 21:37:07.463   672  4270 D InputDispatcher: Inject key (10329): action=1, eventTime=167648890000000
+09-04 21:37:07.464   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x1 (0)
+09-04 21:37:07.464 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[1] done, tookTime=2
+09-04 21:37:07.465 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=1
+09-04 21:37:07.465 29083 29083 D InputMethodService: onKeyUp not B key
+09-04 21:37:07.466 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 1
+09-04 21:37:07.466 29083 29083 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=1
+09-04 21:37:07.467   672  4263 D InputDispatcher: Inject key (10329): action=0, eventTime=167648896000000
+09-04 21:37:07.468   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x0 (0)
+09-04 21:37:07.468 29083 29083 I SKBD    : SamsungKeypad [HWKeyboard] This input is not processed by SKBD.
+09-04 21:37:07.468 29083 29083 D InputMethodService: onKeyDown not B key
+09-04 21:37:07.469 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 0
+09-04 21:37:07.492   672  2809 D InputDispatcher: Inject key (10329): action=1, eventTime=167648920000000
+09-04 21:37:07.493   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x1 (0)
+09-04 21:37:07.493 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[1] done, tookTime=16
+09-04 21:37:07.495 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[1] done, tookTime=2
+09-04 21:37:07.497 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=1
+09-04 21:37:07.497 29083 29083 D InputMethodService: onKeyUp not B key
+09-04 21:37:07.497 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 1
+09-04 21:37:07.498 29083 29083 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=1
+09-04 21:37:07.499   672  2113 D InputDispatcher: Inject key (10329): action=0, eventTime=167648928000000
+09-04 21:37:07.500   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x0 (0)
+09-04 21:37:07.500 29083 29083 I SKBD    : SamsungKeypad [HWKeyboard] This input is not processed by SKBD.
+09-04 21:37:07.500 29083 29083 D InputMethodService: onKeyDown not B key
+09-04 21:37:07.501 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 0
+09-04 21:37:07.525 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[1] done, tookTime=16
+09-04 21:37:07.529   672  2810 D InputDispatcher: Inject key (10329): action=1, eventTime=167648954000000
+09-04 21:37:07.530 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[1] done, tookTime=5
+09-04 21:37:07.530   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x1 (0)
+09-04 21:37:07.533 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=3
+09-04 21:37:07.534 29083 29083 D InputMethodService: onKeyUp not B key
+09-04 21:37:07.535 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 1
+09-04 21:37:07.538 29083 29083 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=4
+09-04 21:37:07.548 10329 10329 I ViewInteraction: Performing 'close keyboard' action on view view.getRootView() to equal view
+09-04 21:37:07.549 10329 10329 D IdlingRegistry: Registering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@2e204f4]
+09-04 21:37:07.549 10329 10329 D InputMethodManager: HSIFW - flag : 0 Pid : 10329
+09-04 21:37:07.550   672  2422 V InputMethodManagerService: Client requesting input be hidden, flags : 0
+09-04 21:37:07.550   672  2422 V InputMethodManagerService: hideCurrentInputLocked : send MSG_HIDE_SOFT_INPUT
+09-04 21:37:07.552 29083 29083 V InputMethodService: hideSoftInput(), flags : 0
+09-04 21:37:07.553   672  2422 E InputMethodManagerService: Perflock object null
+09-04 21:37:07.553   672  4678 D InputMethodManagerService: isImeSwitcherDisabledPackage : false
+09-04 21:37:07.555   672   672 D WifiTrafficPoller: notifyOnDataActivity() - mBusMaxLock.acquire()
+09-04 21:37:07.557 29083 29083 V InputMethodService: CALL: onFinishInputView
+09-04 21:37:07.557 29083 29083 I SKBD    : SamsungKeypad onFinishInputView
+09-04 21:37:07.559 29083 29083 I SKBD    : uz onFinishInput() took nanoTime:  60261
+09-04 21:37:07.559 29083 29083 E SKBD    : aeo getInstance start
+09-04 21:37:07.559 29083 29083 E SKBD    : aeo sendSIPInformation state: 6   isAbstractKeyboardView :  true
+09-04 21:37:07.561 29083 29083 V InputMethodService: hideWindow: hiding!
+09-04 21:37:07.562 29083 29083 D InputMethodService: notifyKeyboardClosed
+09-04 21:37:07.565 29083 29083 D InputMethodService: AxT9IME.sendInputViewShownState(): false
+09-04 21:37:07.565 29083 29083 D InputMethodService: AxT9IME.IS_VISIBLE_CANDIDATE(): 4
+09-04 21:37:07.569 29083 10561 E SKBD    : aeo sending null keyboardInfo as SIP is closed
+09-04 21:37:07.586 29083 29083 D ViewRootImpl@b8f48a7[InputMethod]: mHardwareRenderer.destroy()#1
+09-04 21:37:07.594 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: MSG_RESIZED: frame=Rect(0, 0 - 720, 1280) ci=Rect(0, 54 - 0, 0) vi=Rect(0, 54 - 0, 0) or=1
+09-04 21:37:07.595 29083 29083 D ViewRootImpl@b8f48a7[InputMethod]: Relayout returned: oldFrame=[0,547][720,1280] newFrame=[0,547][720,1280] result=0x4 surface={isValid=false 0} surfaceGenerationChanged=true
+09-04 21:37:07.769   295   295 D SurfaceFlinger:   Display[0] configurations (* current):
+09-04 21:37:07.769   295   295 D SurfaceFlinger:     * 0: 720x1280, xdpi=281.352997, ydpi=282.713013, refresh=16666667
+09-04 21:37:07.769   295   295 D SurfaceFlinger:   numHwLayers=3, flags=00000000
+09-04 21:37:07.769   295   295 D SurfaceFlinger:     type   |  handle  | hint | flag | tr | blnd |   format    |     source crop (l,t,r,b)      |          frame         | name
+09-04 21:37:07.769   295   295 D SurfaceFlinger: -----------+----------+------+------+----+------+-------------+--------------------------------+------------------------+------
+09-04 21:37:07.769   295   295 D SurfaceFlinger:        HWC | a6a9d4e0 | 0002 | 0000 | 00 | 0100 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | com.betrybe.sociallogin/com.betrybe.sociallogin.MainActivity
+09-04 21:37:07.769   295   295 D SurfaceFlinger:        HWC | a6a9d1e0 | 0002 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0,   54.0 |    0,    0,  720,   54 | StatusBar
+09-04 21:37:07.769   295   295 D SurfaceFlinger:  FB TARGET | aa722560 | 0000 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | HWC_FRAMEBUFFER_TARGET
+09-04 21:37:07.776   295   319 I SurfaceFlinger: id=377 Removed InputMethod (4/6)
+09-04 21:37:07.778   295   323 I SurfaceFlinger: id=377 Removed InputMethod (-2/6)
+09-04 21:37:07.877 10329 10329 D IdlingRegistry: Unregistering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@2e204f4]
+09-04 21:37:07.887 10329 10329 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230957/com.betrybe.sociallogin:id/login_button>
+09-04 21:37:07.892   672   695 D InputDispatcher: Inject motion (10329): action=0x0, eventTime=167649320000000, displayId=0
+09-04 21:37:07.892   672  1842 I InputDispatcher: Delivering touch to (2019): action: 0x4, toolType: 0
+09-04 21:37:07.893   672  1842 I InputDispatcher: Delivering touch to (10329): action: 0x0, toolType: 0
+09-04 21:37:07.895 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processPointer 0
+09-04 21:37:07.936   672  4680 D InputDispatcher: Inject motion (10329): action=0x1, eventTime=167649364000000, displayId=0
+09-04 21:37:07.936   672  1842 I InputDispatcher: Delivering touch to (10329): action: 0x1, toolType: 0
+09-04 21:37:07.936 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processPointer 1
+09-04 21:37:07.944 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:07.945 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:07.997  2019  2423 D NetworkController.MobileSignalController(0/-2): onSignalStrengthsChanged signalStrength=SignalStrength: 25 99 -120 -160 -120 -1 -1 99 2147483647 2147483647 2147483647 2147483647 2147483647 0x4 gsm|lte level=4
+09-04 21:37:07.997  2019  2423 D NetworkController.MobileSignalController(0/-2): getMobileIconGroup(): 0
+09-04 21:37:08.215 10329 10329 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Email inválido"
+09-04 21:37:08.232 10329 10329 I ViewInteraction: Performing 'replace text()' action on view an instance of android.widget.TextView and view.getHint() matching: is "Email"
+09-04 21:37:08.267 10329 10329 I ViewInteraction: Performing 'type text(teste@betrybe.com)' action on view an instance of android.widget.TextView and view.getHint() matching: is "Email"
+09-04 21:37:08.272   672  3577 D InputDispatcher: Inject motion (10329): action=0x0, eventTime=167649700000000, displayId=0
+09-04 21:37:08.273   672  1842 I InputDispatcher: Delivering touch to (2019): action: 0x4, toolType: 0
+09-04 21:37:08.273   672  1842 I InputDispatcher: Delivering touch to (10329): action: 0x0, toolType: 0
+09-04 21:37:08.274 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processPointer 0
+09-04 21:37:08.312   672  4679 D InputDispatcher: Inject motion (10329): action=0x1, eventTime=167649740000000, displayId=0
+09-04 21:37:08.312   672  1842 I InputDispatcher: Delivering touch to (10329): action: 0x1, toolType: 0
+09-04 21:37:08.314 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processPointer 1
+09-04 21:37:08.325 10329 10329 V InputMethodManager: Starting input: tba=android.view.inputmethod.EditorInfo@c21c6cb nm : com.betrybe.sociallogin ic=androidx.emoji2.viewsintegration.EmojiInputConnection@f5aea8
+09-04 21:37:08.325 10329 10329 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+09-04 21:37:08.327   672  2112 D InputMethodManagerService: setCurrentInputInfo - inputContext : com.android.internal.view.IInputContext$Stub$Proxy@9bf8065 eidtorInfo : android.view.inputmethod.EditorInfo@2c6a13a missingMethods : 0
+09-04 21:37:08.327   672  2112 D InputTransport: Input channel constructed: fd=391
+09-04 21:37:08.327   672  2112 D InputTransport: Input channel destroyed: fd=391
+09-04 21:37:08.327 10329 10329 D InputTransport: Input channel constructed: fd=71
+09-04 21:37:08.327 29083 29083 I SKBD    : SamsungKeypad [IMI] onStartInput - caller pid : 10329, caller uid : 10169
+09-04 21:37:08.327 29083 29083 I SKBD    : abx getDefaultInputRange : UNKNOWN
+09-04 21:37:08.327 29083 29083 I SKBD    : act resetBinderManager()
+09-04 21:37:08.327 10329 10329 D InputTransport: Input channel destroyed: fd=70
+09-04 21:37:08.327 29083 29083 I SKBD_SYNC: SamsungKeypad onStartInput: import DLM
+09-04 21:37:08.327 29083 29083 E SKBD    : wj isKeyboardLayoutOrCustomSymbolActivity: privateImeOptions is null
+09-04 21:37:08.328 10329 10329 D InputMethodManager: SSI - flag : 0 Pid : 10329 view : com.betrybe.sociallogin
+09-04 21:37:08.328 29083 29083 I SKBD    : SamsungKeypad onViewClicked
+09-04 21:37:08.328   672  4670 V InputMethodManagerService: Client requesting input be shown, flags : 0
+09-04 21:37:08.329 29083 29083 V InputMethodService: showSoftInput(), flags : 1
+09-04 21:37:08.330 29083 29083 I SKBD    : SamsungKeypad onStartInputView
+09-04 21:37:08.331 29083 29083 I SKBD    : LegalAgreementActivity check legal agreement: false , false , false
+09-04 21:37:08.331 29083 29083 I SKBD    : act resetBinderManager()
+09-04 21:37:08.339 29083 29083 I SKBD    : wf [startInputView] info.inputType = 21 info.imeOptions = 8000005
+09-04 21:37:08.340 29083 29083 I SKBD    : aea [Utils] isKNOX is ver2.0
+09-04 21:37:08.340 29083 29083 I SKBD    : uz onStartInput() took nanoTime:  49479
+09-04 21:37:08.340 29083 29083 I SKBD    : abx setPrivateImeOptionsToTable imeOptions ( null )
+09-04 21:37:08.340 29083 29083 I SKBD    : abx imeOptions is null
+09-04 21:37:08.343 29083 29083 I SKBD    : Update SetupWizard State usc : 1 pss : false
+09-04 21:37:08.343 29083 29083 I SKBD    : abx getDefaultInputRange : UNKNOWN
+09-04 21:37:08.343 29083 29083 I SKBD    : abx getDefaultInputRange : UNKNOWN
+09-04 21:37:08.344 29083 29083 I SKBD    : abx setPrivateImeOptionsToTable imeOptions ( null )
+09-04 21:37:08.344 29083 29083 I SKBD    : abx imeOptions is null
+09-04 21:37:08.346 29083 29083 I SKBD    : Update SetupWizard State usc : 1 pss : false
+09-04 21:37:08.346 29083 29083 I SKBD    : abx getDefaultInputRange : UNKNOWN
+09-04 21:37:08.346 29083 29083 I SKBD    : abx getDefaultInputRange : UNKNOWN
+09-04 21:37:08.365 29083 29083 I SKBD    : xh mSelectedLanguageList is empty
+09-04 21:37:08.378 10329 10329 W IInputConnectionWrapper: finishComposingText on inactive InputConnection
+09-04 21:37:08.397 29083 29083 I SKBD    : Xt9ConfigMgr ET9AWSetConstructedWords mFieldSpecificType = 2
+09-04 21:37:08.397 29083 29083 I SKBD    : XT9Engine SKDB mExistingShortCutNum  : 0 updating : 0
+09-04 21:37:08.398 29083 29083 I SKBD    : Xt9ConfigMgr initLinguistic : 2326, 33
+09-04 21:37:08.398 29083 29083 I SKBD    : aar getUmlautMap() languageCode : pt_BR
+09-04 21:37:08.398 29083 29083 I SKBD    : aar getUmlautMap() umluatMap size : 6
+09-04 21:37:08.401   672  4266 D SecContentProvider: query(), uri = 17 selection = isSettingsChangesAllowed
+09-04 21:37:08.404   672  4269 D SecContentProvider: query(), uri = 17 selection = isSettingsChangesAllowed
+09-04 21:37:08.408   672  2810 D SecContentProvider: query(), uri = 17 selection = isSettingsChangesAllowed
+09-04 21:37:08.410 29083 29083 I SKBD    : wf [IMI] isChangedMainValues - mPendingRefreshKeyboardView : true
+09-04 21:37:08.411 29083 29083 I SKBD    : abx getDefaultInputRange : UNKNOWN
+09-04 21:37:08.415   672  2420 D SecContentProvider: query(), uri = 17 selection = isSettingsChangesAllowed
+09-04 21:37:08.418 29083 29083 I SKBD    : abx getDefaultInputRange : UNKNOWN
+09-04 21:37:08.418 29083 29083 I SKBD    : abx getDefaultInputRange : UNKNOWN
+09-04 21:37:08.418 29083 29083 I SKBD    : abx getDefaultLanguage() value is null
+09-04 21:37:08.427 29083 10566 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=2
+09-04 21:37:08.427 29083 29083 E SKBD    : ahi setCurrentInputModule mCurrentInputModule index: 10
+09-04 21:37:08.460 29083 29083 I SKBD    : Xt9ConfigMgr ET9AWSetConstructedWords mFieldSpecificType = 2
+09-04 21:37:08.461 29083 29083 I SKBD    : XT9Engine SKDB mExistingShortCutNum  : 0 updating : 0
+09-04 21:37:08.462 29083 29083 I SKBD    : Xt9ConfigMgr initLinguistic : 2326, 35
+09-04 21:37:08.462 29083 29083 I SKBD    : aar getUmlautMap() languageCode : pt_BR
+09-04 21:37:08.462 29083 29083 I SKBD    : aar getUmlautMap() umluatMap size : 6
+09-04 21:37:08.465 29083 29083 E SKBD    : ahi setCurrentInputModule mCurrentInputModule index: 10
+09-04 21:37:08.489 10364 10371 I art     : Ignoring second debugger -- accepting and dropping
+09-04 21:37:08.496 29083 29083 I SKBD    : Xt9ConfigMgr ET9AWSetConstructedWords mFieldSpecificType = 2
+09-04 21:37:08.497 29083 29083 I SKBD    : XT9Engine SKDB mExistingShortCutNum  : 0 updating : 0
+09-04 21:37:08.497 29083 29083 I SKBD    : Xt9ConfigMgr initLinguistic : 2326, 32
+09-04 21:37:08.498 29083 29083 I SKBD    : aio getCurrentKeyboard
+09-04 21:37:08.498 29083 29083 I SKBD    : aio getTextKeyboard
+09-04 21:37:08.498 29083 29083 I SKBD    : aio CarMode is off
+09-04 21:37:08.501 29083 29083 I SKBD_DUAL: KeyboardLayoutSettingsFragment getVirtualWidth: modifying virtualWidth as it is greater than deviceWidth
+09-04 21:37:08.501 29083 29083 I SKBD    : aen [Resize] mFractionBaseWidth  720  mAdditionalLeftPadding  0
+09-04 21:37:08.503 29083 29083 I SKBD    : aen [Resize]Row #  0  mTotalWidth  721
+09-04 21:37:08.504 29083 29083 I SKBD    : aen [Resize]Row #  1  mTotalWidth  721
+09-04 21:37:08.505 29083 29083 I SKBD    : aen [Resize]Row #  2  mTotalWidth  721
+09-04 21:37:08.506 29083 29083 I SKBD    : aen [Resize]Row #  3  mTotalWidth  721
+09-04 21:37:08.509 29083 29083 I SKBD    : aen [Resize] Row #  4  mTotalWidth  721
+09-04 21:37:08.511 29083 29083 D SKBD    : mIsUseStaticTouchRecognizedArea =  false
+09-04 21:37:08.514 29083 29083 E SKBD    : XT9Engine ET9KDB_GetKdbNum : 39
+09-04 21:37:08.515 29083 29083 E SKBD    : XT9Engine ET9KDB_GetPageNum : 39
+09-04 21:37:08.515 29083 29083 I SKBD    : XT9Engine setKeyboardSize : error - 0, witdh - 721, height - 517
+09-04 21:37:08.517 29083 29083 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=2
+09-04 21:37:08.519 29083 29083 I SKBD    : aez startInputViewShowTips: true true
+09-04 21:37:08.519 29083 29083 I SKBD    : aez startInputViewShowTips: conditions for show dialog : true true true
+09-04 21:37:08.519 29083 29083 I SKBD    : aez showDlgMsgBoxOriginal: true true true
+09-04 21:37:08.519 29083 29083 I SKBD    : abx getDefaultInputRange : UNKNOWN
+09-04 21:37:08.523 29083 10568 I SKBD    : aiq InputMethodSubtype is found as local:pt_BR
+09-04 21:37:08.523 29083 10569 I SKBD    : vj no need to check Hint, Limit exceed or Bixby is Off
+09-04 21:37:08.523   672  4266 D InputMethodManagerService: isImeSwitcherDisabledPackage : false
+09-04 21:37:08.523   672  4266 D InputMethodManagerService: shouldShowImeSwitcherLocked : checking
+09-04 21:37:08.526 29083 10568 I SKBD    : aiq InputMethodSubtype is set as local:pt_BR
+09-04 21:37:08.527 29083 29083 V InputMethodService: showWindow: showing!
+09-04 21:37:08.527 29083 29083 I SKBD    : SamsungKeypad onWindowShown
+09-04 21:37:08.527 29083 29083 D InputMethodService: AxT9IME.sendInputViewShownState(): true
+09-04 21:37:08.527 29083 29083 D InputMethodService: AxT9IME.IS_VISIBLE_CANDIDATE(): 0
+09-04 21:37:08.529   672  2983 D InputMethodManagerService: isImeSwitcherDisabledPackage : false
+09-04 21:37:08.529   672  2983 D InputMethodManagerService: shouldShowImeSwitcherLocked : checking
+09-04 21:37:08.537   295   295 I SurfaceFlinger: id=378 createSurf (720x733),1 flag=4, InputMethod
+09-04 21:37:08.544 29083 29083 D ViewRootImpl@b8f48a7[InputMethod]: Relayout returned: oldFrame=[0,547][720,1280] newFrame=[0,547][720,1280] result=0x7 surface={isValid=true 2133534720} surfaceGenerationChanged=true
+09-04 21:37:08.544 29083 29083 D ViewRootImpl@b8f48a7[InputMethod]: mHardwareRenderer.initialize() mSurface={isValid=true 2133534720} hwInitialized=true
+09-04 21:37:08.554 29083 29083 I SKBD    : act getNaviationBarHeight() first use took : 0
+09-04 21:37:08.556   672   672 D WifiTrafficPoller: notifyOnDataActivity() - mBusMaxLock.acquire()
+09-04 21:37:08.609 10329 10336 I art     : Ignoring second debugger -- accepting and dropping
+09-04 21:37:08.621 10329 10329 D UiControllerImpl: Injecting string: "teste@betrybe.com"
+09-04 21:37:08.622   672  4670 D InputDispatcher: Inject key (10329): action=0, eventTime=167650051000000
+09-04 21:37:08.623   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x0 (0)
+09-04 21:37:08.629 29083 29083 I SKBD    : AbstractKeyboardView drawAllKey nanoTime= 57362656, isOrientationLandscape= false
+09-04 21:37:08.641 29083 29083 I SKBD    : SamsungKeypad [HWKeyboard] This input is not processed by SKBD.
+09-04 21:37:08.641 29083 29083 D InputMethodService: onKeyDown not B key
+09-04 21:37:08.655 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 0
+09-04 21:37:08.666 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=23
+09-04 21:37:08.677 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: MSG_RESIZED: frame=Rect(0, 0 - 720, 1280) ci=Rect(0, 54 - 0, 0) vi=Rect(0, 54 - 0, 589) or=1
+09-04 21:37:08.678 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[1] done, tookTime=12
+09-04 21:37:08.700 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[1] done, tookTime=22
+09-04 21:37:08.700   295   295 D SurfaceFlinger:   Display[0] configurations (* current):
+09-04 21:37:08.700   295   295 D SurfaceFlinger:     * 0: 720x1280, xdpi=281.352997, ydpi=282.713013, refresh=16666667
+09-04 21:37:08.700   295   295 D SurfaceFlinger:   numHwLayers=4, flags=00000000
+09-04 21:37:08.700   295   295 D SurfaceFlinger:     type   |  handle  | hint | flag | tr | blnd |   format    |     source crop (l,t,r,b)      |          frame         | name
+09-04 21:37:08.700   295   295 D SurfaceFlinger: -----------+----------+------+------+----+------+-------------+--------------------------------+------------------------+------
+09-04 21:37:08.700   295   295 D SurfaceFlinger:        HWC | a6a9d300 | 0002 | 0000 | 00 | 0100 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | com.betrybe.sociallogin/com.betrybe.sociallogin.MainActivity
+09-04 21:37:08.700   295   295 D SurfaceFlinger:        HWC | a6a9d6c0 | 0002 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0,  627.0 |    0,  653,  720, 1280 | InputMethod
+09-04 21:37:08.700   295   295 D SurfaceFlinger:        HWC | a6a9d000 | 0002 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0,   54.0 |    0,    0,  720,   54 | StatusBar
+09-04 21:37:08.700   295   295 D SurfaceFlinger:  FB TARGET | aa722560 | 0000 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | HWC_FRAMEBUFFER_TARGET
+09-04 21:37:08.702 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[127] done, tookTime=2
+09-04 21:37:08.703   672  2809 D InputDispatcher: Inject key (10329): action=1, eventTime=167650132000000
+09-04 21:37:08.704 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[127] done, tookTime=1
+09-04 21:37:08.704   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x1 (0)
+09-04 21:37:08.705 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=1
+09-04 21:37:08.710 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[63] done, tookTime=2
+09-04 21:37:08.728 29083 29083 I SKBD    : XT9Engine updateSelectList : 18
+09-04 21:37:08.728 29083 29083 D InputMethodService: onKeyUp not B key
+09-04 21:37:08.729 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 1
+09-04 21:37:08.734   672  2107 D InputDispatcher: Inject key (10329): action=0, eventTime=167650160000000
+09-04 21:37:08.734   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x0 (0)
+09-04 21:37:08.736 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[1] done, tookTime=5
+09-04 21:37:08.737 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[1] done, tookTime=1
+09-04 21:37:08.739 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=2
+09-04 21:37:08.739 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[127] done, tookTime=0
+09-04 21:37:08.741 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[127] done, tookTime=2
+09-04 21:37:08.742 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=1
+09-04 21:37:08.744 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[63] done, tookTime=1
+09-04 21:37:08.759 29083 29083 I SKBD    : XT9Engine updateSelectList : 15
+09-04 21:37:08.759 29083 29083 I SKBD    : SamsungKeypad [HWKeyboard] This input is not processed by SKBD.
+09-04 21:37:08.760 29083 29083 D InputMethodService: onKeyDown not B key
+09-04 21:37:08.760 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 0
+09-04 21:37:08.765 29083 29083 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=5
+09-04 21:37:08.781   672  4266 D InputDispatcher: Inject key (10329): action=1, eventTime=167650208000000
+09-04 21:37:08.781   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x1 (0)
+09-04 21:37:08.782 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[1] done, tookTime=14
+09-04 21:37:08.784 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[1] done, tookTime=2
+09-04 21:37:08.785 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=1
+09-04 21:37:08.786 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[127] done, tookTime=1
+09-04 21:37:08.787 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[127] done, tookTime=1
+09-04 21:37:08.788 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=1
+09-04 21:37:08.790 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[63] done, tookTime=1
+09-04 21:37:08.811 29083 29083 I SKBD    : XT9Engine updateSelectList : 20
+09-04 21:37:08.812 29083 29083 D InputMethodService: onKeyUp not B key
+09-04 21:37:08.812 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 1
+09-04 21:37:08.815 29083 29083 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=3
+09-04 21:37:08.818   672  2983 D InputDispatcher: Inject key (10329): action=0, eventTime=167650245000000
+09-04 21:37:08.818   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x0 (0)
+09-04 21:37:08.819 29083 29083 I SKBD    : SamsungKeypad [HWKeyboard] This input is not processed by SKBD.
+09-04 21:37:08.819 29083 29083 D InputMethodService: onKeyDown not B key
+09-04 21:37:08.820 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 0
+09-04 21:37:08.841 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[1] done, tookTime=13
+09-04 21:37:08.843   672  2411 D InputDispatcher: Inject key (10329): action=1, eventTime=167650271000000
+09-04 21:37:08.843   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x1 (0)
+09-04 21:37:08.844 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[1] done, tookTime=2
+09-04 21:37:08.845 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=1
+09-04 21:37:08.846 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[127] done, tookTime=1
+09-04 21:37:08.848 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[127] done, tookTime=2
+09-04 21:37:08.850 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=1
+09-04 21:37:08.854 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[63] done, tookTime=1
+09-04 21:37:08.877 29083 29083 I SKBD    : XT9Engine updateSelectList : 23
+09-04 21:37:08.877 29083 29083 D InputMethodService: onKeyUp not B key
+09-04 21:37:08.877 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 1
+09-04 21:37:08.879 29083 29083 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=1
+09-04 21:37:08.880   672  2985 D InputDispatcher: Inject key (10329): action=0, eventTime=167650308000000
+09-04 21:37:08.881   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x0 (0)
+09-04 21:37:08.882 29083 29083 I SKBD    : SamsungKeypad [HWKeyboard] This input is not processed by SKBD.
+09-04 21:37:08.883 29083 29083 D InputMethodService: onKeyDown not B key
+09-04 21:37:08.883 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 0
+09-04 21:37:08.909 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[1] done, tookTime=18
+09-04 21:37:08.910   672  1880 D InputDispatcher: Inject key (10329): action=1, eventTime=167650338000000
+09-04 21:37:08.911   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x1 (0)
+09-04 21:37:08.911 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[1] done, tookTime=2
+09-04 21:37:08.912 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=1
+09-04 21:37:08.914 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[127] done, tookTime=2
+09-04 21:37:08.917 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[127] done, tookTime=3
+09-04 21:37:08.919 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=2
+09-04 21:37:08.926 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[63] done, tookTime=1
+09-04 21:37:08.954 29083 29083 I SKBD    : XT9Engine updateSelectList : 27
+09-04 21:37:08.954 29083 29083 D InputMethodService: onKeyUp not B key
+09-04 21:37:08.954 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 1
+09-04 21:37:08.958 29083 29083 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=3
+09-04 21:37:08.959   672  4672 D InputDispatcher: Inject key (10329): action=0, eventTime=167650386000000
+09-04 21:37:08.959   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x0 (0)
+09-04 21:37:08.959 29083 29083 I SKBD    : SamsungKeypad [HWKeyboard] This input is not processed by SKBD.
+09-04 21:37:08.959 29083 29083 D InputMethodService: onKeyDown not B key
+09-04 21:37:08.959 10593 10593 E Zygote  : v2
+09-04 21:37:08.960 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 0
+09-04 21:37:08.961 10593 10593 E Zygote  : accessInfo : 0
+09-04 21:37:08.963 10593 10593 W SELinux : SELinux selinux_android_compute_policy_index : Policy Index[2],  Con:u:r:zygote:s0 RAM:SEPF_SECMOBILE_7.1.1_0003, [-1 -1 -1 -1 0 1]
+09-04 21:37:08.965 10593 10593 I SELinux : SELinux: seapp_context_lookup: seinfo=untrusted, level=s0:c512,c768, pkgname=com.google.android.youtube
+09-04 21:37:08.989 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[1] done, tookTime=21
+09-04 21:37:08.991 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[1] done, tookTime=2
+09-04 21:37:08.992 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=0
+09-04 21:37:08.994 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[127] done, tookTime=2
+09-04 21:37:08.995 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[127] done, tookTime=1
+09-04 21:37:08.997 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=2
+09-04 21:37:08.999 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[63] done, tookTime=1
+09-04 21:37:09.004   672  4264 D InputDispatcher: Inject key (10329): action=1, eventTime=167650417000000
+09-04 21:37:09.004   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x1 (0)
+09-04 21:37:09.023 29083 29083 I SKBD    : XT9Engine updateSelectList : 24
+09-04 21:37:09.024 29083 29083 D InputMethodService: onKeyUp not B key
+09-04 21:37:09.024 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 1
+09-04 21:37:09.026 29083 29083 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=1
+09-04 21:37:09.027   672  2810 D InputDispatcher: Inject key (10329): action=0, eventTime=167650455000000
+09-04 21:37:09.027   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x0 (0)
+09-04 21:37:09.028 29083 29083 I SKBD    : SamsungKeypad [HWKeyboard] This input is not processed by SKBD.
+09-04 21:37:09.028 29083 29083 D InputMethodService: onKeyDown not B key
+09-04 21:37:09.028 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 0
+09-04 21:37:09.052   672  4268 D InputDispatcher: Inject key (10329): action=0, eventTime=167650481000000
+09-04 21:37:09.053   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x0 (0)
+09-04 21:37:09.053 29083 29083 I SKBD    : SamsungKeypad [HWKeyboard] This input is not processed by SKBD.
+09-04 21:37:09.053 29083 29083 D InputMethodService: onKeyDown not B key
+09-04 21:37:09.054 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 0
+09-04 21:37:09.067  2372  6003 D ForegroundUtils: could not check pending caller
+09-04 21:37:09.076 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[1] done, tookTime=9
+09-04 21:37:09.077   672  1880 D InputDispatcher: Inject key (10329): action=1, eventTime=167650505000000
+09-04 21:37:09.077   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x1 (0)
+09-04 21:37:09.080 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[1] done, tookTime=4
+09-04 21:37:09.082 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=2
+09-04 21:37:09.084 29083 29083 D InputMethodService: onKeyUp not B key
+09-04 21:37:09.084 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 1
+09-04 21:37:09.085 29083 29083 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=1
+09-04 21:37:09.086   672  2979 D InputDispatcher: Inject key (10329): action=1, eventTime=167650515000000
+09-04 21:37:09.087   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x1 (0)
+09-04 21:37:09.087 29083 29083 D InputMethodService: onKeyUp not B key
+09-04 21:37:09.088 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 1
+09-04 21:37:09.092 10593 10593 I art     : Starting a blocking GC AddRemoveAppImageSpace
+09-04 21:37:09.107   672  2114 D InputDispatcher: Inject key (10329): action=0, eventTime=167650534000000
+09-04 21:37:09.107   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x0 (0)
+09-04 21:37:09.116 29083 29083 I SKBD    : XT9Engine updateSelectList : 13
+09-04 21:37:09.116 29083 29083 I SKBD    : SamsungKeypad [HWKeyboard] This input is not processed by SKBD.
+09-04 21:37:09.116 29083 29083 D InputMethodService: onKeyDown not B key
+09-04 21:37:09.116 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 0
+09-04 21:37:09.126 10593 10593 W ResourceType: ResTable_typeSpec entry count inconsistent: given 3017, previously 3020
+09-04 21:37:09.127 10593 10593 W ResourceType: ResTable_typeSpec entry count inconsistent: given 3143, previously 3147
+09-04 21:37:09.127 10593 10593 W ResourceType: ResTable_typeSpec entry count inconsistent: given 352, previously 2283
+09-04 21:37:09.138 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[1] done, tookTime=14
+09-04 21:37:09.139   672  4265 D InputDispatcher: Inject key (10329): action=1, eventTime=167650567000000
+09-04 21:37:09.140 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[1] done, tookTime=1
+09-04 21:37:09.141   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x1 (0)
+09-04 21:37:09.143 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=2
+09-04 21:37:09.145 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[127] done, tookTime=2
+09-04 21:37:09.146 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[127] done, tookTime=1
+09-04 21:37:09.147 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=1
+09-04 21:37:09.154 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[63] done, tookTime=1
+09-04 21:37:09.160 10593 10593 I art     : Rejecting re-init on previously-failed class java.lang.Class<qf>: java.lang.NoClassDefFoundError: Failed resolution of: Landroid/window/OnBackInvokedCallback;
+09-04 21:37:09.160 10593 10593 I art     :   at kr aab.b(android.content.Context, java.lang.String) (PG:22)
+09-04 21:37:09.160 10593 10593 I art     :   at void aab.attachInfo(android.content.Context, android.content.pm.ProviderInfo) (PG:10)
+09-04 21:37:09.160 10593 10593 I art     :   at void srw.attachInfo(android.content.Context, android.content.pm.ProviderInfo) (PG:10)
+09-04 21:37:09.160 10593 10593 I art     :   at android.app.IActivityManager$ContentProviderHolder android.app.ActivityThread.installProvider(android.content.Context, android.app.IActivityManager$ContentProviderHolder, android.content.pm.ProviderInfo, boolean, boolean, boolean) (ActivityThread.java:6460)
+09-04 21:37:09.160 10593 10593 I art     :   at void android.app.ActivityThread.installContentProviders(android.content.Context, java.util.List) (ActivityThread.java:6052)
+09-04 21:37:09.160 10593 10593 I art     :   at void android.app.ActivityThread.handleBindApplication(android.app.ActivityThread$AppBindData) (ActivityThread.java:5991)
+09-04 21:37:09.160 10593 10593 I art     :   at void android.app.ActivityThread.-wrap3(android.app.ActivityThread, android.app.ActivityThread$AppBindData) (ActivityThread.java:-1)
+09-04 21:37:09.160 10593 10593 I art     :   at void android.app.ActivityThread$H.handleMessage(android.os.Message) (ActivityThread.java:1727)
+09-04 21:37:09.160 10593 10593 I art     :   at void android.os.Handler.dispatchMessage(android.os.Message) (Handler.java:102)
+09-04 21:37:09.160 10593 10593 I art     :   at void android.os.Looper.loop() (Looper.java:154)
+09-04 21:37:09.160 10593 10593 I art     :   at void android.app.ActivityThread.main(java.lang.String[]) (ActivityThread.java:6816)
+09-04 21:37:09.160 10593 10593 I art     :   at java.lang.Object java.lang.reflect.Method.invoke!(java.lang.Object, java.lang.Object[]) (Method.java:-2)
+09-04 21:37:09.160 10593 10593 I art     :   at void com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run() (ZygoteInit.java:1563)
+09-04 21:37:09.160 10593 10593 I art     :   at void com.android.internal.os.ZygoteInit.main(java.lang.String[]) (ZygoteInit.java:1451)
+09-04 21:37:09.160 10593 10593 I art     : Caused by: java.lang.ClassNotFoundException: Didn't find class "android.window.OnBackInvokedCallback" on path: DexPathList[[zip file "/data/app/com.google.android.youtube-1/base.apk", zip file "/data/app/com.google.android.youtube-1/split_config.armeabi_v7a.apk", zip file "/data/app/com.google.android.youtube-1/split_config.pt.apk", zip file "/data/app/com.google.android.youtube-1/split_config.xhdpi.apk"],nativeLibraryDirectories=[/data/app/com.google.android.youtube-1/lib/arm, /data/app/com.google.android.youtube-1/base.apk!/lib/armeabi-v7a, /data/app/com.google.android.youtube-1/split_config.armeabi_v7a.apk!/lib/armeabi-v7a, /data/app/com.google.android.youtube-1/split_config.pt.apk!/lib/armeabi-v7a, /data/app/com.google.android.youtube-1/split_config.xhdpi.apk!/lib/armeabi-v7a, /system/lib, /vendor/lib]]
+09-04 21:37:09.160 10593 10593 I art     :   at java.lang.Class dalvik.system.BaseDexClassLoader.findClass(java.lang.String) (BaseDexClassLoader.java:56)
+09-04 21:37:09.160 10593 10593 I art     :   at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String, boolean) (ClassLoader.java:380)
+09-04 21:37:09.160 10593 10593 I art     :   at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String) (ClassLoader.java:312)
+09-04 21:37:09.160 10593 10593 I art     :   at kr aab.b(android.content.Context, java.lang.String) (PG:22)
+09-04 21:37:09.160 10593 10593 I art     :   at void aab.attachInfo(android.content.Context, android.content.pm.ProviderInfo) (PG:10)
+09-04 21:37:09.160 10593 10593 I art     :   at void srw.attachInfo(android.content.Context, android.content.pm.ProviderInfo) (PG:10)
+09-04 21:37:09.160 10593 10593 I art     :   at android.app.IActivityManager$ContentProviderHolder android.app.ActivityThread.installProvider(android.content.Context, android.app.IActivityManager$ContentProviderHolder, android.content.pm.ProviderInfo, boolean, boolean, boolean) (ActivityThread.java:6460)
+09-04 21:37:09.160 10593 10593 I art     :   at void android.app.ActivityThread.installContentProviders(android.content.Context, java.util.List) (ActivityThread.java:6052)
+09-04 21:37:09.160 10593 10593 I art     :   at void android.app.ActivityThread.handleBindApplication(android.app.ActivityThread$AppBindData) (ActivityThread.java:5991)
+09-04 21:37:09.160 10593 10593 I art     :   at void android.app.ActivityThread.-wrap3(android.app.ActivityThread, android.app.ActivityThread$AppBindData) (ActivityThread.java:-1)
+09-04 21:37:09.160 10593 10593 I art     :   at void android.app.ActivityThread$H.handleMessage(android.os.Message) (ActivityThread.java:1727)
+09-04 21:37:09.160 10593 10593 I art     :   at void android.os.Handler.dispatchMessage(android.os.Message) (Handler.java:102)
+09-04 21:37:09.160 10593 10593 I art     :   at void android.os.Looper.loop() (Looper.java:154)
+09-04 21:37:09.160 10593 10593 I art     :   at void android.app.ActivityThread.main(java.lang.String[]) (ActivityThread.java:6816)
+09-04 21:37:09.160 10593 10593 I art     :   at java.lang.Object java.lang.reflect.Method.invoke!(java.lang.Object, java.lang.Object[]) (Method.java:-2)
+09-04 21:37:09.160 10593 10593 I art     :   at void com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run() (ZygoteInit.java:1563)
+09-04 21:37:09.160 10593 10593 I art     :   at void com.android.internal.os.ZygoteInit.main(java.lang.String[]) (ZygoteInit.java:1451)
+09-04 21:37:09.160 10593 10593 I art     :
+09-04 21:37:09.168 29083 29083 I SKBD    : XT9Engine updateSelectList : 14
+09-04 21:37:09.169 29083 29083 D InputMethodService: onKeyUp not B key
+09-04 21:37:09.169 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 1
+09-04 21:37:09.170 29083 29083 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=1
+09-04 21:37:09.172   672  2420 D InputDispatcher: Inject key (10329): action=0, eventTime=167650600000000
+09-04 21:37:09.172   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x0 (0)
+09-04 21:37:09.173 29083 29083 I SKBD    : SamsungKeypad [HWKeyboard] This input is not processed by SKBD.
+09-04 21:37:09.173 29083 29083 D InputMethodService: onKeyDown not B key
+09-04 21:37:09.173 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 0
+09-04 21:37:09.189 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[1] done, tookTime=9
+09-04 21:37:09.191   672  2980 D InputDispatcher: Inject key (10329): action=1, eventTime=167650619000000
+09-04 21:37:09.191   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x1 (0)
+09-04 21:37:09.191 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[1] done, tookTime=1
+09-04 21:37:09.193 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=2
+09-04 21:37:09.194 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[127] done, tookTime=1
+09-04 21:37:09.196 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[127] done, tookTime=2
+09-04 21:37:09.197 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=1
+09-04 21:37:09.202 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[63] done, tookTime=1
+09-04 21:37:09.213 29083 29083 I SKBD    : XT9Engine updateSelectList : 11
+09-04 21:37:09.214 29083 29083 D InputMethodService: onKeyUp not B key
+09-04 21:37:09.214 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 1
+09-04 21:37:09.216 29083 29083 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=2
+09-04 21:37:09.217   672  4267 D InputDispatcher: Inject key (10329): action=0, eventTime=167650645000000
+09-04 21:37:09.217   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x0 (0)
+09-04 21:37:09.218 29083 29083 I SKBD    : SamsungKeypad [HWKeyboard] This input is not processed by SKBD.
+09-04 21:37:09.218 29083 29083 D InputMethodService: onKeyDown not B key
+09-04 21:37:09.218 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 0
+09-04 21:37:09.239   672  4263 D InputDispatcher: Inject key (10329): action=1, eventTime=167650667000000
+09-04 21:37:09.238 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[1] done, tookTime=13
+09-04 21:37:09.241   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x1 (0)
+09-04 21:37:09.243 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[1] done, tookTime=4
+09-04 21:37:09.245 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=2
+09-04 21:37:09.246 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[127] done, tookTime=1
+09-04 21:37:09.247 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[127] done, tookTime=1
+09-04 21:37:09.248 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=1
+09-04 21:37:09.253 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[63] done, tookTime=1
+09-04 21:37:09.270 29083 29083 I SKBD    : XT9Engine updateSelectList : 17
+09-04 21:37:09.271 29083 29083 D InputMethodService: onKeyUp not B key
+09-04 21:37:09.271 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 1
+09-04 21:37:09.273 29083 29083 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=2
+09-04 21:37:09.274   672  2809 D InputDispatcher: Inject key (10329): action=0, eventTime=167650702000000
+09-04 21:37:09.274   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x0 (0)
+09-04 21:37:09.275 29083 29083 I SKBD    : SamsungKeypad [HWKeyboard] This input is not processed by SKBD.
+09-04 21:37:09.275 29083 29083 D InputMethodService: onKeyDown not B key
+09-04 21:37:09.275 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 0
+09-04 21:37:09.291 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[1] done, tookTime=7
+09-04 21:37:09.292 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[1] done, tookTime=1
+09-04 21:37:09.293   672  4265 D InputDispatcher: Inject key (10329): action=1, eventTime=167650721000000
+09-04 21:37:09.293   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x1 (0)
+09-04 21:37:09.294 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=2
+09-04 21:37:09.296 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[127] done, tookTime=2
+09-04 21:37:09.298 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[127] done, tookTime=2
+09-04 21:37:09.299 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=1
+09-04 21:37:09.305 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[63] done, tookTime=1
+09-04 21:37:09.333 29083 29083 I SKBD    : XT9Engine updateSelectList : 28
+09-04 21:37:09.334 29083 29083 D InputMethodService: onKeyUp not B key
+09-04 21:37:09.334 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 1
+09-04 21:37:09.336 29083 29083 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=2
+09-04 21:37:09.337   672  2422 D InputDispatcher: Inject key (10329): action=0, eventTime=167650765000000
+09-04 21:37:09.337   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x0 (0)
+09-04 21:37:09.338 29083 29083 I SKBD    : SamsungKeypad [HWKeyboard] This input is not processed by SKBD.
+09-04 21:37:09.338 29083 29083 D InputMethodService: onKeyDown not B key
+09-04 21:37:09.339 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 0
+09-04 21:37:09.355 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[1] done, tookTime=8
+09-04 21:37:09.355   672  2112 D InputDispatcher: Inject key (10329): action=1, eventTime=167650784000000
+09-04 21:37:09.356   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x1 (0)
+09-04 21:37:09.357 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[1] done, tookTime=2
+09-04 21:37:09.359 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=1
+09-04 21:37:09.360 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[127] done, tookTime=0
+09-04 21:37:09.361 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[127] done, tookTime=1
+09-04 21:37:09.363 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=2
+09-04 21:37:09.369 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[63] done, tookTime=2
+09-04 21:37:09.394 29083 29083 I SKBD    : XT9Engine updateSelectList : 24
+09-04 21:37:09.395 29083 29083 D InputMethodService: onKeyUp not B key
+09-04 21:37:09.395 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 1
+09-04 21:37:09.397 29083 29083 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=1
+09-04 21:37:09.398   672  4679 D InputDispatcher: Inject key (10329): action=0, eventTime=167650826000000
+09-04 21:37:09.398   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x0 (0)
+09-04 21:37:09.399 29083 29083 I SKBD    : SamsungKeypad [HWKeyboard] This input is not processed by SKBD.
+09-04 21:37:09.399 29083 29083 D InputMethodService: onKeyDown not B key
+09-04 21:37:09.399 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 0
+09-04 21:37:09.422   672  2107 D InputDispatcher: Inject key (10329): action=1, eventTime=167650850000000
+09-04 21:37:09.422   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x1 (0)
+09-04 21:37:09.423 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[1] done, tookTime=15
+09-04 21:37:09.424 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[1] done, tookTime=1
+09-04 21:37:09.426 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=2
+09-04 21:37:09.427 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[127] done, tookTime=1
+09-04 21:37:09.429 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[127] done, tookTime=2
+09-04 21:37:09.430 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=1
+09-04 21:37:09.435 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[63] done, tookTime=1
+09-04 21:37:09.473 29083 29083 I SKBD    : XT9Engine updateSelectList : 38
+09-04 21:37:09.473 29083 29083 D InputMethodService: onKeyUp not B key
+09-04 21:37:09.474 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 1
+09-04 21:37:09.475 29083 29083 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=1
+09-04 21:37:09.476   672  2810 D InputDispatcher: Inject key (10329): action=0, eventTime=167650904000000
+09-04 21:37:09.476   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x0 (0)
+09-04 21:37:09.477 29083 29083 I SKBD    : SamsungKeypad [HWKeyboard] This input is not processed by SKBD.
+09-04 21:37:09.477 29083 29083 D InputMethodService: onKeyDown not B key
+09-04 21:37:09.477 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 0
+09-04 21:37:09.506 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[1] done, tookTime=22
+09-04 21:37:09.506   672  3577 D InputDispatcher: Inject key (10329): action=1, eventTime=167650935000000
+09-04 21:37:09.507   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x1 (0)
+09-04 21:37:09.508 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[1] done, tookTime=2
+09-04 21:37:09.509 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=1
+09-04 21:37:09.511 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[127] done, tookTime=1
+09-04 21:37:09.512 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[127] done, tookTime=1
+09-04 21:37:09.515 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=1
+09-04 21:37:09.519 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[63] done, tookTime=1
+09-04 21:37:09.556 29083 29083 I SKBD    : XT9Engine updateSelectList : 36
+09-04 21:37:09.556 29083 29083 D InputMethodService: onKeyUp not B key
+09-04 21:37:09.557 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 1
+09-04 21:37:09.558   672   672 D WifiTrafficPoller: notifyOnDataActivity() - mBusMaxLock.acquire()
+09-04 21:37:09.560 29083 29083 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=3
+09-04 21:37:09.562   672  4270 D InputDispatcher: Inject key (10329): action=0, eventTime=167650989000000
+09-04 21:37:09.563   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x0 (0)
+09-04 21:37:09.563 29083 29083 I SKBD    : SamsungKeypad [HWKeyboard] This input is not processed by SKBD.
+09-04 21:37:09.566 29083 29083 D InputMethodService: onKeyDown not B key
+09-04 21:37:09.566 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 0
+09-04 21:37:09.591 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[1] done, tookTime=15
+09-04 21:37:09.592   672  2420 D InputDispatcher: Inject key (10329): action=1, eventTime=167651020000000
+09-04 21:37:09.592 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[1] done, tookTime=1
+09-04 21:37:09.592   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x1 (0)
+09-04 21:37:09.595 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=2
+09-04 21:37:09.596 29083 29083 D InputMethodService: onKeyUp not B key
+09-04 21:37:09.596 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 1
+09-04 21:37:09.597 29083 29083 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=1
+09-04 21:37:09.600   672  4669 D InputDispatcher: Inject key (10329): action=0, eventTime=167651028000000
+09-04 21:37:09.601   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x0 (0)
+09-04 21:37:09.602 29083 29083 I SKBD    : SamsungKeypad [HWKeyboard] This input is not processed by SKBD.
+09-04 21:37:09.602 29083 29083 D InputMethodService: onKeyDown not B key
+09-04 21:37:09.602 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 0
+09-04 21:37:09.625 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[1] done, tookTime=14
+09-04 21:37:09.626   672  4267 D InputDispatcher: Inject key (10329): action=1, eventTime=167651054000000
+09-04 21:37:09.626   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x1 (0)
+09-04 21:37:09.630 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[1] done, tookTime=5
+09-04 21:37:09.634 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=3
+09-04 21:37:09.636 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[127] done, tookTime=2
+09-04 21:37:09.638 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[127] done, tookTime=1
+09-04 21:37:09.639 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=1
+09-04 21:37:09.645 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[63] done, tookTime=1
+09-04 21:37:09.669 29083 29083 I SKBD    : XT9Engine updateSelectList : 24
+09-04 21:37:09.669 29083 29083 D InputMethodService: onKeyUp not B key
+09-04 21:37:09.670 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 1
+09-04 21:37:09.671 29083 29083 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=2
+09-04 21:37:09.673   672  4265 D InputDispatcher: Inject key (10329): action=0, eventTime=167651101000000
+09-04 21:37:09.673   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x0 (0)
+09-04 21:37:09.674 29083 29083 I SKBD    : SamsungKeypad [HWKeyboard] This input is not processed by SKBD.
+09-04 21:37:09.674 29083 29083 D InputMethodService: onKeyDown not B key
+09-04 21:37:09.674 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 0
+09-04 21:37:09.690   672  2978 D InputDispatcher: Inject key (10329): action=1, eventTime=167651118000000
+09-04 21:37:09.690 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[1] done, tookTime=8
+09-04 21:37:09.691 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[1] done, tookTime=1
+09-04 21:37:09.692 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=1
+09-04 21:37:09.693   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x1 (0)
+09-04 21:37:09.694 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[127] done, tookTime=2
+09-04 21:37:09.697 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[127] done, tookTime=2
+09-04 21:37:09.698 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=1
+09-04 21:37:09.702 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[63] done, tookTime=1
+09-04 21:37:09.732 29083 29083 I SKBD    : XT9Engine updateSelectList : 30
+09-04 21:37:09.732 29083 29083 D InputMethodService: onKeyUp not B key
+09-04 21:37:09.733 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 1
+09-04 21:37:09.734 29083 29083 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=2
+09-04 21:37:09.735   672  2114 D InputDispatcher: Inject key (10329): action=0, eventTime=167651163000000
+09-04 21:37:09.735   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x0 (0)
+09-04 21:37:09.736 29083 29083 I SKBD    : SamsungKeypad [HWKeyboard] This input is not processed by SKBD.
+09-04 21:37:09.736 29083 29083 D InputMethodService: onKeyDown not B key
+09-04 21:37:09.736 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 0
+09-04 21:37:09.755 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[1] done, tookTime=11
+09-04 21:37:09.756   672  2809 D InputDispatcher: Inject key (10329): action=1, eventTime=167651184000000
+09-04 21:37:09.756 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[1] done, tookTime=1
+09-04 21:37:09.756   672  1842 I InputDispatcher: Delivering key to (10329): action: 0x1 (0)
+09-04 21:37:09.758 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=2
+09-04 21:37:09.761 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[127] done, tookTime=3
+09-04 21:37:09.763 29083 29083 I SKBD    : wy [SIIC] getTextAfterCursor[127] done, tookTime=2
+09-04 21:37:09.766 29083 29083 I SKBD    : wy [SIIC] getSelectedText done, tookTime=2
+09-04 21:37:09.769 29083 29083 I SKBD    : wy [SIIC] getTextBeforeCursor[63] done, tookTime=1
+09-04 21:37:09.794 29083 29083 I SKBD    : XT9Engine updateSelectList : 25
+09-04 21:37:09.794 29083 29083 D InputMethodService: onKeyUp not B key
+09-04 21:37:09.794 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processKey 1
+09-04 21:37:09.796 29083 29083 I SKBD    : wy [SIIC] getCursorCapsMode done, tookTime=2
+09-04 21:37:09.801 10329 10329 I ViewInteraction: Performing 'close keyboard' action on view view.getRootView() to equal view
+09-04 21:37:09.802 10329 10329 D IdlingRegistry: Registering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@37d96]
+09-04 21:37:09.802 10329 10329 D InputMethodManager: HSIFW - flag : 0 Pid : 10329
+09-04 21:37:09.802   672  2810 V InputMethodManagerService: Client requesting input be hidden, flags : 0
+09-04 21:37:09.803   672  2810 V InputMethodManagerService: hideCurrentInputLocked : send MSG_HIDE_SOFT_INPUT
+09-04 21:37:09.803 29083 29083 V InputMethodService: hideSoftInput(), flags : 0
+09-04 21:37:09.804   672  2810 E InputMethodManagerService: Perflock object null
+09-04 21:37:09.805   672  4270 D InputMethodManagerService: isImeSwitcherDisabledPackage : false
+09-04 21:37:09.806 29083 29083 V InputMethodService: CALL: onFinishInputView
+09-04 21:37:09.806 29083 29083 I SKBD    : SamsungKeypad onFinishInputView
+09-04 21:37:09.806 29083 29083 I SKBD    : uz onFinishInput() took nanoTime:  20938
+09-04 21:37:09.806 29083 29083 E SKBD    : aeo getInstance start
+09-04 21:37:09.807 29083 29083 E SKBD    : aeo sendSIPInformation state: 6   isAbstractKeyboardView :  true
+09-04 21:37:09.808 29083 10677 E SKBD    : aeo sending null keyboardInfo as SIP is closed
+09-04 21:37:09.810 29083 29083 V InputMethodService: hideWindow: hiding!
+09-04 21:37:09.813 29083 29083 D InputMethodService: notifyKeyboardClosed
+09-04 21:37:09.814 29083 29083 D InputMethodService: AxT9IME.sendInputViewShownState(): false
+09-04 21:37:09.814 29083 29083 D InputMethodService: AxT9IME.IS_VISIBLE_CANDIDATE(): 0
+09-04 21:37:09.830 29083 29083 D ViewRootImpl@b8f48a7[InputMethod]: mHardwareRenderer.destroy()#1
+09-04 21:37:09.838 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: MSG_RESIZED: frame=Rect(0, 0 - 720, 1280) ci=Rect(0, 54 - 0, 0) vi=Rect(0, 54 - 0, 0) or=1
+09-04 21:37:09.843 29083 29083 D ViewRootImpl@b8f48a7[InputMethod]: Relayout returned: oldFrame=[0,547][720,1280] newFrame=[0,547][720,1280] result=0x4 surface={isValid=false 0} surfaceGenerationChanged=true
+09-04 21:37:09.893 10593 10644 D StrictMode: StrictMode policy violation: android.os.StrictMode$StrictModeNetworkViolation: policy=65556 violation=4
+09-04 21:37:09.893 10593 10644 D StrictMode: 	at android.os.StrictMode$AndroidBlockGuardPolicy.onNetwork(StrictMode.java:1309)
+09-04 21:37:09.893 10593 10644 D StrictMode: 	at java.net.Inet6AddressImpl.lookupHostByName(Inet6AddressImpl.java:86)
+09-04 21:37:09.893 10593 10644 D StrictMode: 	at java.net.Inet6AddressImpl.lookupAllHostAddr(Inet6AddressImpl.java:74)
+09-04 21:37:09.893 10593 10644 D StrictMode: 	at java.net.InetAddress.getByName(InetAddress.java:708)
+09-04 21:37:09.893 10593 10644 D StrictMode: 	at lsv.P(PG:4)
+09-04 21:37:09.893 10593 10644 D StrictMode: 	at ejz.run(PG:13)
+09-04 21:37:09.893 10593 10644 D StrictMode: 	at szj.run(PG:7)
+09-04 21:37:09.893 10593 10644 D StrictMode: 	at nsk.run(PG:5)
+09-04 21:37:09.893 10593 10644 D StrictMode: 	at nso.run(PG:23)
+09-04 21:37:09.893 10593 10644 D StrictMode: 	at ntg.run(PG:62)
+09-04 21:37:09.893 10593 10644 D StrictMode: 	at mwy.run(PG:7)
+09-04 21:37:09.893 10593 10644 D StrictMode: 	at com.google.android.apps.youtube.embeddedplayer.service.jar.client.r.run(PG:5)
+09-04 21:37:09.893 10593 10644 D StrictMode: 	at java.lang.Thread.run(Thread.java:762)
+09-04 21:37:09.895   441  1816 D EnterpriseController: netId is 0
+09-04 21:37:09.895   441  1816 D DnsProxyListener: DNSDBG::dns addrinfo af 0
+09-04 21:37:09.924 29083 29083 I SKBD    : [IIManager] IIfo CDT [size: 3] [cpl: 0] [ar: false] 0:[l: 2]][sc : 2][c: 2][sp: false] 1:[l: 1]][sc : 2][c: 1][sp: false] 2:[l: 1]][sc : 2][c: 1][sp: false]
+09-04 21:37:09.966 10593 10680 D ConnectivityManager: requestNetwork; CallingUid : 10150, CallingPid : 10593
+09-04 21:37:10.016   295   295 D SurfaceFlinger:   Display[0] configurations (* current):
+09-04 21:37:10.016   295   295 D SurfaceFlinger:     * 0: 720x1280, xdpi=281.352997, ydpi=282.713013, refresh=16666667
+09-04 21:37:10.016   295   295 D SurfaceFlinger:   numHwLayers=3, flags=00000000
+09-04 21:37:10.016   295   295 D SurfaceFlinger:     type   |  handle  | hint | flag | tr | blnd |   format    |     source crop (l,t,r,b)      |          frame         | name
+09-04 21:37:10.016   295   295 D SurfaceFlinger: -----------+----------+------+------+----+------+-------------+--------------------------------+------------------------+------
+09-04 21:37:10.016   295   295 D SurfaceFlinger:        HWC | a6a9d4e0 | 0002 | 0000 | 00 | 0100 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | com.betrybe.sociallogin/com.betrybe.sociallogin.MainActivity
+09-04 21:37:10.016   295   295 D SurfaceFlinger:        HWC | a6a9d000 | 0002 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0,   54.0 |    0,    0,  720,   54 | StatusBar
+09-04 21:37:10.016   295   295 D SurfaceFlinger:  FB TARGET | aa722560 | 0000 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | HWC_FRAMEBUFFER_TARGET
+09-04 21:37:10.022   295  2428 I SurfaceFlinger: id=378 Removed InputMethod (4/6)
+09-04 21:37:10.024   295   323 I SurfaceFlinger: id=378 Removed InputMethod (-2/6)
+09-04 21:37:10.058 10690 10690 E Zygote  : v2
+09-04 21:37:10.059 10690 10690 E Zygote  : accessInfo : 0
+09-04 21:37:10.060 10690 10690 W SELinux : SELinux selinux_android_compute_policy_index : Policy Index[2],  Con:u:r:zygote:s0 RAM:SEPF_SECMOBILE_7.1.1_0003, [-1 -1 -1 -1 0 1]
+09-04 21:37:10.065   672  4679 D ActivityManager: The following uid has registered to recieve broadcast for proxy related updates 10150
+09-04 21:37:10.075 10690 10690 I SELinux : SELinux: seapp_context_lookup: seinfo=untrusted, level=s0:c512,c768, pkgname=com.google.process.gapps
+09-04 21:37:10.078 10593 10654 I art     : Rejecting re-init on previously-failed class java.lang.Class<dck>: java.lang.NoClassDefFoundError: Failed resolution of: Landroid/graphics/ImageDecoder$OnHeaderDecodedListener;
+09-04 21:37:10.078 10593 10654 I art     :   at void dfu.<init>(dft, crf, byte[]) (PG:6)
+09-04 21:37:10.078 10593 10654 I art     :   at cus cus.b(android.content.Context) (PG:44)
+09-04 21:37:10.078 10593 10654 I art     :   at cvp cus.c(android.content.Context) (PG:2)
+09-04 21:37:10.078 10593 10654 I art     :   at void abnq.a() (PG:1)
+09-04 21:37:10.078 10593 10654 I art     :   at void sno.b() (PG:3)
+09-04 21:37:10.078 10593 10654 I art     :   at void ekg.run() (PG:6)
+09-04 21:37:10.078 10593 10654 I art     :   at void szj.run() (PG:7)
+09-04 21:37:10.078 10593 10654 I art     :   at void nsk.run() (PG:5)
+09-04 21:37:10.078 10593 10654 I art     :   at void nso.run() (PG:23)
+09-04 21:37:10.078 10593 10654 I art     :   at void ntg.run() (PG:62)
+09-04 21:37:10.078 10593 10654 I art     :   at void mwy.run() (PG:7)
+09-04 21:37:10.078 10593 10654 I art     :   at void com.google.android.apps.youtube.embeddedplayer.service.jar.client.r.run() (PG:5)
+09-04 21:37:10.078 10593 10654 I art     :   at void java.lang.Thread.run() (Thread.java:762)
+09-04 21:37:10.078 10593 10654 I art     : Caused by: java.lang.ClassNotFoundException: Didn't find class "android.graphics.ImageDecoder$OnHeaderDecodedListener" on path: DexPathList[[zip file "/data/app/com.google.android.youtube-1/base.apk", zip file "/data/app/com.google.android.youtube-1/split_config.armeabi_v7a.apk", zip file "/data/app/com.google.android.youtube-1/split_config.pt.apk", zip file "/data/app/com.google.android.youtube-1/split_config.xhdpi.apk"],nativeLibraryDirectories=[/data/app/com.google.android.youtube-1/lib/arm, /data/app/com.google.android.youtube-1/base.apk!/lib/armeabi-v7a, /data/app/com.google.android.youtube-1/split_config.armeabi_v7a.apk!/lib/armeabi-v7a, /data/app/com.google.android.youtube-1/split_config.pt.apk!/lib/armeabi-v7a, /data/app/com.google.android.youtube-1/split_config.xhdpi.apk!/lib/armeabi-v7a, /system/lib, /vendor/lib]]
+09-04 21:37:10.078 10593 10654 I art     :   at java.lang.Class dalvik.system.BaseDexClassLoader.findClass(java.lang.String) (BaseDexClassLoader.java:56)
+09-04 21:37:10.078 10593 10654 I art     :   at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String, boolean) (ClassLoader.java:380)
+09-04 21:37:10.078 10593 10654 I art     :   at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String) (ClassLoader.java:312)
+09-04 21:37:10.078 10593 10654 I art     :   at void dfu.<init>(dft, crf, byte[]) (PG:6)
+09-04 21:37:10.078 10593 10654 I art     :   at cus cus.b(android.content.Context) (PG:44)
+09-04 21:37:10.078 10593 10654 I art     :   at cvp cus.c(android.content.Context) (PG:2)
+09-04 21:37:10.078 10593 10654 I art     :   at void abnq.a() (PG:1)
+09-04 21:37:10.078 10593 10654 I art     :   at void sno.b() (PG:3)
+09-04 21:37:10.078 10593 10654 I art     :   at void ekg.run() (PG:6)
+09-04 21:37:10.078 10593 10654 I art     :   at void szj.run() (PG:7)
+09-04 21:37:10.078 10593 10654 I art     :   at void nsk.run() (PG:5)
+09-04 21:37:10.078 10593 10654 I art     :   at void nso.run() (PG:23)
+09-04 21:37:10.078 10593 10654 I art     :   at void ntg.run() (PG:62)
+09-04 21:37:10.078 10593 10654 I art     :   at void mwy.run() (PG:7)
+09-04 21:37:10.078 10593 10654 I art     :   at void com.google.android.apps.youtube.embeddedplayer.service.jar.client.r.run() (PG:5)
+09-04 21:37:10.078 10593 10654 I art     :   at void java.lang.Thread.run() (Thread.java:762)
+09-04 21:37:10.078 10593 10654 I art     :
+09-04 21:37:10.081   672   672 D KnoxVpnEngineService: Vpn Receiver : com.samsung.android.knox.intent.action.VPN_PROXY_BROADCAST_INTERNAL
+09-04 21:37:10.082   672  1872 I KnoxVpnEngineService: vpn handle : Message received
+09-04 21:37:10.097   672   695 D PackageManager: setEnabledSetting : userId = 0 packageName = com.google.android.youtube cmp = androidx.work.impl.background.systemjob.SystemJobService newState = 1 callingPackage = 10150/com.google.android.youtube
+09-04 21:37:10.117 10329 10329 D IdlingRegistry: Unregistering idling resources: [androidx.test.espresso.action.CloseKeyboardAction$CloseKeyboardIdlingResult@37d96]
+09-04 21:37:10.127 10329 10329 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230957/com.betrybe.sociallogin:id/login_button>
+09-04 21:37:10.141   672  2411 D InputDispatcher: Inject motion (10329): action=0x0, eventTime=167651567000000, displayId=0
+09-04 21:37:10.141   672  1842 I InputDispatcher: Delivering touch to (2019): action: 0x4, toolType: 0
+09-04 21:37:10.141   672  1842 I InputDispatcher: Delivering touch to (10329): action: 0x0, toolType: 0
+09-04 21:37:10.143 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processPointer 0
+09-04 21:37:10.146 10593 10654 D ConnectivityManager: requestNetwork; CallingUid : 10150, CallingPid : 10593
+09-04 21:37:10.158   672  1954 D Ethernet: got request NetworkRequest [ TRACK_DEFAULT id=883, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN] ] with score 100
+09-04 21:37:10.158   672  1954 D Ethernet:   my score=-1, my filter=[ Transports: ETHERNET Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN LinkUpBandwidth>=100000Kbps LinkDnBandwidth>=100000Kbps]
+09-04 21:37:10.158   672  1954 D Ethernet: evalRequest
+09-04 21:37:10.158   672  1954 D Ethernet:   done
+09-04 21:37:10.160   672  1883 D WIFI    : got request NetworkRequest [ TRACK_DEFAULT id=883, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN] ] with score 100
+09-04 21:37:10.160   672  1883 D WIFI    :   my score=60, my filter=[ Transports: WIFI Capabilities: NOT_METERED&INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN LinkUpBandwidth>=1048576Kbps LinkDnBandwidth>=1048576Kbps]
+09-04 21:37:10.160   672  1883 D WIFI    : evalRequest
+09-04 21:37:10.160   672  1883 D WIFI    :   done
+09-04 21:37:10.161   672  1883 D WIFI_UT : got request NetworkRequest [ TRACK_DEFAULT id=883, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN] ] with score 100
+09-04 21:37:10.161   672  1883 D WIFI_UT :   my score=2147483647, my filter=[ Transports: WIFI Capabilities: NOT_METERED&INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN LinkUpBandwidth>=1048576Kbps LinkDnBandwidth>=1048576Kbps]
+09-04 21:37:10.161   672  1879 D WIFI_P2P: got request NetworkRequest [ TRACK_DEFAULT id=883, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN] ] with score 100
+09-04 21:37:10.161   672  1883 D WIFI_UT : evalRequest
+09-04 21:37:10.161   672  1883 D WIFI_UT :   needNetworkFor
+09-04 21:37:10.161   672  1879 D WIFI_P2P:   my score=60, my filter=[ Transports: WIFI Capabilities: WIFI_P2P&NOT_RESTRICTED&TRUSTED&NOT_VPN LinkUpBandwidth>=1048576Kbps LinkDnBandwidth>=1048576Kbps]
+09-04 21:37:10.161   672  1879 D WIFI_P2P: evalRequest
+09-04 21:37:10.161   672  1879 D WIFI_P2P:   done
+09-04 21:37:10.163  2000  2000 D PhoneSwitcherNetworkRequstListener: got request NetworkRequest [ TRACK_DEFAULT id=883, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN] ] with score 100
+09-04 21:37:10.163  2000  2000 D PhoneSwitcherNetworkRequstListener:   my score=101, my filter=[ Transports: CELLULAR Capabilities: MMS&SUPL&DUN&FOTA&IMS&CBS&IA&RCS&XCAP&EIMS&INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN&ENT1 Specifier: <*>]
+09-04 21:37:10.163  2000  2000 D PhoneSwitcherNetworkRequstListener: evalRequest
+09-04 21:37:10.163  2000  2000 D PhoneSwitcherNetworkRequstListener:   needNetworkFor
+09-04 21:37:10.181   672  2420 D InputDispatcher: Inject motion (10329): action=0x1, eventTime=167651608000000, displayId=0
+09-04 21:37:10.182   672  1842 I InputDispatcher: Delivering touch to (10329): action: 0x1, toolType: 0
+09-04 21:37:10.185 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: ViewPostImeInputStage processPointer 1
+09-04 21:37:10.198 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:10.206 10329 10329 D TextView: setTypeface with style : 0
+09-04 21:37:10.210 10690 10690 I art     : Starting a blocking GC AddRemoveAppImageSpace
+09-04 21:37:10.211 10690 10690 W System  : ClassLoader referenced unknown path: /system/priv-app/GoogleServicesFramework/lib/arm
+09-04 21:37:10.272 10690 10690 I GservicesProvider: Gservices pushing to system: true; secure/global: true
+09-04 21:37:10.373 10593 10657 D JavaScriptCore.Version: 250230.2.1
+09-04 21:37:10.406 10690 10690 I GoogleHttpClient: GMS http client unavailable, use old client
+09-04 21:37:10.424 10593 10652 D ApplicationLoaders: ignored Vulkan layer search path /data/app/com.google.android.gms-2/lib/arm:/data/app/com.google.android.gms-2/base.apk!/lib/armeabi-v7a:/data/app/com.google.android.gms-2/split_config.pt.apk!/lib/armeabi-v7a:/data/app/com.google.android.gms-2/split_config.xhdpi.apk!/lib/armeabi-v7a for namespace 0xa3e03090
+09-04 21:37:10.445 10593 10652 W ResourceType: ResTable_typeSpec entry count inconsistent: given 94, previously 97
+09-04 21:37:10.447 10593 10652 W ResourceType: ResTable_typeSpec entry count inconsistent: given 3105, previously 3125
+09-04 21:37:10.452 10593 10652 W ResourceType: ResTable_typeSpec entry count inconsistent: given 491, previously 4670
+09-04 21:37:10.496 10364 10371 I art     : Ignoring second debugger -- accepting and dropping
+09-04 21:37:10.558   672   672 D WifiTrafficPoller: notifyOnDataActivity() - mBusMaxLock.acquire()
+09-04 21:37:10.614 10593 10636 I art     : Rejecting re-init on previously-failed class java.lang.Class<atz>: java.lang.NoClassDefFoundError: Failed resolution of: Landroid/telephony/TelephonyCallback;
+09-04 21:37:10.614 10593 10636 I art     :   at void adta.<init>(android.content.Context) (PG:4)
+09-04 21:37:10.614 10593 10636 I art     :   at adta adta.j(android.content.Context) (PG:1)
+09-04 21:37:10.615 10593 10636 I art     :   at void bkt.<init>(android.content.Context, java.util.Map) (PG:6)
+09-04 21:37:10.615 10593 10636 I art     :   at bkt bkt.i(android.content.Context) (PG:27)
+09-04 21:37:10.615 10593 10636 I art     :   at axu xzl.h(xzh, aym, acwr) (PG:2)
+09-04 21:37:10.615 10593 10636 I art     :   at void xzh.<init>(xvi, nqc, atl, yjw, xzl, aqhb, afbb, wfc, ykl, sut, android.content.Context, acwr, xni, yis, yld, aasr, yge, aege, aege, xdp, asgp, asyh, aqcc, xsa, yfx, asgp, aqcc, adzn, aqby, yhf, yib, xgz, aege, ydm, byte[], byte[], byte[], byte[], byte[], byte[]) (PG:14)
+09-04 21:37:10.615 10593 10636 I art     :   at xuy xbk.c(android.content.Context, ykl, xut, sut, yjw, asgp, yld, java.lang.String, afbb, java.util.concurrent.ScheduledExecutorService, java.util.concurrent.ScheduledExecutorService, java.util.concurrent.ScheduledExecutorService, aqhb, afbb, wfc, xvi, xge, xni, acwr, asyh, aasr, nqc, nqc, yis, ydm, aqcc, xsa, yfx, xng, asgp, aqcc, adzn, yis, aqby, yhf, xgd, yhv, xgz, aege, afbb) (PG:7)
+09-04 21:37:10.615 10593 10636 I art     :   at java.lang.Object eja.i() (PG:3)
+09-04 21:37:10.615 10593 10636 I art     :   at java.lang.Object eja.a() (PG:38)
+09-04 21:37:10.615 10593 10636 I art     :   at java.lang.Object aqim.a() (PG:1)
+09-04 21:37:10.615 10593 10636 I art     :   at java.lang.Object eik.b() (PG:82)
+09-04 21:37:10.615 10593 10636 I art     :   at java.lang.Object eik.a() (PG:33)
+09-04 21:37:10.615 10593 10636 I art     :   at java.lang.Object aqim.a() (PG:1)
+09-04 21:37:10.615 10593 10636 I art     :   at aawz eil.p() (PG:1)
+09-04 21:37:10.615 10329 10336 I art     : Ignoring second debugger -- accepting and dropping
+09-04 21:37:10.615 10593 10636 I art     :   at aawz zqz.d(adlm) (PG:1)
+09-04 21:37:10.615 10593 10636 I art     :   at java.lang.Object eja.j() (PG:15)
+09-04 21:37:10.615 10593 10636 I art     :   at java.lang.Object eja.a() (PG:37)
+09-04 21:37:10.615 10593 10636 I art     :   at void ekg.run() (PG:79)
+09-04 21:37:10.615 10593 10636 I art     :   at void szj.run() (PG:7)
+09-04 21:37:10.615 10593 10636 I art     :   at void nso.run() (PG:23)
+09-04 21:37:10.615 10593 10636 I art     :   at void ntg.run() (PG:62)
+09-04 21:37:10.615 10593 10636 I art     :   at void sdi.run() (PG:58)
+09-04 21:37:10.615 10593 10636 I art     :   at void java.lang.Thread.run() (Thread.java:762)
+09-04 21:37:10.615 10593 10636 I art     : Caused by: java.lang.ClassNotFoundException: Didn't find class "android.telephony.TelephonyCallback" on path: DexPathList[[zip file "/data/app/com.google.android.youtube-1/base.apk", zip file "/data/app/com.google.android.youtube-1/split_config.armeabi_v7a.apk", zip file "/data/app/com.google.android.youtube-1/split_config.pt.apk", zip file "/data/app/com.google.android.youtube-1/split_config.xhdpi.apk"],nativeLibraryDirectories=[/data/app/com.google.android.youtube-1/lib/arm, /data/app/com.google.android.youtube-1/base.apk!/lib/armeabi-v7a, /data/app/com.google.android.youtube-1/split_config.armeabi_v7a.apk!/lib/armeabi-v7a, /data/app/com.google.android.youtube-1/split_config.pt.apk!/lib/armeabi-v7a, /data/app/com.google.android.youtube-1/split_config.xhdpi.apk!/lib/armeabi-v7a, /system/lib, /vendor/lib]]
+09-04 21:37:10.615 10593 10636 I art     :   at java.lang.Class dalvik.system.BaseDexClassLoader.findClass(java.lang.String) (BaseDexClassLoader.java:56)
+09-04 21:37:10.615 10593 10636 I art     :   at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String, boolean) (ClassLoader.java:380)
+09-04 21:37:10.615 10593 10636 I art     :   at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String) (ClassLoader.java:312)
+09-04 21:37:10.615 10593 10636 I art     :   at void adta.<init>(android.content.Context) (PG:4)
+09-04 21:37:10.615 10593 10636 I art     :   at adta adta.j(android.content.Context) (PG:1)
+09-04 21:37:10.615 10593 10636 I art     :   at void bkt.<init>(android.content.Context, java.util.Map) (PG:6)
+09-04 21:37:10.616 10593 10636 I art     :   at bkt bkt.i(android.content.Context) (PG:27)
+09-04 21:37:10.616 10593 10636 I art     :   at axu xzl.h(xzh, aym, acwr) (PG:2)
+09-04 21:37:10.616 10593 10636 I art     :   at void xzh.<init>(xvi, nqc, atl, yjw, xzl, aqhb, afbb, wfc, ykl, sut, android.content.Context, acwr, xni, yis, yld, aasr, yge, aege, aege, xdp, asgp, asyh, aqcc, xsa, yfx, asgp, aqcc, adzn, aqby, yhf, yib, xgz, aege, ydm, byte[], byte[], byte[], byte[], byte[], byte[]) (PG:14)
+09-04 21:37:10.616 10593 10636 I art     :   at xuy xbk.c(android.content.Context, ykl, xut, sut, yjw, asgp, yld, java.lang.String, afbb, java.util.concurrent.ScheduledExecutorService, java.util.concurrent.ScheduledExecutorService, java.util.concurrent.ScheduledExecutorService, aqhb, afbb, wfc, xvi, xge, xni, acwr, asyh, aasr, nqc, nqc, yis, ydm, aqcc, xsa, yfx, xng, asgp, aqcc, adzn, yis, aqby, yhf, xgd, yhv, xgz, aege, afbb) (PG:7)
+09-04 21:37:10.616 10593 10636 I art     :   at java.lang.Object eja.i() (PG:3)
+09-04 21:37:10.616 10593 10636 I art     :   at java.lang.Object eja.a() (PG:38)
+09-04 21:37:10.616 10593 10636 I art     :   at java.lang.Object aqim.a() (PG:1)
+09-04 21:37:10.616 10593 10636 I art     :   at java.lang.Object eik.b() (PG:82)
+09-04 21:37:10.616 10593 10636 I art     :   at java.lang.Object eik.a() (PG:33)
+09-04 21:37:10.616 10593 10636 I art     :   at java.lang.Object aqim.a() (PG:1)
+09-04 21:37:10.616 10593 10636 I art     :   at aawz eil.p() (PG:1)
+09-04 21:37:10.616 10593 10636 I art     :   at aawz zqz.d(adlm) (PG:1)
+09-04 21:37:10.616 10593 10636 I art     :   at java.lang.Object eja.j() (PG:15)
+09-04 21:37:10.616 10593 10636 I art     :   at java.lang.Object eja.a() (PG:37)
+09-04 21:37:10.616 10593 10636 I art     :   at void ekg.run() (PG:79)
+09-04 21:37:10.616 10593 10636 I art     :   at void szj.run() (PG:7)
+09-04 21:37:10.616 10593 10636 I art     :   at void nso.run() (PG:23)
+09-04 21:37:10.616 10593 10636 I art     :   at void ntg.run() (PG:62)
+09-04 21:37:10.616 10593 10636 I art     :   at void sdi.run() (PG:58)
+09-04 21:37:10.616 10593 10636 I art     :   at void java.lang.Thread.run() (Thread.java:762)
+09-04 21:37:10.616 10593 10636 I art     :
+09-04 21:37:10.635 10329 10329 I ViewInteraction: Checking 'androidx.test.espresso.assertion.ViewAssertions$DoesNotExistViewAssertion@c0d9342' assertion on view an instance of android.widget.TextView and view.getText() with or without transformation to match: is "Email inválido"
+09-04 21:37:10.661 10593 10638 D ConnectivityManager: requestNetwork; CallingUid : 10150, CallingPid : 10593
+09-04 21:37:10.664   672  1954 D Ethernet: got request NetworkRequest [ TRACK_DEFAULT id=884, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN] ] with score 100
+09-04 21:37:10.664   672  1954 D Ethernet:   my score=-1, my filter=[ Transports: ETHERNET Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN LinkUpBandwidth>=100000Kbps LinkDnBandwidth>=100000Kbps]
+09-04 21:37:10.664   672  1954 D Ethernet: evalRequest
+09-04 21:37:10.664   672  1954 D Ethernet:   done
+09-04 21:37:10.664   672  1879 D WIFI_P2P: got request NetworkRequest [ TRACK_DEFAULT id=884, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN] ] with score 100
+09-04 21:37:10.664   672  1879 D WIFI_P2P:   my score=60, my filter=[ Transports: WIFI Capabilities: WIFI_P2P&NOT_RESTRICTED&TRUSTED&NOT_VPN LinkUpBandwidth>=1048576Kbps LinkDnBandwidth>=1048576Kbps]
+09-04 21:37:10.664   672  1879 D WIFI_P2P: evalRequest
+09-04 21:37:10.664   672  1879 D WIFI_P2P:   done
+09-04 21:37:10.665   672  1883 D WIFI    : got request NetworkRequest [ TRACK_DEFAULT id=884, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN] ] with score 100
+09-04 21:37:10.666   672  1883 D WIFI    :   my score=60, my filter=[ Transports: WIFI Capabilities: NOT_METERED&INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN LinkUpBandwidth>=1048576Kbps LinkDnBandwidth>=1048576Kbps]
+09-04 21:37:10.666   672  1883 D WIFI    : evalRequest
+09-04 21:37:10.666   672  1883 D WIFI    :   done
+09-04 21:37:10.666   672  1883 D WIFI_UT : got request NetworkRequest [ TRACK_DEFAULT id=884, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN] ] with score 100
+09-04 21:37:10.666   672  1883 D WIFI_UT :   my score=2147483647, my filter=[ Transports: WIFI Capabilities: NOT_METERED&INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN LinkUpBandwidth>=1048576Kbps LinkDnBandwidth>=1048576Kbps]
+09-04 21:37:10.666   672  1883 D WIFI_UT : evalRequest
+09-04 21:37:10.666   672  1883 D WIFI_UT :   needNetworkFor
+09-04 21:37:10.670  2000  2000 D PhoneSwitcherNetworkRequstListener: got request NetworkRequest [ TRACK_DEFAULT id=884, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN] ] with score 100
+09-04 21:37:10.671  2000  2000 D PhoneSwitcherNetworkRequstListener:   my score=101, my filter=[ Transports: CELLULAR Capabilities: MMS&SUPL&DUN&FOTA&IMS&CBS&IA&RCS&XCAP&EIMS&INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN&ENT1 Specifier: <*>]
+09-04 21:37:10.671  2000  2000 D PhoneSwitcherNetworkRequstListener: evalRequest
+09-04 21:37:10.671  2000  2000 D PhoneSwitcherNetworkRequstListener:   needNetworkFor
+09-04 21:37:10.674   672  4267 D InputDispatcher: Focused application set to: xxxx
+09-04 21:37:10.675   672  4267 D InputDispatcher: Focus left window: 10329
+09-04 21:37:10.686   672   741 D InputTransport: Input channel constructed: fd=391
+09-04 21:37:10.686   672   741 D InputTransport: Input channel constructed: fd=412
+09-04 21:37:10.687 10329 10329 D LifecycleMonitor: Lifecycle status change: com.betrybe.sociallogin.MainActivity@9aaf19b in: PAUSED
+09-04 21:37:10.687 10329 10329 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.betrybe.sociallogin.MainActivity@9aaf19b
+09-04 21:37:10.687 10329 10334 I art     : Do partial code cache collection, code=209KB, data=234KB
+09-04 21:37:10.688   672   741 D ViewRootImpl@6b5008[test]: setView = DecorView@5919d87[test] touchMode=true
+09-04 21:37:10.690 10329 10334 I art     : After code cache collection, code=205KB, data=231KB
+09-04 21:37:10.690 10329 10334 I art     : Increasing code cache capacity to 1024KB
+09-04 21:37:10.691 10593 10603 W art     : Suspending all threads took: 29.657ms
+09-04 21:37:10.693   672   741 D ViewRootImpl@6b5008[test]: dispatchAttachedToWindow
+09-04 21:37:10.695   295   295 I SurfaceFlinger: id=379 createSurf (1x1),1 flag=404, Starting com.betrybe.sociallogin.test
+09-04 21:37:10.725   672   741 D ViewRootImpl@6b5008[test]: Relayout returned: oldFrame=[0,0][0,0] newFrame=[0,0][720,1280] result=0x27 surface={isValid=true 1671051264} surfaceGenerationChanged=true
+09-04 21:37:10.761 10593 10638 I art     : Rejecting re-init on previously-failed class java.lang.Class<egy>: java.lang.NoClassDefFoundError: Failed resolution of: Landroid/content/pm/PackageManager$OnChecksumsReadyListener;
+09-04 21:37:10.761 10593 10638 I art     :   at java.util.List eev.q(efo, android.content.Context, agfo, eaq) (PG:5)
+09-04 21:37:10.761 10593 10638 I art     :   at java.util.List eew.q(efo, android.content.Context, agfo, eaq) (PG:4)
+09-04 21:37:10.761 10593 10638 I art     :   at void eev.r(efo, android.content.Context, agfo, eaq) (PG:1)
+09-04 21:37:10.761 10593 10638 I art     :   at agfo eev.l(android.content.Context, eaq) (PG:9)
+09-04 21:37:10.761 10593 10638 I art     :   at java.lang.String eer.q(android.content.Context, java.lang.String, int, android.view.View, android.app.Activity, byte[]) (PG:9)
+09-04 21:37:10.761 10593 10638 I art     :   at java.lang.String eer.f(android.content.Context, byte[]) (PG:3)
+09-04 21:37:10.761 10593 10638 I art     :   at java.lang.String lqf.b(mlq, byte[]) (PG:2)
+09-04 21:37:10.761 10593 10638 I art     :   at java.lang.String efb.t(android.content.Context, byte[]) (PG:2)
+09-04 21:37:10.761 10593 10638 I art     :   at java.lang.String rlf.b() (PG:3)
+09-04 21:37:10.761 10593 10638 I art     :   at java.lang.String rlh.b() (PG:11)
+09-04 21:37:10.761 10593 10638 I art     :   at void rlh.f() (PG:2)
+09-04 21:37:10.761 10593 10638 I art     :   at void dxh.run() (PG:20)
+09-04 21:37:10.761 10593 10638 I art     :   at void szj.run() (PG:7)
+09-04 21:37:10.761 10593 10638 I art     :   at void nso.run() (PG:23)
+09-04 21:37:10.761 10593 10638 I art     :   at void ntg.run() (PG:62)
+09-04 21:37:10.761 10593 10638 I art     :   at void sdi.run() (PG:58)
+09-04 21:37:10.761 10593 10638 I art     :   at void java.lang.Thread.run() (Thread.java:762)
+09-04 21:37:10.761 10593 10638 I art     : Caused by: java.lang.ClassNotFoundException: Didn't find class "android.content.pm.PackageManager$OnChecksumsReadyListener" on path: DexPathList[[zip file "/data/app/com.google.android.youtube-1/base.apk", zip file "/data/app/com.google.android.youtube-1/split_config.armeabi_v7a.apk", zip file "/data/app/com.google.android.youtube-1/split_config.pt.apk", zip file "/data/app/com.google.android.youtube-1/split_config.xhdpi.apk"],nativeLibraryDirectories=[/data/app/com.google.android.youtube-1/lib/arm, /data/app/com.google.android.youtube-1/base.apk!/lib/armeabi-v7a, /data/app/com.google.android.youtube-1/split_config.armeabi_v7a.apk!/lib/armeabi-v7a, /data/app/com.google.android.youtube-1/split_config.pt.apk!/lib/armeabi-v7a, /data/app/com.google.android.youtube-1/split_config.xhdpi.apk!/lib/armeabi-v7a, /system/lib, /vendor/lib]]
+09-04 21:37:10.761 10593 10638 I art     :   at java.lang.Class dalvik.system.BaseDexClassLoader.findClass(java.lang.String) (BaseDexClassLoader.java:56)
+09-04 21:37:10.761 10593 10638 I art     :   at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String, boolean) (ClassLoader.java:380)
+09-04 21:37:10.761 10593 10638 I art     :   at java.lang.Class java.lang.ClassLoader.loadClass(java.lang.String) (ClassLoader.java:312)
+09-04 21:37:10.761 10593 10638 I art     :   at java.util.List eev.q(efo, android.content.Context, agfo, eaq) (PG:5)
+09-04 21:37:10.761 10593 10638 I art     :   at java.util.List eew.q(efo, android.content.Context, agfo, eaq) (PG:4)
+09-04 21:37:10.761 10593 10638 I art     :   at void eev.r(efo, android.content.Context, agfo, eaq) (PG:1)
+09-04 21:37:10.761 10593 10638 I art     :   at agfo eev.l(android.content.Context, eaq) (PG:9)
+09-04 21:37:10.761 10593 10638 I art     :   at java.lang.String eer.q(android.content.Context, java.lang.String, int, android.view.View, android.app.Activity, byte[]) (PG:9)
+09-04 21:37:10.761 10593 10638 I art     :   at java.lang.String eer.f(android.content.Context, byte[]) (PG:3)
+09-04 21:37:10.761 10593 10638 I art     :   at java.lang.String lqf.b(mlq, byte[]) (PG:2)
+09-04 21:37:10.761 10593 10638 I art     :   at java.lang.String efb.t(android.content.Context, byte[]) (PG:2)
+09-04 21:37:10.761 10593 10638 I art     :   at java.lang.String rlf.b() (PG:3)
+09-04 21:37:10.762 10593 10638 I art     :   at java.lang.String rlh.b() (PG:11)
+09-04 21:37:10.762 10593 10638 I art     :   at void rlh.f() (PG:2)
+09-04 21:37:10.762 10593 10638 I art     :   at void dxh.run() (PG:20)
+09-04 21:37:10.762 10593 10638 I art     :   at void szj.run() (PG:7)
+09-04 21:37:10.762 10593 10638 I art     :   at void nso.run() (PG:23)
+09-04 21:37:10.762 10593 10638 I art     :   at void ntg.run() (PG:62)
+09-04 21:37:10.762 10593 10638 I art     :   at void sdi.run() (PG:58)
+09-04 21:37:10.762 10593 10638 I art     :   at void java.lang.Thread.run() (Thread.java:762)
+09-04 21:37:10.762 10593 10638 I art     :
+09-04 21:37:10.812 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: MSG_WINDOW_FOCUS_CHANGED 0
+09-04 21:37:10.824  2372  2397 D ForegroundUtils: could not check pending caller
+09-04 21:37:10.866   295   295 D SurfaceFlinger:   Display[0] configurations (* current):
+09-04 21:37:10.866   295   295 D SurfaceFlinger:     * 0: 720x1280, xdpi=281.352997, ydpi=282.713013, refresh=16666667
+09-04 21:37:10.866   295   295 D SurfaceFlinger:   numHwLayers=3, flags=00000000
+09-04 21:37:10.866   295   295 D SurfaceFlinger:     type   |  handle  | hint | flag | tr | blnd |   format    |     source crop (l,t,r,b)      |          frame         | name
+09-04 21:37:10.866   295   295 D SurfaceFlinger: -----------+----------+------+------+----+------+-------------+--------------------------------+------------------------+------
+09-04 21:37:10.866   295   295 D SurfaceFlinger:        HWC | a6a9d420 | 0002 | 0000 | 00 | 0100 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | Starting com.betrybe.sociallogin.test
+09-04 21:37:10.866   295   295 D SurfaceFlinger:        HWC | a6a9d120 | 0002 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0,   54.0 |    0,    0,  720,   54 | StatusBar
+09-04 21:37:10.866   295   295 D SurfaceFlinger:  FB TARGET | aa722560 | 0000 | 0000 | 00 | 0105 | RGBA_8888   |    0.0,    0.0,  720.0, 1280.0 |    0,    0,  720, 1280 | HWC_FRAMEBUFFER_TARGET
+09-04 21:37:10.874 10364 10364 D ViewRootImpl@d4972df[InstrumentationActivityInvoker$EmptyActivity]: ThreadedRenderer.create() translucent=false
+09-04 21:37:10.877   672  2420 D InputTransport: Input channel constructed: fd=422
+09-04 21:37:10.877   672  2420 D InputTransport: Input channel constructed: fd=423
+09-04 21:37:10.879   672  2420 D InputTransport: Input channel destroyed: fd=423
+09-04 21:37:10.880 10364 10364 D InputTransport: Input channel constructed: fd=63
+09-04 21:37:10.881 10364 10364 D ViewRootImpl@d4972df[InstrumentationActivityInvoker$EmptyActivity]: setView = DecorView@c00b2c[InstrumentationActivityInvoker$EmptyActivity] touchMode=true
+09-04 21:37:10.881   672  4678 D ActivityManager: post active user change for 0 fullscreen true isHomeActivity() false
+09-04 21:37:10.883 10364 10364 D ViewRootImpl@d4972df[InstrumentationActivityInvoker$EmptyActivity]: dispatchAttachedToWindow
+09-04 21:37:10.891   295   295 I SurfaceFlinger: id=380 createSurf (1x1),1 flag=404, com.betrybe.sociallogin.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+09-04 21:37:10.920   672   695 D InputDispatcher: Focus entered window: 10364
+09-04 21:37:10.929 10364 10364 D ViewRootImpl@d4972df[InstrumentationActivityInvoker$EmptyActivity]: Relayout returned: oldFrame=[0,0][0,0] newFrame=[0,0][720,1280] result=0x27 surface={isValid=true -2037407744} surfaceGenerationChanged=true
+09-04 21:37:10.931 10364 10364 D ViewRootImpl@d4972df[InstrumentationActivityInvoker$EmptyActivity]: mHardwareRenderer.initialize() mSurface={isValid=true -2037407744} hwInitialized=true
+09-04 21:37:10.938 10364 10364 D ViewRootImpl@d4972df[InstrumentationActivityInvoker$EmptyActivity]: MSG_RESIZED_REPORT: frame=Rect(0, 0 - 720, 1280) ci=Rect(0, 54 - 0, 0) vi=Rect(0, 54 - 0, 0) or=1
+09-04 21:37:10.938 10364 10364 D ViewRootImpl@d4972df[InstrumentationActivityInvoker$EmptyActivity]: MSG_WINDOW_FOCUS_CHANGED 1
+09-04 21:37:10.939 10364 10364 D ViewRootImpl@d4972df[InstrumentationActivityInvoker$EmptyActivity]: mHardwareRenderer.initializeIfNeeded()#2 mSurface={isValid=true -2037407744}
+09-04 21:37:10.939 10364 10364 V InputMethodManager: Starting input: tba=android.view.inputmethod.EditorInfo@53459f5 nm : com.betrybe.sociallogin.test ic=null
+09-04 21:37:10.939 10364 10364 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+09-04 21:37:10.940   672  2112 D InputMethodManagerService: windowGainedFocus : mCurrentFocusedUserId - 0 and mSecureKeypadEnabled-false
+09-04 21:37:10.940   672  2112 V InputMethodManagerService: windowGainedFocus : reason=WINDOW_FOCUS_GAIN client=android.os.BinderProxy@b69f8cd inputContext=null missingMethods= attribute=android.view.inputmethod.EditorInfo@3a6b67f nm = com.betrybe.sociallogin.test controlFlags=#104 softInputMode=#120 windowFlags=#3810100
+09-04 21:37:10.940   672  2112 V InputMethodManagerService: Unspecified window will hide input
+09-04 21:37:10.940   672  2112 V InputMethodManagerService: hideCurrentInputLocked : shouldHideSoftInput is false
+09-04 21:37:10.941   672  2112 D InputMethodManagerService: isImeSwitcherDisabledPackage : false
+09-04 21:37:10.941   672  2112 D InputMethodManagerService: setCurrentInputInfo - inputContext : null eidtorInfo : android.view.inputmethod.EditorInfo@3a6b67f missingMethods : 0
+09-04 21:37:10.941   672  2112 D InputTransport: Input channel constructed: fd=423
+09-04 21:37:10.941   672  2112 D InputTransport: Input channel destroyed: fd=423
+09-04 21:37:10.942 10364 10364 D InputTransport: Input channel constructed: fd=64
+09-04 21:37:10.943 29083 29083 I SKBD    : SamsungKeypad [IMI] onStartInput - caller pid : 10364, caller uid : 10168
+09-04 21:37:10.946   672  2113 D AudioService: GetAppDevice, uid=10150
+09-04 21:37:10.961   672  2978 D PackageManager: getComponentMetadataForIconTray : com.betrybe.sociallogin.MainActivity does not exist in mServices
+09-04 21:37:10.961   672  2978 D PackageManager: getComponentMetadataForIconTray : com.betrybe.sociallogin.MainActivity does not exist in mProviders
+09-04 21:37:10.961   672  2978 D PackageManager: getComponentMetadataForIconTray : com.betrybe.sociallogin.MainActivity does not exist in mReceivers
+09-04 21:37:10.962  2019  2019 D ApplicationPackageManager: updateItemMetaDataForFixedIconScale: package: com.betrybe.sociallogin
+09-04 21:37:10.962   672  3577 D PackageManager: getSelectedMetaData : packageName(com.betrybe.sociallogin) or Metadata strings {[Ljava.lang.String;@1fa3b9b}
+09-04 21:37:10.964  2019  2019 I ApplicationPackageManager: load=com.betrybe.sociallogin, bg=144-144, dr=108-108, forDefault=true, density=0
+09-04 21:37:10.965  2019  2019 I ApplicationPackageManager: scaled rate=201.0, size=108, alpha=11, hold=102
+09-04 21:37:10.965  2019  2019 D ApplicationPackageManager: iconScale: getScale(): 201.0 getAlpha(): 11
+09-04 21:37:10.966 10329 10358 D OpenGLRenderer: endAllActiveAnimators on 0x826b7500 (RippleDrawable) with handle 0x84afad40
+09-04 21:37:10.966 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: mHardwareRenderer.destroy()#1
+09-04 21:37:10.975 10329 10329 D ViewRootImpl@c5812d1[MainActivity]: Relayout returned: oldFrame=[0,0][720,1280] newFrame=[0,0][720,1280] result=0x5 surface={isValid=false 0} surfaceGenerationChanged=true
+09-04 21:37:10.977   672  2420 W MultiScreenManagerService: moveTaskBackToDisplayIfNeeded(): root is not base activity
+09-04 21:37:10.985   672   741 I ActivityManager: Displayed com.betrybe.sociallogin.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +290ms
+09-04 21:37:10.985 10329 10329 D InputTransport: Input channel destroyed: fd=71
+09-04 21:37:10.985 10329 10329 W IInputConnectionWrapper: reportFullscreenMode on inexistent InputConnection
+09-04 21:37:10.985 10329 10329 W IInputConnectionWrapper: finishComposingText on inactive InputConnection
+09-04 21:37:10.986  2019  2019 I ApplicationPackageManager: load=com.betrybe.sociallogin-crop, bg=86-86, dr=108-108
+09-04 21:37:11.000   672   741 D ViewRootImpl@6b5008[test]: dispatchDetachedFromWindow
+09-04 21:37:11.001  2372  2399 D ForegroundUtils: could not check pending caller
+09-04 21:37:11.002   672  4263 W MultiScreenManagerService: moveTaskBackToDisplayIfNeeded(): root is not base activity
+09-04 21:37:11.005   672   741 D InputTransport: Input channel destroyed: fd=391
+09-04 21:37:11.005   672   741 D InputTransport: Input channel destroyed: fd=412
+09-04 21:37:11.006   672   741 D ViewRootImpl@6315686[ContainerKeyguardScrim]: mHardwareRenderer.destroy()#1
+09-04 21:37:11.009   672  4263 W MultiScreenManagerService: moveTaskBackToDisplayIfNeeded(): root activity or app is null
+09-04 21:37:11.011 10329 10329 D LifecycleMonitor: Lifecycle status change: com.betrybe.sociallogin.MainActivity@9aaf19b in: STOPPED
+09-04 21:37:11.011 10329 10329 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.betrybe.sociallogin.MainActivity@9aaf19b
+09-04 21:37:11.013 10329 10329 D LifecycleMonitor: Lifecycle status change: com.betrybe.sociallogin.MainActivity@9aaf19b in: DESTROYED
+09-04 21:37:11.013 10329 10329 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+09-04 21:37:11.014 10329 10329 D Graph   : removeVertex() : insertDummyVertex, because there is no ancestor.
+09-04 21:37:11.014 10329 10346 I TestRunner: finished: test_req_8_implemente_a_validacao_do_campo_de_email(com.betrybe.sociallogin.MainActivityTest)

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">SocialLogin</string>
+    <string name="email">Email</string>
+    <string name="email_warning">Email inválido</string>
+    <string name="forgot_password">Esqueceu a senha?</string>
+    <string name="login">Entrar</string>
+    <string name="login_succeeded">Login efetuado com sucesso</string>
+    <string name="password">Senha</string>
+    <string name="password_warning">Senha deve ter mais de 4 caracteres</string>
+    <string name="signup">Criar nova conta</string>
+    <style name="Base.Theme.SocialLogin" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.SocialLogin" parent="Base.Theme.SocialLogin"/>
+</resources>

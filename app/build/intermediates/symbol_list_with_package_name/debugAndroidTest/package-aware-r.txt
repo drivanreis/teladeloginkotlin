@@ -1,0 +1,3 @@
+com.betrybe.sociallogin.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

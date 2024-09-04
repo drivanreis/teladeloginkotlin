@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.betrybe.sociallogin.MainActivityTest" tests="10" failures="0" errors="0" skipped="0" time="28.322" timestamp="2024-09-04T23:37:20" hostname="localhost">
+  <properties>
+    <property name="device" value="SM-J510MN - 7.1.1" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="test_req_6_crie_o_botao_de_cadastro" classname="com.betrybe.sociallogin.MainActivityTest" time="1.229" />
+  <testcase name="test_req_10_implemente_uma_mensagem_de_sucesso_no_login" classname="com.betrybe.sociallogin.MainActivityTest" time="4.477" />
+  <testcase name="test_req_7_implemente_a_regra_de_habilitacao_do_botao_entrar" classname="com.betrybe.sociallogin.MainActivityTest" time="4.803" />
+  <testcase name="test_req_2_crie_o_campo_de_email" classname="com.betrybe.sociallogin.MainActivityTest" time="0.956" />
+  <testcase name="test_req_1_crie_a_estrutura_inicial_da_tela_com_a_logo_da_rede_social" classname="com.betrybe.sociallogin.MainActivityTest" time="0.856" />
+  <testcase name="test_req_8_implemente_a_validacao_do_campo_de_email" classname="com.betrybe.sociallogin.MainActivityTest" time="5.583" />
+  <testcase name="test_req_9_implemente_a_validacao_do_campo_de_senha" classname="com.betrybe.sociallogin.MainActivityTest" time="5.406" />
+  <testcase name="test_req_5_crie_o_botao_de_recuperar_senha" classname="com.betrybe.sociallogin.MainActivityTest" time="0.833" />
+  <testcase name="test_req_3_crie_o_campo_de_senha" classname="com.betrybe.sociallogin.MainActivityTest" time="0.807" />
+  <testcase name="test_req_4_crie_o_botao_de_entrar" classname="com.betrybe.sociallogin.MainActivityTest" time="0.805" />
+</testsuite>

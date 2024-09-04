@@ -1,0 +1,536 @@
+# 2024-09-04T23:37:21.068Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 10
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "MainActivityTest"
+    test_package: "com.betrybe.sociallogin"
+    test_method: "test_req_6_crie_o_botao_de_cadastro"
+    start_time {
+      seconds: 1725493012
+      nanos: 587000000
+    }
+    end_time {
+      seconds: 1725493013
+      nanos: 881000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/logcat-com.betrybe.sociallogin.MainActivityTest-test_req_6_crie_o_botao_de_cadastro.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MainActivityTest"
+    test_package: "com.betrybe.sociallogin"
+    test_method: "test_req_10_implemente_uma_mensagem_de_sucesso_no_login"
+    start_time {
+      seconds: 1725493013
+      nanos: 923000000
+    }
+    end_time {
+      seconds: 1725493018
+      nanos: 436000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/logcat-com.betrybe.sociallogin.MainActivityTest-test_req_10_implemente_uma_mensagem_de_sucesso_no_login.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MainActivityTest"
+    test_package: "com.betrybe.sociallogin"
+    test_method: "test_req_7_implemente_a_regra_de_habilitacao_do_botao_entrar"
+    start_time {
+      seconds: 1725493018
+      nanos: 488000000
+    }
+    end_time {
+      seconds: 1725493023
+      nanos: 291000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/logcat-com.betrybe.sociallogin.MainActivityTest-test_req_7_implemente_a_regra_de_habilitacao_do_botao_entrar.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MainActivityTest"
+    test_package: "com.betrybe.sociallogin"
+    test_method: "test_req_2_crie_o_campo_de_email"
+    start_time {
+      seconds: 1725493023
+      nanos: 293000000
+    }
+    end_time {
+      seconds: 1725493024
+      nanos: 249000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/logcat-com.betrybe.sociallogin.MainActivityTest-test_req_2_crie_o_campo_de_email.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MainActivityTest"
+    test_package: "com.betrybe.sociallogin"
+    test_method: "test_req_1_crie_a_estrutura_inicial_da_tela_com_a_logo_da_rede_social"
+    start_time {
+      seconds: 1725493024
+      nanos: 278000000
+    }
+    end_time {
+      seconds: 1725493025
+      nanos: 134000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/logcat-com.betrybe.sociallogin.MainActivityTest-test_req_1_crie_a_estrutura_inicial_da_tela_com_a_logo_da_rede_social.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MainActivityTest"
+    test_package: "com.betrybe.sociallogin"
+    test_method: "test_req_8_implemente_a_validacao_do_campo_de_email"
+    start_time {
+      seconds: 1725493025
+      nanos: 161000000
+    }
+    end_time {
+      seconds: 1725493030
+      nanos: 739000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/logcat-com.betrybe.sociallogin.MainActivityTest-test_req_8_implemente_a_validacao_do_campo_de_email.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MainActivityTest"
+    test_package: "com.betrybe.sociallogin"
+    test_method: "test_req_9_implemente_a_validacao_do_campo_de_senha"
+    start_time {
+      seconds: 1725493030
+      nanos: 793000000
+    }
+    end_time {
+      seconds: 1725493036
+      nanos: 198000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/logcat-com.betrybe.sociallogin.MainActivityTest-test_req_9_implemente_a_validacao_do_campo_de_senha.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MainActivityTest"
+    test_package: "com.betrybe.sociallogin"
+    test_method: "test_req_5_crie_o_botao_de_recuperar_senha"
+    start_time {
+      seconds: 1725493036
+      nanos: 227000000
+    }
+    end_time {
+      seconds: 1725493037
+      nanos: 57000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/logcat-com.betrybe.sociallogin.MainActivityTest-test_req_5_crie_o_botao_de_recuperar_senha.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MainActivityTest"
+    test_package: "com.betrybe.sociallogin"
+    test_method: "test_req_3_crie_o_campo_de_senha"
+    start_time {
+      seconds: 1725493037
+      nanos: 84000000
+    }
+    end_time {
+      seconds: 1725493037
+      nanos: 889000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/logcat-com.betrybe.sociallogin.MainActivityTest-test_req_3_crie_o_campo_de_senha.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "MainActivityTest"
+    test_package: "com.betrybe.sociallogin"
+    test_method: "test_req_4_crie_o_botao_de_entrar"
+    start_time {
+      seconds: 1725493037
+      nanos: 892000000
+    }
+    end_time {
+      seconds: 1725493038
+      nanos: 697000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/logcat-com.betrybe.sociallogin.MainActivityTest-test_req_4_crie_o_botao_de_entrar.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "/home/eu/Documentos/GitHub/teladeloginkotlin/app/build/outputs/androidTest-results/connected/SM-J510MN - 7.1.1/testlog/test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}
